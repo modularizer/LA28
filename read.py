@@ -201,6 +201,7 @@ class Session:
         return s
 
     def to_json(self, *, include_events: bool = True, include_utc: bool = True, include_computable: bool = True) -> dict[str, Any]:
+        tz = self.start_time.tzinfo
         out = {
             "sport": self.sport,
             "venue": self.venue,
@@ -209,7 +210,11 @@ class Session:
             "type": self.type,
             "startsAt": _dt(self.start_time),
             "endsAt": _dt(self.end_time),
-            "timezone": self.start_time.tzinfo.key if self.start_time.tzinfo else None,
+            "timezone": (
+    tz.key if hasattr(tz, "key")
+    else tz.tzname(self.start_time) if tz
+    else None
+),
             "durationMinutes": int(self.duration.total_seconds() // 60),
             "inOKC": self.in_okc,
 
@@ -338,7 +343,7 @@ class Schedule(list):
             sessions = json.loads(path)
         else:
             with Path(path).open("r", encoding="utf-8") as f:
-                sessions = json.load(f)
+                sessions = json.loads(f.read())
         return cls([Session.from_json(session) for session in sessions])
 
     load = from_json
@@ -506,7 +511,9 @@ def export_sessions_csv(schedule: Schedule, path: str = "sessions.csv"):
 
 if __name__ == "__main__":
     url="https://la28.org/content/dam/latwentyeight/competition-schedule-imagery/uploaded-nov-12-2025/LA28OlympicGamesCompetitionScheduleByEventV2Final.pdf"
-    schedule = Schedule.fetch(url)
+    fresh = False
+    # fresh = True
+    schedule = Schedule.fetch(url) if fresh else Schedule.load('sessions.json')
 
     export_sessions_json(schedule, 'sessions.json')
     export_events_json(schedule, "events.json")
