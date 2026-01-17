@@ -1,0 +1,82 @@
+[
+  {
+    "name": "DTLA Arena",
+    "zone": "DTLA",
+    "address": "1111 S Figueroa St, Los Angeles, CA 90015",
+    "lat_lng": {"lat": 34.0429746, "lng": -118.2672242},
+    "plus": "2PVM+63 Los Angeles, California",
+    "google_maps": "https://www.google.com/maps/place/Crypto.com+Arena/@34.0429722,-118.2673953,101m/data=!3m2!1e3!5s0x80c2c7c770b43f6d:0x92a4367ff71d5181!4m6!3m5!1s0x80c2c7b85dea2a93:0x1ff47c3ceb7bb2d5!8m2!3d34.0430175!4d-118.2672541!16zL20vMDJrazVz?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+  },
+  {
+    "name": "LA Convention Center Hall 1",
+    "zone": "DTLA",
+    "address": "1201 S Figueroa St, Los Angeles, CA 90015",
+    "lat_lng": {"lat": 34.0403251, "lng": -118.2721373},
+    "plus": "2PRJ+45 Los Angeles, California",
+    "google_maps": "https://www.google.com/maps/place/Los+Angeles+Convention+Center/@34.0403251,-118.2721373,950m/data=!3m2!1e3!4b1!4m6!3m5!1s0x80c2c7c76a01ef3d:0xf629c020e23429b5!8m2!3d34.0403207!4d-118.2695624!16zL20vMDYwNTdq?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "name": "LA Convention Center Hall 2",
+    "zone": "DTLA",
+    "address": "1201 S Figueroa St, Los Angeles, CA 90015",
+    "lat_lng": {"lat": 34.0403251, "lng": -118.2721373},
+    "plus": "2PRJ+45 Los Angeles, California",
+    "google_maps": "https://www.google.com/maps/place/Los+Angeles+Convention+Center/@34.0403251,-118.2721373,950m/data=!3m2!1e3!4b1!4m6!3m5!1s0x80c2c7c76a01ef3d:0xf629c020e23429b5!8m2!3d34.0403207!4d-118.2695624!16zL20vMDYwNTdq?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "name": "LA Convention Center Hall 3",
+    "zone": "DTLA",
+    "address": "1201 S Figueroa St, Los Angeles, CA 90015",
+    "lat_lng": {"lat": 34.0403251, "lng": -118.2721373},
+    "plus": "2PRJ+45 Los Angeles, California",
+    "google_maps": "https://www.google.com/maps/place/Los+Angeles+Convention+Center/@34.0403251,-118.2721373,950m/data=!3m2!1e3!4b1!4m6!3m5!1s0x80c2c7c76a01ef3d:0xf629c020e23429b5!8m2!3d34.0403207!4d-118.2695624!16zL20vMDYwNTdq?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "name": "Dodger Stadium",
+    "zone": "DTLA",
+    "address": "1000 Vin Scully Ave, Los Angeles, CA 90012",
+    "lat_lng": {"lat": 34.0738554, "lng": -118.2425332},
+    "plus": "3QF6+G2 Los Angeles, California",
+    "google_maps": "https://www.google.com/maps/place/Dodger+Stadium/@34.0738554,-118.2425332,950m/data=!3m2!1e3!4b1!4m6!3m5!1s0x80c2c6f954005675:0x9e94554f839c09df!8m2!3d34.073851!4d-118.2399583!16zL20vMHB6cGs?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "name": "Peacock Theater",
+    "zone": "DTLA",
+    "address": "777 Chick Hearn Ct, Los Angeles, CA 90015",
+    "lat_lng": {"lat": 34.0444539, "lng": -118.2697259},
+    "plus": "2PVM+Q4 Los Angeles, California",
+    "google_maps": "https://www.google.com/maps/place/Peacock+Theater/@34.0444539,-118.2697259,1900m/data=!3m2!1e3!4b1!4m6!3m5!1s0x80c2c7b900ec5d7f:0xc71d771bd9c0cf0f!8m2!3d34.0444495!4d-118.267151!16s%2Fm%2F0hr0ybl?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "name": "LA Memorial Coliseum",
+    "zone": "Exposition Park",
+    "address": "3911 S Figueroa St, Los Angeles, CA 90037",
+    "lat_lng": {"lat": 34.0136691, "lng": -118.2904104},
+    "plus": "2P76+FV Los Angeles, California",
+    "google_maps": "https://www.google.com/maps/place/LA+Memorial+Coliseum/@34.0136691,-118.2904104,1901m/data=!3m3!1e3!4b1!5s0x80c2c80878693a29:0xad0170a7c5a85e45!4m6!3m5!1s0x80c2c807d74e67fb:0x54cf0a70d5943d36!8m2!3d34.0136647!4d-118.2878355!16zL20vMDJ6Ymox?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "name": "Exposition Park Stadium",
+    "zone": "Exposition Park",
+    "address": "3939 S Figueroa St, Los Angeles, CA 90037",
+    "lat_lng": {"lat": 34.0130188, "lng": -118.28499},
+    "plus": "2P78+49 Los Angeles, California",
+    "google_maps": "https://www.google.com/maps/place/BMO+Stadium/@34.0130188,-118.28499,205m/data=!3m1!1e3!4m10!1m2!2m1!1sexposition+park+stadium+los+angeles!3m6!1s0x80c2c808e06dbb59:0xc8caaad992248bdc!8m2!3d34.0127691!4d-118.284058!15sCiNleHBvc2l0aW9uIHBhcmsgc3RhZGl1bSBsb3MgYW5nZWxlc1olIiNleHBvc2l0aW9uIHBhcmsgc3RhZGl1bSBsb3MgYW5nZWxlc5IBB3N0YWRpdW2aASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTTNNVWwxUjJOUkVBReABAPoBBAgAEEE!16s%2Fg%2F11c3x93lgk?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "name": "Galen Center",
+    "zone": "Exposition Park",
+    "address": "3400 S Figueroa St, Los Angeles, CA 90089",
+    "lat_lng": {"lat": 34.0208471, "lng": -118.282453},
+    "plus": "2PCC+82 Los Angeles, California",
+    "google_maps": "https://www.google.com/maps/place/Galen+Center/@34.0208471,-118.282453,1900m/data=!3m2!1e3!4b1!4m6!3m5!1s0x80c2c7e1124ec94f:0x699dcec2392fdbb4!8m2!3d34.0208427!4d-118.2798781!16zL20vMDc3Zl81?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "name": "Port of Los Angeles",
+    "zone": "Port of Los Angeles",
+    "address": "Signal St, San Pedro, CA 90731",
+    "lat_lng": {"lat": 33.7289148, "lng": -118.2671917},
+    "plus": "PPGG+45 San Pedro, Los Angeles, CA",
+    "google_maps": "https://www.google.com/maps/place/Port+Of+Los+Angeles/@33.7289148,-118.2671917,2672m/data=!3m1!1e3!4m6!3m5!1s0x80dd37b615d3cd07:0x92a8df0806ffb057!8m2!3d33.7252654!4d-118.2745906!16s%2Fg%2F11gglt6xkp?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D"
+  }
+]

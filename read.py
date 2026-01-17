@@ -366,6 +366,10 @@ class Schedule(list):
         return list(set(x.venue for x in self))
 
     @property
+    def zones(self) -> list[str]:
+        return list(set(x.zone for x in self))
+
+    @property
     def types(self) -> list[str]:
         return list(set(x.types for x in self))
 
@@ -513,7 +517,7 @@ if __name__ == "__main__":
     url="https://la28.org/content/dam/latwentyeight/competition-schedule-imagery/uploaded-nov-12-2025/LA28OlympicGamesCompetitionScheduleByEventV2Final.pdf"
     fresh = False
     # fresh = True
-    schedule = Schedule.fetch(url) if fresh else Schedule.load('sessions.json')
+    s = x = schedule = Schedule.fetch(url) if fresh else Schedule.load('sessions.json')
 
     export_sessions_json(schedule, 'sessions.json')
     export_events_json(schedule, "events.json")
