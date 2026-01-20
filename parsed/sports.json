@@ -1,0 +1,359 @@
+[
+  {
+    "sport": "3x3 Basketball",
+    "venues": [
+      "Valley Complex 3"
+    ]
+  },
+  {
+    "sport": "Archery",
+    "venues": [
+      "Carson Stadium"
+    ]
+  },
+  {
+    "sport": "Artistic Gymnastics",
+    "venues": [
+      "DTLA Arena"
+    ]
+  },
+  {
+    "sport": "Artistic Swimming",
+    "venues": [
+      "Long Beach Aquatics Center"
+    ]
+  },
+  {
+    "sport": "Athletics (Marathon)",
+    "venues": [
+      "Venice Beach Boardwalk - Start"
+    ]
+  },
+  {
+    "sport": "Athletics (Race Walk)",
+    "venues": [
+      "TBD"
+    ]
+  },
+  {
+    "sport": "Athletics (Track & Field)",
+    "venues": [
+      "LA Memorial Coliseum"
+    ]
+  },
+  {
+    "sport": "BMX Freestyle",
+    "venues": [
+      "Valley Complex 1"
+    ]
+  },
+  {
+    "sport": "BMX Racing",
+    "venues": [
+      "Valley Complex 4"
+    ]
+  },
+  {
+    "sport": "Badminton",
+    "venues": [
+      "Galen Center"
+    ]
+  },
+  {
+    "sport": "Baseball",
+    "venues": [
+      "Dodger Stadium"
+    ]
+  },
+  {
+    "sport": "Basketball",
+    "venues": [
+      "Inglewood Dome"
+    ]
+  },
+  {
+    "sport": "Beach Volleyball",
+    "venues": [
+      "Alamitos Beach Stadium"
+    ]
+  },
+  {
+    "sport": "Boxing - Final Stages",
+    "venues": [
+      "DTLA Arena"
+    ]
+  },
+  {
+    "sport": "Boxing - Preliminary Stages",
+    "venues": [
+      "Peacock Theater"
+    ]
+  },
+  {
+    "sport": "Canoe Slalom",
+    "venues": [
+      "OKC Whitewater Center"
+    ]
+  },
+  {
+    "sport": "Canoe Sprint",
+    "venues": [
+      "Marine Stadium"
+    ]
+  },
+  {
+    "sport": "Cricket",
+    "venues": [
+      "Fairgrounds Cricket Stadium"
+    ]
+  },
+  {
+    "sport": "Cycling Road (Road Race)",
+    "venues": [
+      "Venice Beach Boardwalk - Start"
+    ]
+  },
+  {
+    "sport": "Cycling Road (Time Trial)",
+    "venues": [
+      "TBD"
+    ]
+  },
+  {
+    "sport": "Cycling Track",
+    "venues": [
+      "Carson Velodrome"
+    ]
+  },
+  {
+    "sport": "Diving",
+    "venues": [
+      "Rose Bowl Aquatics Center"
+    ]
+  },
+  {
+    "sport": "Equestrian",
+    "venues": [
+      "Santa Anita Park"
+    ]
+  },
+  {
+    "sport": "Fencing",
+    "venues": [
+      "LA Convention Center Hall 1"
+    ]
+  },
+  {
+    "sport": "Flag Football",
+    "venues": [
+      "Exposition Park Stadium"
+    ]
+  },
+  {
+    "sport": "Football (Soccer) - Final Stages",
+    "venues": [
+      "Rose Bowl Stadium"
+    ]
+  },
+  {
+    "sport": "Football (Soccer) - Preliminary Stages",
+    "venues": [
+      "TBD"
+    ]
+  },
+  {
+    "sport": "Golf",
+    "venues": [
+      "Riviera Country Club"
+    ]
+  },
+  {
+    "sport": "Handball",
+    "venues": [
+      "Long Beach Arena"
+    ]
+  },
+  {
+    "sport": "Hockey",
+    "venues": [
+      "Carson Field"
+    ]
+  },
+  {
+    "sport": "Judo",
+    "venues": [
+      "LA Convention Center Hall 2"
+    ]
+  },
+  {
+    "sport": "Lacrosse",
+    "venues": [
+      "Exposition Park Stadium"
+    ]
+  },
+  {
+    "sport": "Modern Pentathlon",
+    "venues": [
+      "Valley Complex 2"
+    ]
+  },
+  {
+    "sport": "Mountain Bike",
+    "venues": [
+      "Industry Hills MTB Course"
+    ]
+  },
+  {
+    "sport": "Open Water Swimming",
+    "venues": [
+      "Belmont Shore"
+    ]
+  },
+  {
+    "sport": "Rhythmic Gymnastics",
+    "venues": [
+      "Galen Center"
+    ]
+  },
+  {
+    "sport": "Rowing",
+    "venues": [
+      "Marine Stadium"
+    ]
+  },
+  {
+    "sport": "Rowing Coastal Beach Sprints",
+    "venues": [
+      "Belmont Shore"
+    ]
+  },
+  {
+    "sport": "Rugby Sevens",
+    "venues": [
+      "Carson Stadium"
+    ]
+  },
+  {
+    "sport": "Sailing (Dinghy, Skiff & Multihull)",
+    "venues": [
+      "Port of Los Angeles"
+    ]
+  },
+  {
+    "sport": "Sailing (Windsurfing & Kite)",
+    "venues": [
+      "Belmont Shore"
+    ]
+  },
+  {
+    "sport": "Shooting (Rifle & Pistol)",
+    "venues": [
+      "Long Beach Target Shooting Hall"
+    ]
+  },
+  {
+    "sport": "Shooting (Shotgun)",
+    "venues": [
+      "Whittier Narrows Clay Shooting Center"
+    ]
+  },
+  {
+    "sport": "Skateboarding (Park)",
+    "venues": [
+      "Valley Complex 2"
+    ]
+  },
+  {
+    "sport": "Skateboarding (Street)",
+    "venues": [
+      "Valley Complex 1"
+    ]
+  },
+  {
+    "sport": "Softball",
+    "venues": [
+      "OKC Softball Park"
+    ]
+  },
+  {
+    "sport": "Sport Climbing",
+    "venues": [
+      "Long Beach Climbing Theater"
+    ]
+  },
+  {
+    "sport": "Squash",
+    "venues": [
+      "Comcast Squash Center at Universal Studios"
+    ]
+  },
+  {
+    "sport": "Surfing",
+    "venues": [
+      "Trestles State Beach"
+    ]
+  },
+  {
+    "sport": "Swimming",
+    "venues": [
+      "2028 Stadium"
+    ]
+  },
+  {
+    "sport": "Table Tennis",
+    "venues": [
+      "LA Convention Center Hall 3"
+    ]
+  },
+  {
+    "sport": "Taekwondo",
+    "venues": [
+      "LA Convention Center Hall 1"
+    ]
+  },
+  {
+    "sport": "Tennis",
+    "venues": [
+      "Carson Center Court",
+      "Carson Court 1",
+      "Carson Court 2",
+      "Carson Courts 3-11"
+    ]
+  },
+  {
+    "sport": "Trampoline Gymnastics",
+    "venues": [
+      "DTLA Arena"
+    ]
+  },
+  {
+    "sport": "Triathlon",
+    "venues": [
+      "Venice Beach"
+    ]
+  },
+  {
+    "sport": "Volleyball",
+    "venues": [
+      "Honda Center"
+    ]
+  },
+  {
+    "sport": "Water Polo",
+    "venues": [
+      "Long Beach Aquatics Center"
+    ]
+  },
+  {
+    "sport": "Weightlifting",
+    "venues": [
+      "Peacock Theater"
+    ]
+  },
+  {
+    "sport": "Wrestling",
+    "venues": [
+      "LA Convention Center Hall 2"
+    ]
+  }
+]

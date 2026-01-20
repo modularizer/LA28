@@ -1,0 +1,370 @@
+[
+  {
+    "name": "Honda Center",
+    "address": "Honda Center, 2695, East Katella Avenue, Anaheim, Orange County, California, 92806, United States",
+    "lat_lng": {
+      "lat": 33.8078316,
+      "lng": -117.876534
+    }
+  },
+  {
+    "name": "Carson Velodrome",
+    "address": "Dignity Health Sports Park, 18400, South Avalon Boulevard, Carson, Los Angeles County, California, 90747, United States",
+    "lat_lng": {
+      "lat": 33.8642391,
+      "lng": -118.2610795
+    }
+  },
+  {
+    "name": "Valley Complex 1",
+    "address": "Sepulveda Basin Sports Complex, 6201, Balboa Boulevard, Encino Neighborhood Council District, Los Angeles, Los Angeles County, California, 91406, United States",
+    "lat_lng": {
+      "lat": 34.1829734,
+      "lng": -118.5035724
+    }
+  },
+  {
+    "name": "Valley Complex 2",
+    "address": "Sepulveda Basin Sports Complex, 6201, Balboa Boulevard, Encino Neighborhood Council District, Los Angeles, Los Angeles County, California, 91406, United States",
+    "lat_lng": {
+      "lat": 34.1829734,
+      "lng": -118.5035724
+    }
+  },
+  {
+    "name": "Valley Complex 3",
+    "address": "Sepulveda Basin Sports Complex, 6201, Balboa Boulevard, Encino Neighborhood Council District, Los Angeles, Los Angeles County, California, 91406, United States",
+    "lat_lng": {
+      "lat": 34.1829734,
+      "lng": -118.5035724
+    }
+  },
+  {
+    "name": "Valley Complex 4",
+    "address": "Sepulveda Basin Sports Complex, 6201, Balboa Boulevard, Encino Neighborhood Council District, Los Angeles, Los Angeles County, California, 91406, United States",
+    "lat_lng": {
+      "lat": 34.1829734,
+      "lng": -118.5035724
+    }
+  },
+  {
+    "name": "Long Beach Arena",
+    "address": "Long Beach Arena, 300, East Ocean Boulevard, Long Beach, Los Angeles County, California, 90802, United States",
+    "lat_lng": {
+      "lat": 33.7641077,
+      "lng": -118.188365
+    }
+  },
+  {
+    "name": "Long Beach Climbing Theater",
+    "address": "Long Beach Convention Center, 300, East Ocean Boulevard, Long Beach, Los Angeles County, California, 90802, United States",
+    "lat_lng": {
+      "lat": 33.764731,
+      "lng": -118.1906881
+    }
+  },
+  {
+    "name": "Long Beach Target Shooting Hall",
+    "address": "Long Beach Convention Center, 300, East Ocean Boulevard, Long Beach, Los Angeles County, California, 90802, United States",
+    "lat_lng": {
+      "lat": 33.764731,
+      "lng": -118.1906881
+    }
+  },
+  {
+    "name": "Long Beach Aquatics Center",
+    "address": "Long Beach Convention Center, 300, East Ocean Boulevard, Long Beach, Los Angeles County, California, 90802, United States",
+    "lat_lng": {
+      "lat": 33.764731,
+      "lng": -118.1906881
+    }
+  },
+  {
+    "name": "Alamitos Beach Stadium",
+    "address": "Alamitos Bay Beach, Belmont Shore, Long Beach, Los Angeles County, California, United States",
+    "lat_lng": {
+      "lat": 33.7550395,
+      "lng": -118.1319451
+    }
+  },
+  {
+    "name": "Belmont Shore",
+    "address": "Belmont Shore, Long Beach, Los Angeles County, California, 90803, United States",
+    "lat_lng": {
+      "lat": 33.7572435,
+      "lng": -118.1370107
+    }
+  },
+  {
+    "name": "Marine Stadium",
+    "address": "Long Beach Marine Stadium, Boathouse Lane, Marina Pacifica, Naples, Long Beach, Los Angeles County, California, 90803, United States",
+    "lat_lng": {
+      "lat": 33.7624042,
+      "lng": -118.121792
+    }
+  },
+  {
+    "name": "Exposition Park Stadium",
+    "address": "BMO Stadium, South Coliseum Drive, Exposition Park, Los Angeles, Los Angeles County, California, 90037, United States",
+    "lat_lng": {
+      "lat": 34.012814,
+      "lng": -118.2840892
+    }
+  },
+  {
+    "name": "LA Memorial Coliseum",
+    "address": "Los Angeles Memorial Coliseum, 3911, South Figueroa Street, Los Angeles, Los Angeles County, California, 90037, United States",
+    "lat_lng": {
+      "lat": 34.0139159,
+      "lng": -118.2877996
+    }
+  },
+  {
+    "name": "Rose Bowl Stadium",
+    "address": "Rose Bowl Stadium, Stivers Way, Pasadena Council District 1, Pasadena, Los Angeles County, California, 91109, United States",
+    "lat_lng": {
+      "lat": 34.1613492,
+      "lng": -118.1676674
+    }
+  },
+  {
+    "name": "Rose Bowl Aquatics Center",
+    "address": "Rose Bowl Aquatics Center, Arroyo Boulevard, Pasadena Council District 1, Pasadena, Los Angeles County, California, 91102, United States",
+    "lat_lng": {
+      "lat": 34.1512722,
+      "lng": -118.1643208
+    }
+  },
+  {
+    "name": "Dodger Stadium",
+    "address": "Dodger Stadium, 1000, Vin Scully Avenue, Chinatown, Los Angeles, Los Angeles County, California, 90012, United States",
+    "lat_lng": {
+      "lat": 34.0736255,
+      "lng": -118.2398452
+    }
+  },
+  {
+    "name": "Galen Center",
+    "address": "Galen Center, South Figueroa Street, University Park, Historic South-Central, Los Angeles, Los Angeles County, California, 90089, United States",
+    "lat_lng": {
+      "lat": 34.020753,
+      "lng": -118.2797965
+    }
+  },
+  {
+    "name": "Peacock Theater",
+    "address": "Peacock Theater, 777, Chick Hearn Court, South Park, Downtown, Los Angeles, Los Angeles County, California, 90015, United States",
+    "lat_lng": {
+      "lat": 34.0445026,
+      "lng": -118.2670716
+    }
+  },
+  {
+    "name": "DTLA Arena",
+    "address": "Crypto.com Arena, 1111, South Figueroa Street, South Park, Downtown, Los Angeles, Los Angeles County, California, 90015, United States",
+    "lat_lng": {
+      "lat": 34.0429979,
+      "lng": -118.2671352
+    }
+  },
+  {
+    "name": "LA Convention Center Hall 1",
+    "address": "Los Angeles Convention Center, 1201, South Figueroa Street, South Park, Los Angeles, Los Angeles County, California, 90074, United States",
+    "lat_lng": {
+      "lat": 34.0414677,
+      "lng": -118.2689803
+    }
+  },
+  {
+    "name": "LA Convention Center Hall 2",
+    "address": "Los Angeles Convention Center, 1201, South Figueroa Street, South Park, Los Angeles, Los Angeles County, California, 90074, United States",
+    "lat_lng": {
+      "lat": 34.0414677,
+      "lng": -118.2689803
+    }
+  },
+  {
+    "name": "LA Convention Center Hall 3",
+    "address": "Los Angeles Convention Center, 1201, South Figueroa Street, South Park, Los Angeles, Los Angeles County, California, 90074, United States",
+    "lat_lng": {
+      "lat": 34.0414677,
+      "lng": -118.2689803
+    }
+  },
+  {
+    "name": "Carson Stadium",
+    "address": "Dignity Health Sports Park, 18400, South Avalon Boulevard, Carson, Los Angeles County, California, 90747, United States",
+    "lat_lng": {
+      "lat": 33.8642391,
+      "lng": -118.2610795
+    }
+  },
+  {
+    "name": "Carson Field",
+    "address": "Dignity Health Sports Park, 18400, South Avalon Boulevard, Carson, Los Angeles County, California, 90747, United States",
+    "lat_lng": {
+      "lat": 33.8642391,
+      "lng": -118.2610795
+    }
+  },
+  {
+    "name": "Carson Center Court",
+    "address": "Dignity Health Sports Park, 18400, South Avalon Boulevard, Carson, Los Angeles County, California, 90747, United States",
+    "lat_lng": {
+      "lat": 33.8642391,
+      "lng": -118.2610795
+    }
+  },
+  {
+    "name": "Carson Court 1",
+    "address": "Dignity Health Sports Park, 18400, South Avalon Boulevard, Carson, Los Angeles County, California, 90747, United States",
+    "lat_lng": {
+      "lat": 33.8642391,
+      "lng": -118.2610795
+    }
+  },
+  {
+    "name": "Carson Court 2",
+    "address": "Dignity Health Sports Park, 18400, South Avalon Boulevard, Carson, Los Angeles County, California, 90747, United States",
+    "lat_lng": {
+      "lat": 33.8642391,
+      "lng": -118.2610795
+    }
+  },
+  {
+    "name": "Carson Courts 3-11",
+    "address": "Dignity Health Sports Park, 18400, South Avalon Boulevard, Carson, Los Angeles County, California, 90747, United States",
+    "lat_lng": {
+      "lat": 33.8642391,
+      "lng": -118.2610795
+    }
+  },
+  {
+    "name": "Venice Beach",
+    "address": "Venice Beach, Venice, Los Angeles, Los Angeles County, California, United States",
+    "lat_lng": {
+      "lat": 33.9799601,
+      "lng": -118.468771
+    }
+  },
+  {
+    "name": "Venice Beach Boardwalk - Start",
+    "address": "Venice Beach Boardwalk, Venice, Los Angeles, Los Angeles County, California, United States",
+    "lat_lng": {
+      "lat": 33.9867133,
+      "lng": -118.4741048
+    }
+  },
+  {
+    "name": "Riviera Country Club",
+    "address": "Riviera Country Club, 1250, Capri Drive, Los Angeles, Los Angeles County, California, 90272, United States",
+    "lat_lng": {
+      "lat": 34.0451645,
+      "lng": -118.5024932
+    }
+  },
+  {
+    "name": "Santa Anita Park",
+    "address": "Santa Anita Park, Colorado Street, Arcadia, Los Angeles County, California, 91066, United States",
+    "lat_lng": {
+      "lat": 34.1389561,
+      "lng": -118.0458877
+    }
+  },
+  {
+    "name": "Inglewood Dome",
+    "address": "SoFi Stadium, 1001, Champion Drive, Hollywood Park, Inglewood, Los Angeles County, California, 90301, United States",
+    "lat_lng": {
+      "lat": 33.9534074,
+      "lng": -118.3390098
+    }
+  },
+  {
+    "name": "2028 Stadium",
+    "address": "SoFi Stadium, 1001, Champion Drive, Hollywood Park, Inglewood, Los Angeles County, California, 90301, United States",
+    "lat_lng": {
+      "lat": 33.9534074,
+      "lng": -118.3390098
+    }
+  },
+  {
+    "name": "Port of Los Angeles",
+    "address": "Port of Los Angeles, Los Angeles, Los Angeles County, California, 90731, United States",
+    "lat_lng": {
+      "lat": 33.7419505,
+      "lng": -118.2612367
+    }
+  },
+  {
+    "name": "Industry Hills MTB Course",
+    "address": "The Industry Hills Golf Club (Dwight D Eisenhower & Babe Zaharias), 1, Industry Hills Parkway, City of Industry, Los Angeles County, California, 91744, United States",
+    "lat_lng": {
+      "lat": 34.0214852,
+      "lng": -117.928133
+    }
+  },
+  {
+    "name": "Whittier Narrows Clay Shooting Center",
+    "address": "Whittier Narrows Recreation Area, Whittier Narrows, South El Monte, Los Angeles County, California, United States",
+    "lat_lng": {
+      "lat": 34.03502,
+      "lng": -118.0510434
+    }
+  },
+  {
+    "name": "Trestles State Beach",
+    "address": "San Onofre State Beach, San Clemente, San Diego County, California, United States",
+    "lat_lng": {
+      "lat": 33.4224773,
+      "lng": -117.5807401
+    }
+  },
+  {
+    "name": "Comcast Squash Center at Universal Studios",
+    "address": "Universal Studios Hollywood, 100, Universal Hollywood Drive Turnaround, Universal City, Los Angeles County, California, 91608, United States",
+    "lat_lng": {
+      "lat": 34.1392322,
+      "lng": -118.3543834
+    }
+  },
+  {
+    "name": "Fairgrounds Cricket Stadium",
+    "address": "Pomona Raceway, Fairplex Drive, Pomona, Los Angeles County, California, 91768, United States",
+    "lat_lng": {
+      "lat": 34.0894902,
+      "lng": -117.772518
+    }
+  },
+  {
+    "name": "OKC Softball Park",
+    "address": "Devon Park, Northeast 50th Street, Oklahoma City, Oklahoma County, Oklahoma, 73111, United States",
+    "lat_lng": {
+      "lat": 35.5247119,
+      "lng": -97.4642798
+    }
+  },
+  {
+    "name": "OKC Whitewater Center",
+    "address": "Riversport Rapids, Greenway Trail, Oklahoma City, Oklahoma County, Oklahoma, 73102, United States",
+    "lat_lng": {
+      "lat": 35.4598977,
+      "lng": -97.4987041
+    }
+  },
+  {
+    "name": "N/A",
+    "address": null,
+    "lat_lng": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "TBD",
+    "address": null,
+    "lat_lng": {
+      "lat": null,
+      "lng": null
+    }
+  }
+]

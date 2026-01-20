@@ -1,0 +1,142 @@
+[
+  {
+    "zone": "Anaheim",
+    "venues": [
+      "Honda Center"
+    ]
+  },
+  {
+    "zone": "Arcadia",
+    "venues": [
+      "Santa Anita Park"
+    ]
+  },
+  {
+    "zone": "Carson",
+    "venues": [
+      "Carson Stadium",
+      "Carson Velodrome",
+      "Carson Field",
+      "Carson Center Court",
+      "Carson Court 1",
+      "Carson Court 2",
+      "Carson Courts 3-11"
+    ]
+  },
+  {
+    "zone": "City of Industry",
+    "venues": [
+      "Industry Hills MTB Course"
+    ]
+  },
+  {
+    "zone": "DTLA",
+    "venues": [
+      "DTLA Arena",
+      "Dodger Stadium",
+      "Peacock Theater",
+      "LA Convention Center Hall 1",
+      "LA Convention Center Hall 2",
+      "LA Convention Center Hall 3"
+    ]
+  },
+  {
+    "zone": "Exposition Park",
+    "venues": [
+      "LA Memorial Coliseum",
+      "Galen Center",
+      "Exposition Park Stadium"
+    ]
+  },
+  {
+    "zone": "Inglewood",
+    "venues": [
+      "Inglewood Dome",
+      "2028 Stadium"
+    ]
+  },
+  {
+    "zone": "Long Beach",
+    "venues": [
+      "Long Beach Aquatics Center",
+      "Alamitos Beach Stadium",
+      "Marine Stadium",
+      "Long Beach Arena",
+      "Belmont Shore",
+      "Long Beach Target Shooting Hall",
+      "Long Beach Climbing Theater"
+    ]
+  },
+  {
+    "zone": "OKC",
+    "venues": [
+      "OKC Softball Park",
+      "OKC Whitewater Center"
+    ]
+  },
+  {
+    "zone": "Pasadena",
+    "venues": [
+      "Rose Bowl Aquatics Center",
+      "Rose Bowl Stadium"
+    ]
+  },
+  {
+    "zone": "Pomona",
+    "venues": [
+      "Fairgrounds Cricket Stadium"
+    ]
+  },
+  {
+    "zone": "Port of Los Angeles",
+    "venues": [
+      "Port of Los Angeles"
+    ]
+  },
+  {
+    "zone": "Riviera",
+    "venues": [
+      "Riviera Country Club"
+    ]
+  },
+  {
+    "zone": "TBD",
+    "venues": [
+      "TBD"
+    ]
+  },
+  {
+    "zone": "Trestles Beach",
+    "venues": [
+      "Trestles State Beach"
+    ]
+  },
+  {
+    "zone": "Universal City",
+    "venues": [
+      "Comcast Squash Center at Universal Studios"
+    ]
+  },
+  {
+    "zone": "Valley",
+    "venues": [
+      "Valley Complex 3",
+      "Valley Complex 1",
+      "Valley Complex 4",
+      "Valley Complex 2"
+    ]
+  },
+  {
+    "zone": "Venice",
+    "venues": [
+      "Venice Beach Boardwalk - Start",
+      "Venice Beach"
+    ]
+  },
+  {
+    "zone": "Whittier Narrows",
+    "venues": [
+      "Whittier Narrows Clay Shooting Center"
+    ]
+  }
+]

@@ -1,0 +1,846 @@
+code,day,sport,venue,zone,type,starts_at,ends_at,timezone,duration_minutes,ticketed,in_okc,num_events
+FBL01,-2,Football (Soccer) - Preliminary Stages,TBD,TBD,Preliminary,2028-07-12T00:00:00,2028-07-12T23:59:00,America/Los_Angeles,1439,True,False,1
+FBL02,-2,Football (Soccer) - Preliminary Stages,TBD,TBD,Preliminary,2028-07-12T00:00:00,2028-07-12T23:59:00,America/Los_Angeles,1439,True,False,1
+FBL03,-2,Football (Soccer) - Preliminary Stages,TBD,TBD,Preliminary,2028-07-12T00:00:00,2028-07-12T23:59:00,America/Los_Angeles,1439,True,False,1
+FBL04,-2,Football (Soccer) - Preliminary Stages,TBD,TBD,Preliminary,2028-07-12T00:00:00,2028-07-12T23:59:00,America/Los_Angeles,1439,True,False,1
+FBL05,-2,Football (Soccer) - Preliminary Stages,TBD,TBD,Preliminary,2028-07-12T00:00:00,2028-07-12T23:59:00,America/Los_Angeles,1439,True,False,1
+FBL06,-2,Football (Soccer) - Preliminary Stages,TBD,TBD,Preliminary,2028-07-12T00:00:00,2028-07-12T23:59:00,America/Los_Angeles,1439,True,False,1
+CKT01,-2,Cricket,Fairgrounds Cricket Stadium,Pomona,Preliminary,2028-07-12T09:00:00,2028-07-12T12:30:00,America/Los_Angeles,210,True,False,1
+HBL01,-2,Handball,Long Beach Arena,Long Beach,Preliminary,2028-07-12T09:00:00,2028-07-12T12:30:00,America/Los_Angeles,210,True,False,1
+HOC01,-2,Hockey,Carson Field,Carson,Preliminary,2028-07-12T09:00:00,2028-07-12T14:00:00,America/Los_Angeles,300,True,False,1
+RU701,-2,Rugby Sevens,Carson Stadium,Carson,Preliminary,2028-07-12T10:00:00,2028-07-12T13:00:00,America/Los_Angeles,180,True,False,1
+WPO01,-2,Water Polo,Long Beach Aquatics Center,Long Beach,Preliminary,2028-07-12T10:00:00,2028-07-12T13:00:00,America/Los_Angeles,180,True,False,1
+BKB01,-2,Basketball,Inglewood Dome,Inglewood,Preliminary,2028-07-12T12:00:00,2028-07-12T16:15:00,America/Los_Angeles,255,True,False,1
+HBL02,-2,Handball,Long Beach Arena,Long Beach,Preliminary,2028-07-12T14:00:00,2028-07-12T17:30:00,America/Los_Angeles,210,True,False,1
+WPO02,-2,Water Polo,Long Beach Aquatics Center,Long Beach,Preliminary,2028-07-12T14:30:00,2028-07-12T17:30:00,America/Los_Angeles,180,True,False,1
+RU702,-2,Rugby Sevens,Carson Stadium,Carson,Preliminary,2028-07-12T16:00:00,2028-07-12T19:00:00,America/Los_Angeles,180,True,False,1
+HOC02,-2,Hockey,Carson Field,Carson,Preliminary,2028-07-12T17:00:00,2028-07-12T22:00:00,America/Los_Angeles,300,True,False,1
+BKB02,-2,Basketball,Inglewood Dome,Inglewood,Preliminary,2028-07-12T18:00:00,2028-07-12T19:45:00,America/Los_Angeles,105,True,False,1
+CKT02,-2,Cricket,Fairgrounds Cricket Stadium,Pomona,Preliminary,2028-07-12T18:00:00,2028-07-12T21:30:00,America/Los_Angeles,210,True,False,1
+HBL03,-2,Handball,Long Beach Arena,Long Beach,Preliminary,2028-07-12T19:00:00,2028-07-12T22:30:00,America/Los_Angeles,210,True,False,1
+WPO03,-2,Water Polo,Long Beach Aquatics Center,Long Beach,Preliminary,2028-07-12T19:00:00,2028-07-12T22:00:00,America/Los_Angeles,180,True,False,1
+BKB03,-2,Basketball,Inglewood Dome,Inglewood,Preliminary,2028-07-12T21:30:00,2028-07-12T23:15:00,America/Los_Angeles,105,True,False,1
+FBL07,-1,Football (Soccer) - Preliminary Stages,TBD,TBD,Preliminary,2028-07-13T00:00:00,2028-07-13T23:59:00,America/Los_Angeles,1439,True,False,1
+FBL08,-1,Football (Soccer) - Preliminary Stages,TBD,TBD,Preliminary,2028-07-13T00:00:00,2028-07-13T23:59:00,America/Los_Angeles,1439,True,False,1
+FBL09,-1,Football (Soccer) - Preliminary Stages,TBD,TBD,Preliminary,2028-07-13T00:00:00,2028-07-13T23:59:00,America/Los_Angeles,1439,True,False,1
+FBL10,-1,Football (Soccer) - Preliminary Stages,TBD,TBD,Preliminary,2028-07-13T00:00:00,2028-07-13T23:59:00,America/Los_Angeles,1439,True,False,1
+FBL11,-1,Football (Soccer) - Preliminary Stages,TBD,TBD,Preliminary,2028-07-13T00:00:00,2028-07-13T23:59:00,America/Los_Angeles,1439,True,False,1
+FBL12,-1,Football (Soccer) - Preliminary Stages,TBD,TBD,Preliminary,2028-07-13T00:00:00,2028-07-13T23:59:00,America/Los_Angeles,1439,True,False,1
+FBL13,-1,Football (Soccer) - Preliminary Stages,TBD,TBD,Preliminary,2028-07-13T00:00:00,2028-07-13T23:59:00,America/Los_Angeles,1439,True,False,1
+FBL14,-1,Football (Soccer) - Preliminary Stages,TBD,TBD,Preliminary,2028-07-13T00:00:00,2028-07-13T23:59:00,America/Los_Angeles,1439,True,False,1
+CKT03,-1,Cricket,Fairgrounds Cricket Stadium,Pomona,Preliminary,2028-07-13T09:00:00,2028-07-13T12:30:00,America/Los_Angeles,210,True,False,1
+HBL04,-1,Handball,Long Beach Arena,Long Beach,Preliminary,2028-07-13T09:00:00,2028-07-13T12:30:00,America/Los_Angeles,210,True,False,1
+HOC03,-1,Hockey,Carson Field,Carson,Preliminary,2028-07-13T09:00:00,2028-07-13T14:00:00,America/Los_Angeles,300,True,False,1
+RU703,-1,Rugby Sevens,Carson Stadium,Carson,Preliminary,2028-07-13T10:00:00,2028-07-13T13:00:00,America/Los_Angeles,180,True,False,1
+WPO04,-1,Water Polo,Long Beach Aquatics Center,Long Beach,Preliminary,2028-07-13T10:00:00,2028-07-13T13:00:00,America/Los_Angeles,180,True,False,1
+BSB01,-1,Baseball,Dodger Stadium,DTLA,Preliminary,2028-07-13T11:00:00,2028-07-13T14:00:00,America/Los_Angeles,180,True,False,1
+BKB04,-1,Basketball,Inglewood Dome,Inglewood,Preliminary,2028-07-13T12:00:00,2028-07-13T16:15:00,America/Los_Angeles,255,True,False,1
+HBL05,-1,Handball,Long Beach Arena,Long Beach,Preliminary,2028-07-13T14:00:00,2028-07-13T17:30:00,America/Los_Angeles,210,True,False,1
+WPO05,-1,Water Polo,Long Beach Aquatics Center,Long Beach,Preliminary,2028-07-13T14:30:00,2028-07-13T17:30:00,America/Los_Angeles,180,True,False,1
+RU704,-1,Rugby Sevens,Carson Stadium,Carson,Quarterfinal,2028-07-13T16:00:00,2028-07-13T19:00:00,America/Los_Angeles,180,True,False,2
+HOC04,-1,Hockey,Carson Field,Carson,Preliminary,2028-07-13T17:00:00,2028-07-13T22:00:00,America/Los_Angeles,300,True,False,1
+BKB05,-1,Basketball,Inglewood Dome,Inglewood,Preliminary,2028-07-13T18:00:00,2028-07-13T19:45:00,America/Los_Angeles,105,True,False,1
+CKT04,-1,Cricket,Fairgrounds Cricket Stadium,Pomona,Preliminary,2028-07-13T18:00:00,2028-07-13T21:30:00,America/Los_Angeles,210,True,False,1
+BSB02,-1,Baseball,Dodger Stadium,DTLA,Preliminary,2028-07-13T19:00:00,2028-07-13T22:00:00,America/Los_Angeles,180,True,False,1
+HBL06,-1,Handball,Long Beach Arena,Long Beach,Preliminary,2028-07-13T19:00:00,2028-07-13T22:30:00,America/Los_Angeles,210,True,False,1
+WPO06,-1,Water Polo,Long Beach Aquatics Center,Long Beach,Preliminary,2028-07-13T19:00:00,2028-07-13T22:00:00,America/Los_Angeles,180,True,False,1
+BKB06,-1,Basketball,Inglewood Dome,Inglewood,Preliminary,2028-07-13T21:30:00,2028-07-13T23:15:00,America/Los_Angeles,105,True,False,1
+CSL01,0,Canoe Slalom,OKC Whitewater Center,OKC,Preliminary,2028-07-14T09:00:00,2028-07-14T12:10:00,America/Chicago,190,True,True,2
+FBL15,1,Football (Soccer) - Preliminary Stages,TBD,TBD,Preliminary,2028-07-15T00:00:00,2028-07-15T23:59:00,America/Los_Angeles,1439,True,False,1
+FBL16,1,Football (Soccer) - Preliminary Stages,TBD,TBD,Preliminary,2028-07-15T00:00:00,2028-07-15T23:59:00,America/Los_Angeles,1439,True,False,1
+FBL17,1,Football (Soccer) - Preliminary Stages,TBD,TBD,Preliminary,2028-07-15T00:00:00,2028-07-15T23:59:00,America/Los_Angeles,1439,True,False,1
+FBL18,1,Football (Soccer) - Preliminary Stages,TBD,TBD,Preliminary,2028-07-15T00:00:00,2028-07-15T23:59:00,America/Los_Angeles,1439,True,False,1
+FBL19,1,Football (Soccer) - Preliminary Stages,TBD,TBD,Preliminary,2028-07-15T00:00:00,2028-07-15T23:59:00,America/Los_Angeles,1439,True,False,1
+FBL20,1,Football (Soccer) - Preliminary Stages,TBD,TBD,Preliminary,2028-07-15T00:00:00,2028-07-15T23:59:00,America/Los_Angeles,1439,True,False,1
+SRF01,1,Surfing,Trestles State Beach,Trestles Beach,Preliminary,2028-07-15T07:00:00,2028-07-15T16:30:00,America/Los_Angeles,570,True,False,2
+TRI01,1,Triathlon,Venice Beach,Venice,Final,2028-07-15T07:30:00,2028-07-15T10:10:00,America/Los_Angeles,160,True,False,1
+BDM01,1,Badminton,Galen Center,Exposition Park,Preliminary,2028-07-15T08:00:00,2028-07-15T12:15:00,America/Los_Angeles,255,True,False,5
+ATH01,1,Athletics (Track & Field),LA Memorial Coliseum,Exposition Park,Preliminary,2028-07-15T09:00:00,2028-07-15T13:30:00,America/Los_Angeles,270,True,False,9
+VBV01,1,Beach Volleyball,Alamitos Beach Stadium,Long Beach,Preliminary,2028-07-15T09:00:00,2028-07-15T12:00:00,America/Los_Angeles,180,True,False,1
+CKT05,1,Cricket,Fairgrounds Cricket Stadium,Pomona,Preliminary,2028-07-15T09:00:00,2028-07-15T12:30:00,America/Los_Angeles,210,True,False,1
+EQU01,1,Equestrian,Santa Anita Park,Arcadia,Preliminary,2028-07-15T09:00:00,2028-07-15T11:30:00,America/Los_Angeles,150,True,False,1
+FEN01,1,Fencing,LA Convention Center Hall 1,DTLA,Quarterfinal,2028-07-15T09:00:00,2028-07-15T15:40:00,America/Los_Angeles,400,True,False,8
+HBL07,1,Handball,Long Beach Arena,Long Beach,Preliminary,2028-07-15T09:00:00,2028-07-15T12:30:00,America/Los_Angeles,210,True,False,1
+HOC05,1,Hockey,Carson Field,Carson,Preliminary,2028-07-15T09:00:00,2028-07-15T14:00:00,America/Los_Angeles,300,True,False,1
+MPN01,1,Modern Pentathlon,Valley Complex 2,Valley,Semifinal,2028-07-15T09:00:00,2028-07-15T13:30:00,America/Los_Angeles,270,True,False,1
+VVO01,1,Volleyball,Honda Center,Anaheim,Preliminary,2028-07-15T09:00:00,2028-07-15T11:30:00,America/Los_Angeles,150,True,False,1
+CSL02,1,Canoe Slalom,OKC Whitewater Center,OKC,Final,2028-07-15T10:00:00,2028-07-15T13:10:00,America/Chicago,190,True,True,2
+JUD01,1,Judo,LA Convention Center Hall 2,DTLA,Preliminary,2028-07-15T10:00:00,2028-07-15T14:00:00,America/Los_Angeles,240,True,False,2
+TTE01,1,Table Tennis,LA Convention Center Hall 3,DTLA,Preliminary,2028-07-15T10:00:00,2028-07-15T13:00:00,America/Los_Angeles,180,True,False,3
+WPO07,1,Water Polo,Long Beach Aquatics Center,Long Beach,Preliminary,2028-07-15T10:00:00,2028-07-15T13:00:00,America/Los_Angeles,180,True,False,1
+BMX01,1,BMX Racing,Valley Complex 4,Valley,Quarterfinal,2028-07-15T10:30:00,2028-07-15T12:50:00,America/Los_Angeles,140,True,False,4
+BSB03,1,Baseball,Dodger Stadium,DTLA,Preliminary,2028-07-15T11:00:00,2028-07-15T14:00:00,America/Los_Angeles,180,True,False,1
+GAR01,1,Artistic Gymnastics,DTLA Arena,DTLA,Preliminary,2028-07-15T11:30:00,2028-07-15T14:00:00,America/Los_Angeles,150,True,False,1
+BKB07,1,Basketball,Inglewood Dome,Inglewood,Preliminary,2028-07-15T12:00:00,2028-07-15T16:15:00,America/Los_Angeles,255,True,False,1
+BOX01,1,Boxing - Preliminary Stages,Peacock Theater,DTLA,Preliminary,2028-07-15T12:00:00,2028-07-15T14:30:00,America/Los_Angeles,150,True,False,6
+ROW01,1,Rowing,Marine Stadium,Long Beach,Preliminary,2028-07-15T12:00:00,2028-07-15T13:50:00,America/Los_Angeles,110,True,False,3
+RU705,1,Rugby Sevens,Carson Stadium,Carson,Semifinal,2028-07-15T13:00:00,2028-07-15T16:00:00,America/Los_Angeles,180,True,False,4
+VVO02,1,Volleyball,Honda Center,Anaheim,Preliminary,2028-07-15T13:00:00,2028-07-15T15:30:00,America/Los_Angeles,150,True,False,1
+SHO01,1,Shooting (Rifle & Pistol),Long Beach Target Shooting Hall,Long Beach,Final,2028-07-15T13:45:00,2028-07-15T21:00:00,America/Los_Angeles,435,True,False,4
+BDM02,1,Badminton,Galen Center,Exposition Park,Preliminary,2028-07-15T14:00:00,2028-07-15T16:35:00,America/Los_Angeles,155,True,False,4
+VBV02,1,Beach Volleyball,Alamitos Beach Stadium,Long Beach,Preliminary,2028-07-15T14:00:00,2028-07-15T18:00:00,America/Los_Angeles,240,True,False,1
+FFB01,1,Flag Football,Exposition Park Stadium,Exposition Park,Preliminary,2028-07-15T14:00:00,2028-07-15T17:15:00,America/Los_Angeles,195,True,False,1
+HBL08,1,Handball,Long Beach Arena,Long Beach,Preliminary,2028-07-15T14:00:00,2028-07-15T17:30:00,America/Los_Angeles,210,True,False,1
+TTE02,1,Table Tennis,LA Convention Center Hall 3,DTLA,Preliminary,2028-07-15T14:30:00,2028-07-15T17:30:00,America/Los_Angeles,180,True,False,2
+WPO08,1,Water Polo,Long Beach Aquatics Center,Long Beach,Preliminary,2028-07-15T14:30:00,2028-07-15T17:30:00,America/Los_Angeles,180,True,False,1
+GAR02,1,Artistic Gymnastics,DTLA Arena,DTLA,Preliminary,2028-07-15T15:30:00,2028-07-15T18:00:00,America/Los_Angeles,150,True,False,1
+JUD02,1,Judo,LA Convention Center Hall 2,DTLA,Final,2028-07-15T16:00:00,2028-07-15T19:00:00,America/Los_Angeles,180,True,False,8
+EQU02,1,Equestrian,Santa Anita Park,Arcadia,Preliminary,2028-07-15T16:30:00,2028-07-15T19:00:00,America/Los_Angeles,150,True,False,1
+ATH02,1,Athletics (Track & Field),LA Memorial Coliseum,Exposition Park,Final,2028-07-15T17:00:00,2028-07-15T20:20:00,America/Los_Angeles,200,True,False,9
+VVO03,1,Volleyball,Honda Center,Anaheim,Preliminary,2028-07-15T17:00:00,2028-07-15T19:30:00,America/Los_Angeles,150,True,False,1
+HOC06,1,Hockey,Carson Field,Carson,Preliminary,2028-07-15T17:30:00,2028-07-15T22:30:00,America/Los_Angeles,300,True,False,1
+BKB08,1,Basketball,Inglewood Dome,Inglewood,Preliminary,2028-07-15T18:00:00,2028-07-15T19:45:00,America/Los_Angeles,105,True,False,1
+CKT06,1,Cricket,Fairgrounds Cricket Stadium,Pomona,Preliminary,2028-07-15T18:00:00,2028-07-15T21:30:00,America/Los_Angeles,210,True,False,1
+BDM03,1,Badminton,Galen Center,Exposition Park,Preliminary,2028-07-15T18:30:00,2028-07-15T23:05:00,America/Los_Angeles,275,True,False,4
+FEN02,1,Fencing,LA Convention Center Hall 1,DTLA,Final,2028-07-15T18:30:00,2028-07-15T22:20:00,America/Los_Angeles,230,True,False,6
+BSB04,1,Baseball,Dodger Stadium,DTLA,Preliminary,2028-07-15T19:00:00,2028-07-15T22:00:00,America/Los_Angeles,180,True,False,1
+BOX02,1,Boxing - Preliminary Stages,Peacock Theater,DTLA,Preliminary,2028-07-15T19:00:00,2028-07-15T21:30:00,America/Los_Angeles,150,True,False,6
+FFB02,1,Flag Football,Exposition Park Stadium,Exposition Park,Preliminary,2028-07-15T19:00:00,2028-07-15T22:15:00,America/Los_Angeles,195,True,False,1
+HBL09,1,Handball,Long Beach Arena,Long Beach,Preliminary,2028-07-15T19:00:00,2028-07-15T22:30:00,America/Los_Angeles,210,True,False,1
+RU706,1,Rugby Sevens,Carson Stadium,Carson,Final,2028-07-15T19:00:00,2028-07-15T21:30:00,America/Los_Angeles,150,True,False,4
+WPO09,1,Water Polo,Long Beach Aquatics Center,Long Beach,Preliminary,2028-07-15T19:00:00,2028-07-15T22:00:00,America/Los_Angeles,180,True,False,1
+GAR03,1,Artistic Gymnastics,DTLA Arena,DTLA,Preliminary,2028-07-15T19:30:00,2028-07-15T22:00:00,America/Los_Angeles,150,True,False,1
+SQU01,1,Squash,Comcast Squash Center at Universal Studios,Universal City,Preliminary,2028-07-15T19:30:00,2028-07-15T23:15:00,America/Los_Angeles,225,True,False,1
+TTE03,1,Table Tennis,LA Convention Center Hall 3,DTLA,Preliminary,2028-07-15T19:30:00,2028-07-15T22:30:00,America/Los_Angeles,180,True,False,2
+VBV03,1,Beach Volleyball,Alamitos Beach Stadium,Long Beach,Preliminary,2028-07-15T20:00:00,2028-07-15T23:00:00,America/Los_Angeles,180,True,False,1
+VVO04,1,Volleyball,Honda Center,Anaheim,Preliminary,2028-07-15T21:00:00,2028-07-15T23:30:00,America/Los_Angeles,150,True,False,1
+BKB09,1,Basketball,Inglewood Dome,Inglewood,Preliminary,2028-07-15T21:30:00,2028-07-15T23:15:00,America/Los_Angeles,105,True,False,1
+FBL21,2,Football (Soccer) - Preliminary Stages,TBD,TBD,Preliminary,2028-07-16T00:00:00,2028-07-16T23:59:00,America/Los_Angeles,1439,True,False,1
+FBL22,2,Football (Soccer) - Preliminary Stages,TBD,TBD,Preliminary,2028-07-16T00:00:00,2028-07-16T23:59:00,America/Los_Angeles,1439,True,False,1
+FBL23,2,Football (Soccer) - Preliminary Stages,TBD,TBD,Preliminary,2028-07-16T00:00:00,2028-07-16T23:59:00,America/Los_Angeles,1439,True,False,1
+FBL24,2,Football (Soccer) - Preliminary Stages,TBD,TBD,Preliminary,2028-07-16T00:00:00,2028-07-16T23:59:00,America/Los_Angeles,1439,True,False,1
+FBL25,2,Football (Soccer) - Preliminary Stages,TBD,TBD,Preliminary,2028-07-16T00:00:00,2028-07-16T23:59:00,America/Los_Angeles,1439,True,False,1
+FBL26,2,Football (Soccer) - Preliminary Stages,TBD,TBD,Preliminary,2028-07-16T00:00:00,2028-07-16T23:59:00,America/Los_Angeles,1439,True,False,1
+FBL27,2,Football (Soccer) - Preliminary Stages,TBD,TBD,Preliminary,2028-07-16T00:00:00,2028-07-16T23:59:00,America/Los_Angeles,1439,True,False,1
+FBL28,2,Football (Soccer) - Preliminary Stages,TBD,TBD,Preliminary,2028-07-16T00:00:00,2028-07-16T23:59:00,America/Los_Angeles,1439,True,False,1
+SRF02,2,Surfing,Trestles State Beach,Trestles Beach,Preliminary,2028-07-16T07:00:00,2028-07-16T16:30:00,America/Los_Angeles,570,True,False,2
+TRI02,2,Triathlon,Venice Beach,Venice,Final,2028-07-16T07:30:00,2028-07-16T10:00:00,America/Los_Angeles,150,True,False,1
+BDM04,2,Badminton,Galen Center,Exposition Park,Preliminary,2028-07-16T08:00:00,2028-07-16T11:25:00,America/Los_Angeles,205,True,False,5
+ATH03,2,Athletics (Track & Field),LA Memorial Coliseum,Exposition Park,Preliminary,2028-07-16T09:00:00,2028-07-16T12:00:00,America/Los_Angeles,180,True,False,9
+VBV04,2,Beach Volleyball,Alamitos Beach Stadium,Long Beach,Preliminary,2028-07-16T09:00:00,2028-07-16T12:00:00,America/Los_Angeles,180,True,False,1
+CSL03,2,Canoe Slalom,OKC Whitewater Center,OKC,Final,2028-07-16T09:00:00,2028-07-16T12:10:00,America/Chicago,190,True,True,2
+EQU03,2,Equestrian,Santa Anita Park,Arcadia,Preliminary,2028-07-16T09:00:00,2028-07-16T11:30:00,America/Los_Angeles,150,True,False,1
+FEN03,2,Fencing,LA Convention Center Hall 1,DTLA,Quarterfinal,2028-07-16T09:00:00,2028-07-16T16:20:00,America/Los_Angeles,440,True,False,8
+HBL10,2,Handball,Long Beach Arena,Long Beach,Preliminary,2028-07-16T09:00:00,2028-07-16T12:30:00,America/Los_Angeles,210,True,False,1
+HOC07,2,Hockey,Carson Field,Carson,Preliminary,2028-07-16T09:00:00,2028-07-16T14:00:00,America/Los_Angeles,300,True,False,1
+MPN02,2,Modern Pentathlon,Valley Complex 2,Valley,Semifinal,2028-07-16T09:00:00,2028-07-16T13:30:00,America/Los_Angeles,270,True,False,1
+VVO05,2,Volleyball,Honda Center,Anaheim,Preliminary,2028-07-16T09:00:00,2028-07-16T11:30:00,America/Los_Angeles,150,True,False,1
+GAR04,2,Artistic Gymnastics,DTLA Arena,DTLA,Preliminary,2028-07-16T09:45:00,2028-07-16T13:35:00,America/Los_Angeles,230,True,False,1
+DIV01,2,Diving,Rose Bowl Aquatics Center,Pasadena,Preliminary,2028-07-16T10:00:00,2028-07-16T12:30:00,America/Los_Angeles,150,True,False,1
+JUD03,2,Judo,LA Convention Center Hall 2,DTLA,Preliminary,2028-07-16T10:00:00,2028-07-16T14:00:00,America/Los_Angeles,240,True,False,2
+RU707,2,Rugby Sevens,Carson Stadium,Carson,Preliminary,2028-07-16T10:00:00,2028-07-16T13:00:00,America/Los_Angeles,180,True,False,1
+TTE04,2,Table Tennis,LA Convention Center Hall 3,DTLA,Quarterfinal,2028-07-16T10:00:00,2028-07-16T13:00:00,America/Los_Angeles,180,True,False,3
+WPO10,2,Water Polo,Long Beach Aquatics Center,Long Beach,Preliminary,2028-07-16T10:00:00,2028-07-16T13:00:00,America/Los_Angeles,180,True,False,1
+BMX02,2,BMX Racing,Valley Complex 4,Valley,Final,2028-07-16T10:30:00,2028-07-16T13:00:00,America/Los_Angeles,150,True,False,4
+BSB05,2,Baseball,Dodger Stadium,DTLA,Preliminary,2028-07-16T11:00:00,2028-07-16T14:00:00,America/Los_Angeles,180,True,False,1
+BKB10,2,Basketball,Inglewood Dome,Inglewood,Preliminary,2028-07-16T12:00:00,2028-07-16T16:15:00,America/Los_Angeles,255,True,False,1
+BOX03,2,Boxing - Preliminary Stages,Peacock Theater,DTLA,Preliminary,2028-07-16T12:00:00,2028-07-16T15:00:00,America/Los_Angeles,180,True,False,5
+ROW02,2,Rowing,Marine Stadium,Long Beach,Preliminary,2028-07-16T12:00:00,2028-07-16T14:30:00,America/Los_Angeles,150,True,False,5
+VVO06,2,Volleyball,Honda Center,Anaheim,Preliminary,2028-07-16T13:00:00,2028-07-16T15:30:00,America/Los_Angeles,150,True,False,1
+SHO02,2,Shooting (Rifle & Pistol),Long Beach Target Shooting Hall,Long Beach,Final,2028-07-16T13:45:00,2028-07-16T21:00:00,America/Los_Angeles,435,True,False,4
+BK301,2,3x3 Basketball,Valley Complex 3,Valley,Preliminary,2028-07-16T14:00:00,2028-07-16T16:00:00,America/Los_Angeles,120,True,False,2
+BDM05,2,Badminton,Galen Center,Exposition Park,Preliminary,2028-07-16T14:00:00,2028-07-16T16:35:00,America/Los_Angeles,155,True,False,5
+VBV05,2,Beach Volleyball,Alamitos Beach Stadium,Long Beach,Preliminary,2028-07-16T14:00:00,2028-07-16T18:00:00,America/Los_Angeles,240,True,False,1
+FFB03,2,Flag Football,Exposition Park Stadium,Exposition Park,Preliminary,2028-07-16T14:00:00,2028-07-16T17:15:00,America/Los_Angeles,195,True,False,1
+HBL11,2,Handball,Long Beach Arena,Long Beach,Preliminary,2028-07-16T14:00:00,2028-07-16T17:30:00,America/Los_Angeles,210,True,False,1
+SAL01,2,Sailing (Windsurfing & Kite),Belmont Shore,Long Beach,Preliminary,2028-07-16T14:00:00,2028-07-16T20:00:00,America/Los_Angeles,360,True,False,2
+WPO11,2,Water Polo,Long Beach Aquatics Center,Long Beach,Preliminary,2028-07-16T14:30:00,2028-07-16T17:30:00,America/Los_Angeles,180,True,False,1
+GAR05,2,Artistic Gymnastics,DTLA Arena,DTLA,Preliminary,2028-07-16T15:05:00,2028-07-16T16:45:00,America/Los_Angeles,100,True,False,1
+ATH04,2,Athletics (Track & Field),LA Memorial Coliseum,Exposition Park,Final,2028-07-16T15:15:00,2028-07-16T19:00:00,America/Los_Angeles,225,True,False,7
+TTE05,2,Table Tennis,LA Convention Center Hall 3,DTLA,Preliminary,2028-07-16T15:30:00,2028-07-16T18:30:00,America/Los_Angeles,180,True,False,2
+JUD04,2,Judo,LA Convention Center Hall 2,DTLA,Final,2028-07-16T16:00:00,2028-07-16T19:00:00,America/Los_Angeles,180,True,False,8
+RU708,2,Rugby Sevens,Carson Stadium,Carson,Preliminary,2028-07-16T16:00:00,2028-07-16T19:00:00,America/Los_Angeles,180,True,False,1
+HOC08,2,Hockey,Carson Field,Carson,Preliminary,2028-07-16T17:00:00,2028-07-16T22:00:00,America/Los_Angeles,300,True,False,1
+VVO07,2,Volleyball,Honda Center,Anaheim,Preliminary,2028-07-16T17:00:00,2028-07-16T19:30:00,America/Los_Angeles,150,True,False,1
+BK302,2,3x3 Basketball,Valley Complex 3,Valley,Preliminary,2028-07-16T17:30:00,2028-07-16T19:30:00,America/Los_Angeles,120,True,False,2
+BDM06,2,Badminton,Galen Center,Exposition Park,Preliminary,2028-07-16T18:00:00,2028-07-16T23:05:00,America/Los_Angeles,305,True,False,5
+BKB11,2,Basketball,Inglewood Dome,Inglewood,Preliminary,2028-07-16T18:00:00,2028-07-16T19:45:00,America/Los_Angeles,105,True,False,1
+CKT07,2,Cricket,Fairgrounds Cricket Stadium,Pomona,Preliminary,2028-07-16T18:00:00,2028-07-16T21:30:00,America/Los_Angeles,210,True,False,1
+GAR06,2,Artistic Gymnastics,DTLA Arena,DTLA,Preliminary,2028-07-16T18:15:00,2028-07-16T19:55:00,America/Los_Angeles,100,True,False,1
+FEN04,2,Fencing,LA Convention Center Hall 1,DTLA,Final,2028-07-16T18:30:00,2028-07-16T22:40:00,America/Los_Angeles,250,True,False,6
+BSB06,2,Baseball,Dodger Stadium,DTLA,Preliminary,2028-07-16T19:00:00,2028-07-16T22:00:00,America/Los_Angeles,180,True,False,1
+BOX04,2,Boxing - Preliminary Stages,Peacock Theater,DTLA,Preliminary,2028-07-16T19:00:00,2028-07-16T22:00:00,America/Los_Angeles,180,True,False,5
+FFB04,2,Flag Football,Exposition Park Stadium,Exposition Park,Preliminary,2028-07-16T19:00:00,2028-07-16T22:15:00,America/Los_Angeles,195,True,False,1
+HBL12,2,Handball,Long Beach Arena,Long Beach,Preliminary,2028-07-16T19:00:00,2028-07-16T22:30:00,America/Los_Angeles,210,True,False,1
+WPO12,2,Water Polo,Long Beach Aquatics Center,Long Beach,Preliminary,2028-07-16T19:00:00,2028-07-16T22:00:00,America/Los_Angeles,180,True,False,1
+SQU02,2,Squash,Comcast Squash Center at Universal Studios,Universal City,Preliminary,2028-07-16T19:30:00,2028-07-16T23:15:00,America/Los_Angeles,225,True,False,1
+VBV06,2,Beach Volleyball,Alamitos Beach Stadium,Long Beach,Preliminary,2028-07-16T20:00:00,2028-07-16T23:00:00,America/Los_Angeles,180,True,False,1
+TTE06,2,Table Tennis,LA Convention Center Hall 3,DTLA,Semifinal,2028-07-16T20:15:00,2028-07-16T23:15:00,America/Los_Angeles,180,True,False,3
+BK303,2,3x3 Basketball,Valley Complex 3,Valley,Preliminary,2028-07-16T21:00:00,2028-07-16T23:00:00,America/Los_Angeles,120,True,False,2
+VVO08,2,Volleyball,Honda Center,Anaheim,Preliminary,2028-07-16T21:00:00,2028-07-16T23:30:00,America/Los_Angeles,150,True,False,1
+GAR07,2,Artistic Gymnastics,DTLA Arena,DTLA,Preliminary,2028-07-16T21:25:00,2028-07-16T23:05:00,America/Los_Angeles,100,True,False,1
+BKB12,2,Basketball,Inglewood Dome,Inglewood,Preliminary,2028-07-16T21:30:00,2028-07-16T23:15:00,America/Los_Angeles,105,True,False,1
+SRF03,3,Surfing,Trestles State Beach,Trestles Beach,Preliminary,2028-07-17T07:00:00,2028-07-17T16:30:00,America/Los_Angeles,570,True,False,2
+BDM07,3,Badminton,Galen Center,Exposition Park,Preliminary,2028-07-17T08:00:00,2028-07-17T11:25:00,America/Los_Angeles,205,True,False,5
+EQU04,3,Equestrian,Santa Anita Park,Arcadia,Preliminary,2028-07-17T08:00:00,2028-07-17T11:30:00,America/Los_Angeles,210,True,False,1
+ATH05,3,Athletics (Track & Field),LA Memorial Coliseum,Exposition Park,Final,2028-07-17T09:00:00,2028-07-17T14:00:00,America/Los_Angeles,300,True,False,8
+VBV07,3,Beach Volleyball,Alamitos Beach Stadium,Long Beach,Preliminary,2028-07-17T09:00:00,2028-07-17T12:00:00,America/Los_Angeles,180,True,False,1
+CSL04,3,Canoe Slalom,OKC Whitewater Center,OKC,Preliminary,2028-07-17T09:00:00,2028-07-17T11:35:00,America/Chicago,155,True,True,2
+CKT08,3,Cricket,Fairgrounds Cricket Stadium,Pomona,Preliminary,2028-07-17T09:00:00,2028-07-17T12:30:00,America/Los_Angeles,210,True,False,1
+FEN05,3,Fencing,LA Convention Center Hall 1,DTLA,Quarterfinal,2028-07-17T09:00:00,2028-07-17T16:20:00,America/Los_Angeles,440,True,False,8
+HBL13,3,Handball,Long Beach Arena,Long Beach,Preliminary,2028-07-17T09:00:00,2028-07-17T12:30:00,America/Los_Angeles,210,True,False,1
+HOC09,3,Hockey,Carson Field,Carson,Preliminary,2028-07-17T09:00:00,2028-07-17T14:00:00,America/Los_Angeles,300,True,False,1
+MPN03,3,Modern Pentathlon,Valley Complex 2,Valley,Final,2028-07-17T09:00:00,2028-07-17T11:00:00,America/Los_Angeles,120,True,False,1
+VVO09,3,Volleyball,Honda Center,Anaheim,Preliminary,2028-07-17T09:00:00,2028-07-17T11:30:00,America/Los_Angeles,150,True,False,1
+SHO03,3,Shooting (Rifle & Pistol),Long Beach Target Shooting Hall,Long Beach,Final,2028-07-17T09:40:00,2028-07-17T15:30:00,America/Los_Angeles,350,True,False,4
+SHO04,3,Shooting (Shotgun),Whittier Narrows Clay Shooting Center,Whittier Narrows,Preliminary,2028-07-17T09:45:00,2028-07-17T14:45:00,America/Los_Angeles,300,True,False,2
+DIV02,3,Diving,Rose Bowl Aquatics Center,Pasadena,Semifinal,2028-07-17T10:00:00,2028-07-17T12:00:00,America/Los_Angeles,120,True,False,1
+JUD05,3,Judo,LA Convention Center Hall 2,DTLA,Preliminary,2028-07-17T10:00:00,2028-07-17T14:00:00,America/Los_Angeles,240,True,False,2
+RU709,3,Rugby Sevens,Carson Stadium,Carson,Preliminary,2028-07-17T10:00:00,2028-07-17T13:00:00,America/Los_Angeles,180,True,False,1
+TTE07,3,Table Tennis,LA Convention Center Hall 3,DTLA,Quarterfinal,2028-07-17T10:00:00,2028-07-17T13:00:00,America/Los_Angeles,180,True,False,4
+WPO13,3,Water Polo,Long Beach Aquatics Center,Long Beach,Preliminary,2028-07-17T10:00:00,2028-07-17T13:00:00,America/Los_Angeles,180,True,False,1
+BSB07,3,Baseball,Dodger Stadium,DTLA,Preliminary,2028-07-17T11:00:00,2028-07-17T14:00:00,America/Los_Angeles,180,True,False,1
+MTB01,3,Mountain Bike,Industry Hills MTB Course,City of Industry,Final,2028-07-17T11:00:00,2028-07-17T13:30:00,America/Los_Angeles,150,True,False,1
+BKB13,3,Basketball,Inglewood Dome,Inglewood,Preliminary,2028-07-17T12:00:00,2028-07-17T16:15:00,America/Los_Angeles,255,True,False,1
+BOX05,3,Boxing - Preliminary Stages,Peacock Theater,DTLA,Preliminary,2028-07-17T12:00:00,2028-07-17T15:00:00,America/Los_Angeles,180,True,False,3
+ROW03,3,Rowing,Marine Stadium,Long Beach,Final,2028-07-17T12:30:00,2028-07-17T15:10:00,America/Los_Angeles,160,True,False,9
+VVO10,3,Volleyball,Honda Center,Anaheim,Preliminary,2028-07-17T13:00:00,2028-07-17T15:30:00,America/Los_Angeles,150,True,False,1
+OWS01,3,Open Water Swimming,Belmont Shore,Long Beach,Final,2028-07-17T13:30:00,2028-07-17T16:30:00,America/Los_Angeles,180,True,False,1
+BK304,3,3x3 Basketball,Valley Complex 3,Valley,Preliminary,2028-07-17T14:00:00,2028-07-17T16:00:00,America/Los_Angeles,120,True,False,2
+BDM08,3,Badminton,Galen Center,Exposition Park,Preliminary,2028-07-17T14:00:00,2028-07-17T16:35:00,America/Los_Angeles,155,True,False,5
+VBV08,3,Beach Volleyball,Alamitos Beach Stadium,Long Beach,Preliminary,2028-07-17T14:00:00,2028-07-17T18:00:00,America/Los_Angeles,240,True,False,1
+FFB05,3,Flag Football,Exposition Park Stadium,Exposition Park,Preliminary,2028-07-17T14:00:00,2028-07-17T17:15:00,America/Los_Angeles,195,True,False,1
+HBL14,3,Handball,Long Beach Arena,Long Beach,Preliminary,2028-07-17T14:00:00,2028-07-17T17:30:00,America/Los_Angeles,210,True,False,1
+SAL02,3,Sailing (Windsurfing & Kite),Belmont Shore,Long Beach,Preliminary,2028-07-17T14:00:00,2028-07-17T20:00:00,America/Los_Angeles,360,True,False,4
+WPO14,3,Water Polo,Long Beach Aquatics Center,Long Beach,Preliminary,2028-07-17T14:30:00,2028-07-17T17:30:00,America/Los_Angeles,180,True,False,1
+TTE08,3,Table Tennis,LA Convention Center Hall 3,DTLA,Preliminary,2028-07-17T15:00:00,2028-07-17T18:00:00,America/Los_Angeles,180,True,False,2
+DIV03,3,Diving,Rose Bowl Aquatics Center,Pasadena,Final,2028-07-17T15:30:00,2028-07-17T16:45:00,America/Los_Angeles,75,True,False,1
+JUD06,3,Judo,LA Convention Center Hall 2,DTLA,Final,2028-07-17T16:00:00,2028-07-17T19:00:00,America/Los_Angeles,180,True,False,8
+RU710,3,Rugby Sevens,Carson Stadium,Carson,Quarterfinal,2028-07-17T16:00:00,2028-07-17T19:00:00,America/Los_Angeles,180,True,False,2
+ATH06,3,Athletics (Track & Field),LA Memorial Coliseum,Exposition Park,Final,2028-07-17T16:30:00,2028-07-17T19:30:00,America/Los_Angeles,180,True,False,7
+HOC10,3,Hockey,Carson Field,Carson,Preliminary,2028-07-17T17:00:00,2028-07-17T22:00:00,America/Los_Angeles,300,True,False,1
+VVO11,3,Volleyball,Honda Center,Anaheim,Preliminary,2028-07-17T17:00:00,2028-07-17T19:30:00,America/Los_Angeles,150,True,False,1
+GAR08,3,Artistic Gymnastics,DTLA Arena,DTLA,Final,2028-07-17T17:15:00,2028-07-17T20:30:00,America/Los_Angeles,195,True,False,1
+BK305,3,3x3 Basketball,Valley Complex 3,Valley,Preliminary,2028-07-17T17:30:00,2028-07-17T19:30:00,America/Los_Angeles,120,True,False,2
+BKB14,3,Basketball,Inglewood Dome,Inglewood,Preliminary,2028-07-17T18:00:00,2028-07-17T19:45:00,America/Los_Angeles,105,True,False,1
+CKT09,3,Cricket,Fairgrounds Cricket Stadium,Pomona,Preliminary,2028-07-17T18:00:00,2028-07-17T21:30:00,America/Los_Angeles,210,True,False,1
+FEN06,3,Fencing,LA Convention Center Hall 1,DTLA,Final,2028-07-17T18:30:00,2028-07-17T22:40:00,America/Los_Angeles,250,True,False,6
+BDM09,3,Badminton,Galen Center,Exposition Park,Preliminary,2028-07-17T19:00:00,2028-07-17T23:05:00,America/Los_Angeles,245,True,False,5
+BSB08,3,Baseball,Dodger Stadium,DTLA,Preliminary,2028-07-17T19:00:00,2028-07-17T22:00:00,America/Los_Angeles,180,True,False,1
+BOX06,3,Boxing - Preliminary Stages,Peacock Theater,DTLA,Preliminary,2028-07-17T19:00:00,2028-07-17T22:00:00,America/Los_Angeles,180,True,False,3
+FFB06,3,Flag Football,Exposition Park Stadium,Exposition Park,Preliminary,2028-07-17T19:00:00,2028-07-17T22:15:00,America/Los_Angeles,195,True,False,1
+HBL15,3,Handball,Long Beach Arena,Long Beach,Preliminary,2028-07-17T19:00:00,2028-07-17T22:30:00,America/Los_Angeles,210,True,False,1
+WPO15,3,Water Polo,Long Beach Aquatics Center,Long Beach,Preliminary,2028-07-17T19:00:00,2028-07-17T22:00:00,America/Los_Angeles,180,True,False,1
+SQU03,3,Squash,Comcast Squash Center at Universal Studios,Universal City,Preliminary,2028-07-17T19:30:00,2028-07-17T23:15:00,America/Los_Angeles,225,True,False,1
+VBV09,3,Beach Volleyball,Alamitos Beach Stadium,Long Beach,Preliminary,2028-07-17T20:00:00,2028-07-17T23:00:00,America/Los_Angeles,180,True,False,1
+BK306,3,3x3 Basketball,Valley Complex 3,Valley,Preliminary,2028-07-17T21:00:00,2028-07-17T23:00:00,America/Los_Angeles,120,True,False,2
+TTE09,3,Table Tennis,LA Convention Center Hall 3,DTLA,Final,2028-07-17T21:00:00,2028-07-17T23:15:00,America/Los_Angeles,135,True,False,2
+VVO12,3,Volleyball,Honda Center,Anaheim,Preliminary,2028-07-17T21:00:00,2028-07-17T23:30:00,America/Los_Angeles,150,True,False,1
+BKB15,3,Basketball,Inglewood Dome,Inglewood,Preliminary,2028-07-17T21:30:00,2028-07-17T23:15:00,America/Los_Angeles,105,True,False,1
+FBL29,4,Football (Soccer) - Preliminary Stages,TBD,TBD,Preliminary,2028-07-18T00:00:00,2028-07-18T23:59:00,America/Los_Angeles,1439,True,False,1
+FBL30,4,Football (Soccer) - Preliminary Stages,TBD,TBD,Preliminary,2028-07-18T00:00:00,2028-07-18T23:59:00,America/Los_Angeles,1439,True,False,1
+FBL31,4,Football (Soccer) - Preliminary Stages,TBD,TBD,Preliminary,2028-07-18T00:00:00,2028-07-18T23:59:00,America/Los_Angeles,1439,True,False,1
+FBL32,4,Football (Soccer) - Preliminary Stages,TBD,TBD,Preliminary,2028-07-18T00:00:00,2028-07-18T23:59:00,America/Los_Angeles,1439,True,False,1
+FBL33,4,Football (Soccer) - Preliminary Stages,TBD,TBD,Preliminary,2028-07-18T00:00:00,2028-07-18T23:59:00,America/Los_Angeles,1439,True,False,1
+FBL34,4,Football (Soccer) - Preliminary Stages,TBD,TBD,Preliminary,2028-07-18T00:00:00,2028-07-18T23:59:00,America/Los_Angeles,1439,True,False,1
+SRF04,4,Surfing,Trestles State Beach,Trestles Beach,Final,2028-07-18T07:00:00,2028-07-18T17:30:00,America/Los_Angeles,630,True,False,8
+BDM10,4,Badminton,Galen Center,Exposition Park,Preliminary,2028-07-18T08:00:00,2028-07-18T11:25:00,America/Los_Angeles,205,True,False,4
+VBV10,4,Beach Volleyball,Alamitos Beach Stadium,Long Beach,Preliminary,2028-07-18T09:00:00,2028-07-18T12:00:00,America/Los_Angeles,180,True,False,1
+CSL05,4,Canoe Slalom,OKC Whitewater Center,OKC,Final,2028-07-18T09:00:00,2028-07-18T12:10:00,America/Chicago,190,True,True,2
+CKT10,4,Cricket,Fairgrounds Cricket Stadium,Pomona,Preliminary,2028-07-18T09:00:00,2028-07-18T12:30:00,America/Los_Angeles,210,True,False,1
+FEN07,4,Fencing,LA Convention Center Hall 1,DTLA,Semifinal,2028-07-18T09:00:00,2028-07-18T14:30:00,America/Los_Angeles,330,True,False,5
+HBL16,4,Handball,Long Beach Arena,Long Beach,Preliminary,2028-07-18T09:00:00,2028-07-18T12:30:00,America/Los_Angeles,210,True,False,1
+HOC11,4,Hockey,Carson Field,Carson,Preliminary,2028-07-18T09:00:00,2028-07-18T14:00:00,America/Los_Angeles,300,True,False,1
+MPN04,4,Modern Pentathlon,Valley Complex 2,Valley,Final,2028-07-18T09:00:00,2028-07-18T11:00:00,America/Los_Angeles,120,True,False,1
+VVO13,4,Volleyball,Honda Center,Anaheim,Preliminary,2028-07-18T09:00:00,2028-07-18T11:30:00,America/Los_Angeles,150,True,False,1
+ATH07,4,Athletics (Track & Field),LA Memorial Coliseum,Exposition Park,Final,2028-07-18T09:30:00,2028-07-18T12:10:00,America/Los_Angeles,160,True,False,5
+SHO05,4,Shooting (Shotgun),Whittier Narrows Clay Shooting Center,Whittier Narrows,Final,2028-07-18T09:45:00,2028-07-18T17:15:00,America/Los_Angeles,450,True,False,4
+DIV04,4,Diving,Rose Bowl Aquatics Center,Pasadena,Preliminary,2028-07-18T10:00:00,2028-07-18T12:30:00,America/Los_Angeles,150,True,False,1
+JUD07,4,Judo,LA Convention Center Hall 2,DTLA,Preliminary,2028-07-18T10:00:00,2028-07-18T14:00:00,America/Los_Angeles,240,True,False,2
+TTE10,4,Table Tennis,LA Convention Center Hall 3,DTLA,Semifinal,2028-07-18T10:00:00,2028-07-18T13:00:00,America/Los_Angeles,180,True,False,3
+WPO16,4,Water Polo,Long Beach Aquatics Center,Long Beach,Preliminary,2028-07-18T10:00:00,2028-07-18T13:00:00,America/Los_Angeles,180,True,False,1
+BSB09,4,Baseball,Dodger Stadium,DTLA,Semifinal,2028-07-18T11:00:00,2028-07-18T14:00:00,America/Los_Angeles,180,True,False,1
+MTB02,4,Mountain Bike,Industry Hills MTB Course,City of Industry,Final,2028-07-18T11:00:00,2028-07-18T13:30:00,America/Los_Angeles,150,True,False,1
+BKB16,4,Basketball,Inglewood Dome,Inglewood,Preliminary,2028-07-18T12:00:00,2028-07-18T16:15:00,America/Los_Angeles,255,True,False,1
+BOX07,4,Boxing - Preliminary Stages,Peacock Theater,DTLA,Quarterfinal,2028-07-18T12:00:00,2028-07-18T15:00:00,America/Los_Angeles,180,True,False,4
+RU711,4,Rugby Sevens,Carson Stadium,Carson,Semifinal,2028-07-18T13:00:00,2028-07-18T16:00:00,America/Los_Angeles,180,True,False,4
+VVO14,4,Volleyball,Honda Center,Anaheim,Preliminary,2028-07-18T13:00:00,2028-07-18T15:30:00,America/Los_Angeles,150,True,False,1
+OWS02,4,Open Water Swimming,Belmont Shore,Long Beach,Final,2028-07-18T13:30:00,2028-07-18T16:30:00,America/Los_Angeles,180,True,False,1
+ROW04,4,Rowing,Marine Stadium,Long Beach,Final,2028-07-18T13:30:00,2028-07-18T16:00:00,America/Los_Angeles,150,True,False,9
+BK307,4,3x3 Basketball,Valley Complex 3,Valley,Preliminary,2028-07-18T14:00:00,2028-07-18T16:00:00,America/Los_Angeles,120,True,False,2
+BDM11,4,Badminton,Galen Center,Exposition Park,Preliminary,2028-07-18T14:00:00,2028-07-18T16:35:00,America/Los_Angeles,155,True,False,3
+VBV11,4,Beach Volleyball,Alamitos Beach Stadium,Long Beach,Preliminary,2028-07-18T14:00:00,2028-07-18T18:00:00,America/Los_Angeles,240,True,False,1
+FFB07,4,Flag Football,Exposition Park Stadium,Exposition Park,Preliminary,2028-07-18T14:00:00,2028-07-18T17:15:00,America/Los_Angeles,195,True,False,1
+HBL17,4,Handball,Long Beach Arena,Long Beach,Preliminary,2028-07-18T14:00:00,2028-07-18T17:30:00,America/Los_Angeles,210,True,False,1
+SAL03,4,Sailing (Windsurfing & Kite),Belmont Shore,Long Beach,Preliminary,2028-07-18T14:00:00,2028-07-18T20:00:00,America/Los_Angeles,360,True,False,4
+WPO17,4,Water Polo,Long Beach Aquatics Center,Long Beach,Preliminary,2028-07-18T14:30:00,2028-07-18T17:30:00,America/Los_Angeles,180,True,False,1
+TTE11,4,Table Tennis,LA Convention Center Hall 3,DTLA,Preliminary,2028-07-18T15:00:00,2028-07-18T18:00:00,America/Los_Angeles,180,True,False,2
+DIV05,4,Diving,Rose Bowl Aquatics Center,Pasadena,Semifinal,2028-07-18T15:30:00,2028-07-18T17:30:00,America/Los_Angeles,120,True,False,1
+ATH08,4,Athletics (Track & Field),LA Memorial Coliseum,Exposition Park,Final,2028-07-18T15:50:00,2028-07-18T18:55:00,America/Los_Angeles,185,True,False,8
+JUD08,4,Judo,LA Convention Center Hall 2,DTLA,Final,2028-07-18T16:00:00,2028-07-18T19:00:00,America/Los_Angeles,180,True,False,8
+EQU05,4,Equestrian,Santa Anita Park,Arcadia,Final,2028-07-18T16:30:00,2028-07-18T22:00:00,America/Los_Angeles,330,True,False,2
+SKB01,4,Skateboarding (Street),Valley Complex 1,Valley,Preliminary,2028-07-18T17:00:00,2028-07-18T20:10:00,America/Los_Angeles,190,True,False,1
+VVO15,4,Volleyball,Honda Center,Anaheim,Preliminary,2028-07-18T17:00:00,2028-07-18T19:30:00,America/Los_Angeles,150,True,False,1
+BK308,4,3x3 Basketball,Valley Complex 3,Valley,Preliminary,2028-07-18T17:30:00,2028-07-18T19:30:00,America/Los_Angeles,120,True,False,2
+FEN08,4,Fencing,LA Convention Center Hall 1,DTLA,Final,2028-07-18T17:30:00,2028-07-18T19:40:00,America/Los_Angeles,130,True,False,2
+HOC12,4,Hockey,Carson Field,Carson,Preliminary,2028-07-18T17:30:00,2028-07-18T22:30:00,America/Los_Angeles,300,True,False,1
+GAR09,4,Artistic Gymnastics,DTLA Arena,DTLA,Final,2028-07-18T18:00:00,2028-07-18T20:30:00,America/Los_Angeles,150,True,False,1
+BKB17,4,Basketball,Inglewood Dome,Inglewood,Preliminary,2028-07-18T18:00:00,2028-07-18T19:45:00,America/Los_Angeles,105,True,False,1
+CKT11,4,Cricket,Fairgrounds Cricket Stadium,Pomona,Preliminary,2028-07-18T18:00:00,2028-07-18T21:30:00,America/Los_Angeles,210,True,False,1
+BDM12,4,Badminton,Galen Center,Exposition Park,Preliminary,2028-07-18T19:00:00,2028-07-18T23:05:00,America/Los_Angeles,245,True,False,4
+BSB10,4,Baseball,Dodger Stadium,DTLA,Semifinal,2028-07-18T19:00:00,2028-07-18T22:00:00,America/Los_Angeles,180,True,False,1
+BOX08,4,Boxing - Preliminary Stages,Peacock Theater,DTLA,Quarterfinal,2028-07-18T19:00:00,2028-07-18T22:00:00,America/Los_Angeles,180,True,False,4
+FFB08,4,Flag Football,Exposition Park Stadium,Exposition Park,Preliminary,2028-07-18T19:00:00,2028-07-18T22:15:00,America/Los_Angeles,195,True,False,1
+HBL18,4,Handball,Long Beach Arena,Long Beach,Preliminary,2028-07-18T19:00:00,2028-07-18T22:30:00,America/Los_Angeles,210,True,False,1
+RU712,4,Rugby Sevens,Carson Stadium,Carson,Final,2028-07-18T19:00:00,2028-07-18T21:30:00,America/Los_Angeles,150,True,False,4
+WPO18,4,Water Polo,Long Beach Aquatics Center,Long Beach,Preliminary,2028-07-18T19:00:00,2028-07-18T22:00:00,America/Los_Angeles,180,True,False,1
+SQU04,4,Squash,Comcast Squash Center at Universal Studios,Universal City,Preliminary,2028-07-18T19:30:00,2028-07-18T23:15:00,America/Los_Angeles,225,True,False,1
+VBV12,4,Beach Volleyball,Alamitos Beach Stadium,Long Beach,Preliminary,2028-07-18T20:00:00,2028-07-18T23:00:00,America/Los_Angeles,180,True,False,1
+BK309,4,3x3 Basketball,Valley Complex 3,Valley,Preliminary,2028-07-18T21:00:00,2028-07-18T23:00:00,America/Los_Angeles,120,True,False,2
+TTE12,4,Table Tennis,LA Convention Center Hall 3,DTLA,Final,2028-07-18T21:00:00,2028-07-18T23:15:00,America/Los_Angeles,135,True,False,2
+VVO16,4,Volleyball,Honda Center,Anaheim,Preliminary,2028-07-18T21:00:00,2028-07-18T23:30:00,America/Los_Angeles,150,True,False,1
+BKB18,4,Basketball,Inglewood Dome,Inglewood,Preliminary,2028-07-18T21:30:00,2028-07-18T23:15:00,America/Los_Angeles,105,True,False,1
+FBL35,5,Football (Soccer) - Preliminary Stages,TBD,TBD,Preliminary,2028-07-19T00:00:00,2028-07-19T23:59:00,America/Los_Angeles,1439,True,False,1
+FBL36,5,Football (Soccer) - Preliminary Stages,TBD,TBD,Preliminary,2028-07-19T00:00:00,2028-07-19T23:59:00,America/Los_Angeles,1439,True,False,1
+FBL37,5,Football (Soccer) - Preliminary Stages,TBD,TBD,Preliminary,2028-07-19T00:00:00,2028-07-19T23:59:00,America/Los_Angeles,1439,True,False,1
+FBL38,5,Football (Soccer) - Preliminary Stages,TBD,TBD,Preliminary,2028-07-19T00:00:00,2028-07-19T23:59:00,America/Los_Angeles,1439,True,False,1
+FBL39,5,Football (Soccer) - Preliminary Stages,TBD,TBD,Preliminary,2028-07-19T00:00:00,2028-07-19T23:59:00,America/Los_Angeles,1439,True,False,1
+FBL40,5,Football (Soccer) - Preliminary Stages,TBD,TBD,Preliminary,2028-07-19T00:00:00,2028-07-19T23:59:00,America/Los_Angeles,1439,True,False,1
+FBL41,5,Football (Soccer) - Preliminary Stages,TBD,TBD,Preliminary,2028-07-19T00:00:00,2028-07-19T23:59:00,America/Los_Angeles,1439,True,False,1
+FBL42,5,Football (Soccer) - Preliminary Stages,TBD,TBD,Preliminary,2028-07-19T00:00:00,2028-07-19T23:59:00,America/Los_Angeles,1439,True,False,1
+BDM13,5,Badminton,Galen Center,Exposition Park,Quarterfinal,2028-07-19T08:00:00,2028-07-19T11:45:00,America/Los_Angeles,225,True,False,3
+ROW05,5,Rowing,Marine Stadium,Long Beach,Final,2028-07-19T08:00:00,2028-07-19T10:10:00,America/Los_Angeles,130,True,False,9
+VBV13,5,Beach Volleyball,Alamitos Beach Stadium,Long Beach,Preliminary,2028-07-19T09:00:00,2028-07-19T12:00:00,America/Los_Angeles,180,True,False,1
+CSL06,5,Canoe Slalom,OKC Whitewater Center,OKC,Final,2028-07-19T09:00:00,2028-07-19T12:10:00,America/Chicago,190,True,True,2
+CKT12,5,Cricket,Fairgrounds Cricket Stadium,Pomona,Preliminary,2028-07-19T09:00:00,2028-07-19T12:30:00,America/Los_Angeles,210,True,False,1
+FEN09,5,Fencing,LA Convention Center Hall 1,DTLA,Semifinal,2028-07-19T09:00:00,2028-07-19T14:30:00,America/Los_Angeles,330,True,False,5
+GLF01,5,Golf,Riviera Country Club,Riviera,Preliminary,2028-07-19T09:00:00,2028-07-19T18:00:00,America/Los_Angeles,540,True,False,1
+HBL19,5,Handball,Long Beach Arena,Long Beach,Preliminary,2028-07-19T09:00:00,2028-07-19T12:30:00,America/Los_Angeles,210,True,False,1
+HOC13,5,Hockey,Carson Field,Carson,Preliminary,2028-07-19T09:00:00,2028-07-19T14:00:00,America/Los_Angeles,300,True,False,1
+VVO17,5,Volleyball,Honda Center,Anaheim,Preliminary,2028-07-19T09:00:00,2028-07-19T11:30:00,America/Los_Angeles,150,True,False,1
+ARC01,5,Archery,Carson Stadium,Carson,N/A,2028-07-19T09:30:00,2028-07-19T12:00:00,America/Los_Angeles,150,False,False,2
+SHO06,5,Shooting (Rifle & Pistol),Long Beach Target Shooting Hall,Long Beach,Final,2028-07-19T09:30:00,2028-07-19T13:30:00,America/Los_Angeles,240,True,False,2
+ATH09,5,Athletics (Track & Field),LA Memorial Coliseum,Exposition Park,Final,2028-07-19T09:35:00,2028-07-19T12:00:00,America/Los_Angeles,145,True,False,6
+JUD09,5,Judo,LA Convention Center Hall 2,DTLA,Preliminary,2028-07-19T10:00:00,2028-07-19T14:00:00,America/Los_Angeles,240,True,False,2
+TTE13,5,Table Tennis,LA Convention Center Hall 3,DTLA,Semifinal,2028-07-19T10:00:00,2028-07-19T13:00:00,America/Los_Angeles,180,True,False,3
+CRD01,5,Cycling Road (Time Trial),TBD,TBD,Final,2028-07-19T10:30:00,2028-07-19T14:35:00,America/Los_Angeles,245,True,False,2
+SKB02,5,Skateboarding (Street),Valley Complex 1,Valley,Preliminary,2028-07-19T10:30:00,2028-07-19T13:40:00,America/Los_Angeles,190,True,False,1
+BSB11,5,Baseball,Dodger Stadium,DTLA,Bronze,2028-07-19T11:00:00,2028-07-19T14:00:00,America/Los_Angeles,180,True,False,1
+TEN01,5,Tennis,Carson Center Court,Carson,Preliminary,2028-07-19T11:00:00,2028-07-19T16:30:00,America/Los_Angeles,330,True,False,1
+TEN02,5,Tennis,Carson Court 1,Carson,Preliminary,2028-07-19T11:00:00,2028-07-19T16:30:00,America/Los_Angeles,330,True,False,1
+TEN03,5,Tennis,Carson Court 2,Carson,Preliminary,2028-07-19T11:00:00,2028-07-19T16:30:00,America/Los_Angeles,330,True,False,1
+WPO19,5,Water Polo,Long Beach Aquatics Center,Long Beach,Quarterfinal,2028-07-19T11:30:00,2028-07-19T14:30:00,America/Los_Angeles,180,True,False,1
+BKB19,5,Basketball,Inglewood Dome,Inglewood,Preliminary,2028-07-19T12:00:00,2028-07-19T16:15:00,America/Los_Angeles,255,True,False,1
+BOX09,5,Boxing - Preliminary Stages,Peacock Theater,DTLA,Quarterfinal,2028-07-19T12:00:00,2028-07-19T15:00:00,America/Los_Angeles,180,True,False,4
+VVO18,5,Volleyball,Honda Center,Anaheim,Preliminary,2028-07-19T13:00:00,2028-07-19T15:30:00,America/Los_Angeles,150,True,False,1
+ARC02,5,Archery,Carson Stadium,Carson,N/A,2028-07-19T13:30:00,2028-07-19T16:30:00,America/Los_Angeles,180,False,False,2
+BK310,5,3x3 Basketball,Valley Complex 3,Valley,Preliminary,2028-07-19T14:00:00,2028-07-19T16:00:00,America/Los_Angeles,120,True,False,2
+BDM14,5,Badminton,Galen Center,Exposition Park,Preliminary,2028-07-19T14:00:00,2028-07-19T16:35:00,America/Los_Angeles,155,True,False,2
+VBV14,5,Beach Volleyball,Alamitos Beach Stadium,Long Beach,Preliminary,2028-07-19T14:00:00,2028-07-19T18:00:00,America/Los_Angeles,240,True,False,1
+FFB09,5,Flag Football,Exposition Park Stadium,Exposition Park,Preliminary,2028-07-19T14:00:00,2028-07-19T17:15:00,America/Los_Angeles,195,True,False,1
+HBL20,5,Handball,Long Beach Arena,Long Beach,Preliminary,2028-07-19T14:00:00,2028-07-19T17:30:00,America/Los_Angeles,210,True,False,1
+SAL04,5,Sailing (Windsurfing & Kite),Belmont Shore,Long Beach,Final,2028-07-19T14:00:00,2028-07-19T20:00:00,America/Los_Angeles,360,True,False,4
+TTE14,5,Table Tennis,LA Convention Center Hall 3,DTLA,Preliminary,2028-07-19T15:00:00,2028-07-19T18:00:00,America/Los_Angeles,180,True,False,2
+DIV06,5,Diving,Rose Bowl Aquatics Center,Pasadena,Final,2028-07-19T15:30:00,2028-07-19T16:45:00,America/Los_Angeles,75,True,False,1
+ATH10,5,Athletics (Track & Field),LA Memorial Coliseum,Exposition Park,Final,2028-07-19T16:00:00,2028-07-19T18:40:00,America/Los_Angeles,160,True,False,7
+JUD10,5,Judo,LA Convention Center Hall 2,DTLA,Final,2028-07-19T16:00:00,2028-07-19T19:00:00,America/Los_Angeles,180,True,False,8
+HOC14,5,Hockey,Carson Field,Carson,Preliminary,2028-07-19T17:00:00,2028-07-19T22:00:00,America/Los_Angeles,300,True,False,1
+VVO19,5,Volleyball,Honda Center,Anaheim,Preliminary,2028-07-19T17:00:00,2028-07-19T19:30:00,America/Los_Angeles,150,True,False,1
+WPO20,5,Water Polo,Long Beach Aquatics Center,Long Beach,Quarterfinal,2028-07-19T17:00:00,2028-07-19T20:00:00,America/Los_Angeles,180,True,False,1
+BK311,5,3x3 Basketball,Valley Complex 3,Valley,Preliminary,2028-07-19T17:30:00,2028-07-19T19:30:00,America/Los_Angeles,120,True,False,2
+FEN10,5,Fencing,LA Convention Center Hall 1,DTLA,Final,2028-07-19T17:30:00,2028-07-19T19:40:00,America/Los_Angeles,130,True,False,2
+GAR10,5,Artistic Gymnastics,DTLA Arena,DTLA,Final,2028-07-19T18:00:00,2028-07-19T20:30:00,America/Los_Angeles,150,True,False,1
+BKB20,5,Basketball,Inglewood Dome,Inglewood,Preliminary,2028-07-19T18:00:00,2028-07-19T19:45:00,America/Los_Angeles,105,True,False,1
+TEN04,5,Tennis,Carson Center Court,Carson,Quarterfinal,2028-07-19T18:30:00,2028-07-19T23:30:00,America/Los_Angeles,300,True,False,1
+TEN05,5,Tennis,Carson Court 1,Carson,Quarterfinal,2028-07-19T18:30:00,2028-07-19T23:30:00,America/Los_Angeles,300,True,False,1
+BDM15,5,Badminton,Galen Center,Exposition Park,Preliminary,2028-07-19T19:00:00,2028-07-19T23:05:00,America/Los_Angeles,245,True,False,2
+BSB12,5,Baseball,Dodger Stadium,DTLA,Final,2028-07-19T19:00:00,2028-07-19T22:30:00,America/Los_Angeles,210,True,False,1
+BOX10,5,Boxing - Preliminary Stages,Peacock Theater,DTLA,Quarterfinal,2028-07-19T19:00:00,2028-07-19T22:00:00,America/Los_Angeles,180,True,False,4
+FFB10,5,Flag Football,Exposition Park Stadium,Exposition Park,Preliminary,2028-07-19T19:00:00,2028-07-19T22:15:00,America/Los_Angeles,195,True,False,1
+HBL21,5,Handball,Long Beach Arena,Long Beach,Preliminary,2028-07-19T19:00:00,2028-07-19T22:30:00,America/Los_Angeles,210,True,False,1
+SQU05,5,Squash,Comcast Squash Center at Universal Studios,Universal City,Quarterfinal,2028-07-19T19:30:00,2028-07-19T23:15:00,America/Los_Angeles,225,True,False,1
+VBV15,5,Beach Volleyball,Alamitos Beach Stadium,Long Beach,Preliminary,2028-07-19T20:00:00,2028-07-19T23:00:00,America/Los_Angeles,180,True,False,1
+SKB03,5,Skateboarding (Street),Valley Complex 1,Valley,Final,2028-07-19T20:30:00,2028-07-19T22:00:00,America/Los_Angeles,90,True,False,1
+BK312,5,3x3 Basketball,Valley Complex 3,Valley,Preliminary,2028-07-19T21:00:00,2028-07-19T23:00:00,America/Los_Angeles,120,True,False,2
+TTE15,5,Table Tennis,LA Convention Center Hall 3,DTLA,Final,2028-07-19T21:00:00,2028-07-19T23:15:00,America/Los_Angeles,135,True,False,2
+VVO20,5,Volleyball,Honda Center,Anaheim,Preliminary,2028-07-19T21:00:00,2028-07-19T23:30:00,America/Los_Angeles,150,True,False,1
+BKB21,5,Basketball,Inglewood Dome,Inglewood,Preliminary,2028-07-19T21:30:00,2028-07-19T23:15:00,America/Los_Angeles,105,True,False,1
+BDM16,6,Badminton,Galen Center,Exposition Park,Semifinal,2028-07-20T08:00:00,2028-07-20T12:25:00,America/Los_Angeles,265,True,False,3
+TRI03,6,Triathlon,Venice Beach,Venice,Final,2028-07-20T08:00:00,2028-07-20T10:00:00,America/Los_Angeles,120,True,False,1
+VBV16,6,Beach Volleyball,Alamitos Beach Stadium,Long Beach,Preliminary,2028-07-20T09:00:00,2028-07-20T12:00:00,America/Los_Angeles,180,True,False,1
+CSL07,6,Canoe Slalom,OKC Whitewater Center,OKC,Preliminary,2028-07-20T09:00:00,2028-07-20T12:05:00,America/Chicago,185,True,True,4
+CKT13,6,Cricket,Fairgrounds Cricket Stadium,Pomona,Bronze,2028-07-20T09:00:00,2028-07-20T12:30:00,America/Los_Angeles,210,True,False,1
+EQU06,6,Equestrian,Santa Anita Park,Arcadia,Preliminary,2028-07-20T09:00:00,2028-07-20T11:45:00,America/Los_Angeles,165,True,False,1
+FEN11,6,Fencing,LA Convention Center Hall 1,DTLA,Semifinal,2028-07-20T09:00:00,2028-07-20T16:10:00,America/Los_Angeles,430,True,False,5
+GLF02,6,Golf,Riviera Country Club,Riviera,Preliminary,2028-07-20T09:00:00,2028-07-20T18:00:00,America/Los_Angeles,540,True,False,1
+HBL22,6,Handball,Long Beach Arena,Long Beach,Preliminary,2028-07-20T09:00:00,2028-07-20T12:30:00,America/Los_Angeles,210,True,False,1
+HOC15,6,Hockey,Carson Field,Carson,Preliminary,2028-07-20T09:00:00,2028-07-20T14:00:00,America/Los_Angeles,300,True,False,1
+ROW06,6,Rowing,Marine Stadium,Long Beach,Final,2028-07-20T09:00:00,2028-07-20T11:00:00,America/Los_Angeles,120,True,False,8
+VVO21,6,Volleyball,Honda Center,Anaheim,Preliminary,2028-07-20T09:00:00,2028-07-20T11:30:00,America/Los_Angeles,150,True,False,1
+ATH11,6,Athletics (Track & Field),LA Memorial Coliseum,Exposition Park,Final,2028-07-20T09:30:00,2028-07-20T12:00:00,America/Los_Angeles,150,True,False,5
+SHO07,6,Shooting (Rifle & Pistol),Long Beach Target Shooting Hall,Long Beach,Final,2028-07-20T09:30:00,2028-07-20T13:30:00,America/Los_Angeles,240,True,False,2
+DIV07,6,Diving,Rose Bowl Aquatics Center,Pasadena,Preliminary,2028-07-20T10:00:00,2028-07-20T12:30:00,America/Los_Angeles,150,True,False,1
+JUD11,6,Judo,LA Convention Center Hall 2,DTLA,Preliminary,2028-07-20T10:00:00,2028-07-20T14:00:00,America/Los_Angeles,240,True,False,2
+TTE16,6,Table Tennis,LA Convention Center Hall 3,DTLA,Preliminary,2028-07-20T10:00:00,2028-07-20T13:00:00,America/Los_Angeles,180,True,False,2
+TEN06,6,Tennis,Carson Center Court,Carson,Semifinal,2028-07-20T11:00:00,2028-07-20T16:30:00,America/Los_Angeles,330,True,False,1
+TEN07,6,Tennis,Carson Court 1,Carson,Preliminary,2028-07-20T11:00:00,2028-07-20T20:00:00,America/Los_Angeles,540,True,False,1
+TEN08,6,Tennis,Carson Court 2,Carson,Preliminary,2028-07-20T11:00:00,2028-07-20T20:00:00,America/Los_Angeles,540,True,False,1
+TEN09,6,Tennis,Carson Courts 3-11,Carson,Preliminary,2028-07-20T11:00:00,2028-07-20T20:00:00,America/Los_Angeles,540,True,False,1
+WPO21,6,Water Polo,Long Beach Aquatics Center,Long Beach,Quarterfinal,2028-07-20T11:30:00,2028-07-20T14:30:00,America/Los_Angeles,180,True,False,1
+BKB22,6,Basketball,Inglewood Dome,Inglewood,Preliminary,2028-07-20T12:00:00,2028-07-20T16:15:00,America/Los_Angeles,255,True,False,1
+BOX11,6,Boxing - Preliminary Stages,Peacock Theater,DTLA,Quarterfinal,2028-07-20T12:00:00,2028-07-20T15:00:00,America/Los_Angeles,180,True,False,4
+VVO22,6,Volleyball,Honda Center,Anaheim,Preliminary,2028-07-20T13:00:00,2028-07-20T15:30:00,America/Los_Angeles,150,True,False,1
+BK313,6,3x3 Basketball,Valley Complex 3,Valley,Preliminary,2028-07-20T14:00:00,2028-07-20T16:00:00,America/Los_Angeles,120,True,False,2
+BDM17,6,Badminton,Galen Center,Exposition Park,Preliminary,2028-07-20T14:00:00,2028-07-20T17:25:00,America/Los_Angeles,205,True,False,2
+VBV17,6,Beach Volleyball,Alamitos Beach Stadium,Long Beach,Preliminary,2028-07-20T14:00:00,2028-07-20T18:00:00,America/Los_Angeles,240,True,False,1
+FFB11,6,Flag Football,Exposition Park Stadium,Exposition Park,Semifinal,2028-07-20T14:00:00,2028-07-20T16:10:00,America/Los_Angeles,130,True,False,1
+HBL23,6,Handball,Long Beach Arena,Long Beach,Preliminary,2028-07-20T14:00:00,2028-07-20T17:30:00,America/Los_Angeles,210,True,False,1
+SAL05,6,Sailing (Windsurfing & Kite),Belmont Shore,Long Beach,Final,2028-07-20T14:00:00,2028-07-20T17:00:00,America/Los_Angeles,180,True,False,2
+TTE17,6,Table Tennis,LA Convention Center Hall 3,DTLA,Preliminary,2028-07-20T15:00:00,2028-07-20T18:00:00,America/Los_Angeles,180,True,False,2
+ATH12,6,Athletics (Track & Field),LA Memorial Coliseum,Exposition Park,Final,2028-07-20T15:30:00,2028-07-20T18:30:00,America/Los_Angeles,180,True,False,8
+DIV08,6,Diving,Rose Bowl Aquatics Center,Pasadena,Semifinal,2028-07-20T15:30:00,2028-07-20T17:30:00,America/Los_Angeles,120,True,False,1
+JUD12,6,Judo,LA Convention Center Hall 2,DTLA,Final,2028-07-20T16:00:00,2028-07-20T19:00:00,America/Los_Angeles,180,True,False,8
+EQU07,6,Equestrian,Santa Anita Park,Arcadia,Preliminary,2028-07-20T16:15:00,2028-07-20T19:00:00,America/Los_Angeles,165,True,False,1
+HOC16,6,Hockey,Carson Field,Carson,Preliminary,2028-07-20T17:00:00,2028-07-20T22:00:00,America/Los_Angeles,300,True,False,1
+VVO23,6,Volleyball,Honda Center,Anaheim,Preliminary,2028-07-20T17:00:00,2028-07-20T19:30:00,America/Los_Angeles,150,True,False,1
+WPO22,6,Water Polo,Long Beach Aquatics Center,Long Beach,Quarterfinal,2028-07-20T17:00:00,2028-07-20T20:00:00,America/Los_Angeles,180,True,False,1
+BK314,6,3x3 Basketball,Valley Complex 3,Valley,Preliminary,2028-07-20T17:30:00,2028-07-20T19:30:00,America/Los_Angeles,120,True,False,2
+GAR11,6,Artistic Gymnastics,DTLA Arena,DTLA,Final,2028-07-20T18:00:00,2028-07-20T20:30:00,America/Los_Angeles,150,True,False,1
+BKB23,6,Basketball,Inglewood Dome,Inglewood,Preliminary,2028-07-20T18:00:00,2028-07-20T19:45:00,America/Los_Angeles,105,True,False,1
+CKT14,6,Cricket,Fairgrounds Cricket Stadium,Pomona,Final,2028-07-20T18:00:00,2028-07-20T22:00:00,America/Los_Angeles,240,True,False,1
+FEN12,6,Fencing,LA Convention Center Hall 1,DTLA,Final,2028-07-20T18:30:00,2028-07-20T21:40:00,America/Los_Angeles,190,True,False,2
+TEN10,6,Tennis,Carson Center Court,Carson,Final,2028-07-20T18:30:00,2028-07-20T00:00:00,America/Los_Angeles,-1110,True,False,2
+BOX12,6,Boxing - Preliminary Stages,Peacock Theater,DTLA,Quarterfinal,2028-07-20T19:00:00,2028-07-20T22:00:00,America/Los_Angeles,180,True,False,4
+HBL24,6,Handball,Long Beach Arena,Long Beach,Preliminary,2028-07-20T19:00:00,2028-07-20T22:30:00,America/Los_Angeles,210,True,False,1
+SQU06,6,Squash,Comcast Squash Center at Universal Studios,Universal City,Quarterfinal,2028-07-20T19:30:00,2028-07-20T23:15:00,America/Los_Angeles,225,True,False,1
+BDM18,6,Badminton,Galen Center,Exposition Park,Quarterfinal,2028-07-20T20:00:00,2028-07-20T23:25:00,America/Los_Angeles,205,True,False,2
+VBV18,6,Beach Volleyball,Alamitos Beach Stadium,Long Beach,Preliminary,2028-07-20T20:00:00,2028-07-20T23:00:00,America/Los_Angeles,180,True,False,1
+TTE18,6,Table Tennis,LA Convention Center Hall 3,DTLA,Preliminary,2028-07-20T20:00:00,2028-07-20T22:00:00,America/Los_Angeles,120,True,False,2
+SKB04,6,Skateboarding (Street),Valley Complex 1,Valley,Final,2028-07-20T20:30:00,2028-07-20T22:00:00,America/Los_Angeles,90,True,False,1
+BK315,6,3x3 Basketball,Valley Complex 3,Valley,Preliminary,2028-07-20T21:00:00,2028-07-20T23:00:00,America/Los_Angeles,120,True,False,2
+VVO24,6,Volleyball,Honda Center,Anaheim,Preliminary,2028-07-20T21:00:00,2028-07-20T23:30:00,America/Los_Angeles,150,True,False,1
+BKB24,6,Basketball,Inglewood Dome,Inglewood,Preliminary,2028-07-20T21:30:00,2028-07-20T23:15:00,America/Los_Angeles,105,True,False,1
+FBL43,7,Football (Soccer) - Preliminary Stages,TBD,TBD,Quarterfinal,2028-07-21T00:00:00,2028-07-21T23:59:00,America/Los_Angeles,1439,True,False,1
+FBL44,7,Football (Soccer) - Preliminary Stages,TBD,TBD,Quarterfinal,2028-07-21T00:00:00,2028-07-21T23:59:00,America/Los_Angeles,1439,True,False,1
+FBL45,7,Football (Soccer) - Preliminary Stages,TBD,TBD,Quarterfinal,2028-07-21T00:00:00,2028-07-21T23:59:00,America/Los_Angeles,1439,True,False,1
+FBL46,7,Football (Soccer) - Preliminary Stages,TBD,TBD,Quarterfinal,2028-07-21T00:00:00,2028-07-21T23:59:00,America/Los_Angeles,1439,True,False,1
+BDM19,7,Badminton,Galen Center,Exposition Park,Final,2028-07-21T08:00:00,2028-07-21T13:05:00,America/Los_Angeles,305,True,False,3
+VBV19,7,Beach Volleyball,Alamitos Beach Stadium,Long Beach,Preliminary,2028-07-21T09:00:00,2028-07-21T12:00:00,America/Los_Angeles,180,True,False,1
+CSL08,7,Canoe Slalom,OKC Whitewater Center,OKC,Preliminary,2028-07-21T09:00:00,2028-07-21T11:00:00,America/Chicago,120,True,True,2
+EQU08,7,Equestrian,Santa Anita Park,Arcadia,Preliminary,2028-07-21T09:00:00,2028-07-21T11:45:00,America/Los_Angeles,165,True,False,1
+FEN13,7,Fencing,LA Convention Center Hall 1,DTLA,Semifinal,2028-07-21T09:00:00,2028-07-21T14:30:00,America/Los_Angeles,330,True,False,5
+GLF03,7,Golf,Riviera Country Club,Riviera,Preliminary,2028-07-21T09:00:00,2028-07-21T18:00:00,America/Los_Angeles,540,True,False,1
+HBL25,7,Handball,Long Beach Arena,Long Beach,Preliminary,2028-07-21T09:00:00,2028-07-21T12:30:00,America/Los_Angeles,210,True,False,1
+HOC17,7,Hockey,Carson Field,Carson,Preliminary,2028-07-21T09:00:00,2028-07-21T14:00:00,America/Los_Angeles,300,True,False,1
+VVO25,7,Volleyball,Honda Center,Anaheim,Preliminary,2028-07-21T09:00:00,2028-07-21T11:30:00,America/Los_Angeles,150,True,False,1
+ATH13,7,Athletics (Track & Field),LA Memorial Coliseum,Exposition Park,Final,2028-07-21T09:35:00,2028-07-21T12:25:00,America/Los_Angeles,170,True,False,6
+SHO08,7,Shooting (Shotgun),Whittier Narrows Clay Shooting Center,Whittier Narrows,Preliminary,2028-07-21T09:45:00,2028-07-21T14:45:00,America/Los_Angeles,300,True,False,2
+DIV09,7,Diving,Rose Bowl Aquatics Center,Pasadena,Preliminary,2028-07-21T10:00:00,2028-07-21T12:30:00,America/Los_Angeles,150,True,False,1
+JUD13,7,Judo,LA Convention Center Hall 2,DTLA,Preliminary,2028-07-21T10:00:00,2028-07-21T14:00:00,America/Los_Angeles,240,True,False,2
+ROW07,7,Rowing,Marine Stadium,Long Beach,Final,2028-07-21T10:00:00,2028-07-21T11:30:00,America/Los_Angeles,90,True,False,7
+TTE19,7,Table Tennis,LA Convention Center Hall 3,DTLA,Quarterfinal,2028-07-21T10:00:00,2028-07-21T13:00:00,America/Los_Angeles,180,True,False,2
+TEN11,7,Tennis,Carson Center Court,Carson,Preliminary,2028-07-21T11:00:00,2028-07-21T16:30:00,America/Los_Angeles,330,True,False,1
+TEN12,7,Tennis,Carson Court 1,Carson,Preliminary,2028-07-21T11:00:00,2028-07-21T20:00:00,America/Los_Angeles,540,True,False,2
+TEN13,7,Tennis,Carson Court 2,Carson,Preliminary,2028-07-21T11:00:00,2028-07-21T20:00:00,America/Los_Angeles,540,True,False,2
+TEN14,7,Tennis,Carson Courts 3-11,Carson,Preliminary,2028-07-21T11:00:00,2028-07-21T20:00:00,America/Los_Angeles,540,True,False,2
+WPO23,7,Water Polo,Long Beach Aquatics Center,Long Beach,Semifinal,2028-07-21T11:30:00,2028-07-21T14:30:00,America/Los_Angeles,180,True,False,1
+BKB25,7,Basketball,Inglewood Dome,Inglewood,Preliminary,2028-07-21T12:00:00,2028-07-21T16:15:00,America/Los_Angeles,255,True,False,1
+BOX13,7,Boxing - Preliminary Stages,Peacock Theater,DTLA,Quarterfinal,2028-07-21T12:00:00,2028-07-21T15:00:00,America/Los_Angeles,180,True,False,4
+GTR01,7,Trampoline Gymnastics,DTLA Arena,DTLA,Final,2028-07-21T12:30:00,2028-07-21T15:00:00,America/Los_Angeles,150,True,False,2
+VVO26,7,Volleyball,Honda Center,Anaheim,Preliminary,2028-07-21T13:00:00,2028-07-21T15:30:00,America/Los_Angeles,150,True,False,1
+FFB12,7,Flag Football,Exposition Park Stadium,Exposition Park,Semifinal,2028-07-21T13:30:00,2028-07-21T15:40:00,America/Los_Angeles,130,True,False,1
+BK316,7,3x3 Basketball,Valley Complex 3,Valley,Preliminary,2028-07-21T14:00:00,2028-07-21T16:00:00,America/Los_Angeles,120,True,False,2
+VBV20,7,Beach Volleyball,Alamitos Beach Stadium,Long Beach,Preliminary,2028-07-21T14:00:00,2028-07-21T18:00:00,America/Los_Angeles,240,True,False,1
+HBL26,7,Handball,Long Beach Arena,Long Beach,Preliminary,2028-07-21T14:00:00,2028-07-21T17:30:00,America/Los_Angeles,210,True,False,1
+TTE20,7,Table Tennis,LA Convention Center Hall 3,DTLA,Quarterfinal,2028-07-21T15:00:00,2028-07-21T18:00:00,America/Los_Angeles,180,True,False,2
+BDM20,7,Badminton,Galen Center,Exposition Park,Semifinal,2028-07-21T16:00:00,2028-07-21T23:05:00,America/Los_Angeles,425,True,False,2
+DIV10,7,Diving,Rose Bowl Aquatics Center,Pasadena,Final,2028-07-21T16:00:00,2028-07-21T17:15:00,America/Los_Angeles,75,True,False,1
+JUD14,7,Judo,LA Convention Center Hall 2,DTLA,Final,2028-07-21T16:00:00,2028-07-21T19:00:00,America/Los_Angeles,180,True,False,8
+ATH14,7,Athletics (Track & Field),LA Memorial Coliseum,Exposition Park,Final,2028-07-21T16:15:00,2028-07-21T19:20:00,America/Los_Angeles,185,True,False,8
+EQU09,7,Equestrian,Santa Anita Park,Arcadia,Preliminary,2028-07-21T16:15:00,2028-07-21T19:00:00,America/Los_Angeles,165,True,False,1
+HOC18,7,Hockey,Carson Field,Carson,Preliminary,2028-07-21T17:00:00,2028-07-21T22:00:00,America/Los_Angeles,300,True,False,1
+VVO27,7,Volleyball,Honda Center,Anaheim,Preliminary,2028-07-21T17:00:00,2028-07-21T19:30:00,America/Los_Angeles,150,True,False,1
+WPO24,7,Water Polo,Long Beach Aquatics Center,Long Beach,Semifinal,2028-07-21T17:00:00,2028-07-21T20:00:00,America/Los_Angeles,180,True,False,1
+BK317,7,3x3 Basketball,Valley Complex 3,Valley,Quarterfinal,2028-07-21T17:30:00,2028-07-21T19:30:00,America/Los_Angeles,120,True,False,2
+FFB13,7,Flag Football,Exposition Park Stadium,Exposition Park,Final,2028-07-21T17:30:00,2028-07-21T20:40:00,America/Los_Angeles,190,True,False,2
+BKB26,7,Basketball,Inglewood Dome,Inglewood,Preliminary,2028-07-21T18:00:00,2028-07-21T19:45:00,America/Los_Angeles,105,True,False,1
+FEN14,7,Fencing,LA Convention Center Hall 1,DTLA,Final,2028-07-21T18:30:00,2028-07-21T21:20:00,America/Los_Angeles,170,True,False,2
+TEN15,7,Tennis,Carson Center Court,Carson,Preliminary,2028-07-21T18:30:00,2028-07-21T23:30:00,America/Los_Angeles,300,True,False,1
+BOX14,7,Boxing - Preliminary Stages,Peacock Theater,DTLA,Quarterfinal,2028-07-21T19:00:00,2028-07-21T22:00:00,America/Los_Angeles,180,True,False,4
+HBL27,7,Handball,Long Beach Arena,Long Beach,Preliminary,2028-07-21T19:00:00,2028-07-21T22:30:00,America/Los_Angeles,210,True,False,1
+ARC03,7,Archery,Carson Stadium,Carson,Final,2028-07-21T19:30:00,2028-07-21T23:15:00,America/Los_Angeles,225,True,False,5
+VBV21,7,Beach Volleyball,Alamitos Beach Stadium,Long Beach,Preliminary,2028-07-21T20:00:00,2028-07-21T23:00:00,America/Los_Angeles,180,True,False,1
+GTR02,7,Trampoline Gymnastics,DTLA Arena,DTLA,Final,2028-07-21T20:00:00,2028-07-21T22:30:00,America/Los_Angeles,150,True,False,2
+SQU07,7,Squash,Comcast Squash Center at Universal Studios,Universal City,Semifinal,2028-07-21T20:30:00,2028-07-21T23:15:00,America/Los_Angeles,165,True,False,1
+BK318,7,3x3 Basketball,Valley Complex 3,Valley,Quarterfinal,2028-07-21T21:00:00,2028-07-21T23:00:00,America/Los_Angeles,120,True,False,2
+TTE21,7,Table Tennis,LA Convention Center Hall 3,DTLA,Quarterfinal,2028-07-21T21:00:00,2028-07-21T23:00:00,America/Los_Angeles,120,True,False,2
+VVO28,7,Volleyball,Honda Center,Anaheim,Preliminary,2028-07-21T21:00:00,2028-07-21T23:30:00,America/Los_Angeles,150,True,False,1
+BKB27,7,Basketball,Inglewood Dome,Inglewood,Preliminary,2028-07-21T21:30:00,2028-07-21T23:15:00,America/Los_Angeles,105,True,False,1
+FBL47,8,Football (Soccer) - Preliminary Stages,TBD,TBD,Quarterfinal,2028-07-22T00:00:00,2028-07-22T23:59:00,America/Los_Angeles,1439,True,False,1
+FBL48,8,Football (Soccer) - Preliminary Stages,TBD,TBD,Quarterfinal,2028-07-22T00:00:00,2028-07-22T23:59:00,America/Los_Angeles,1439,True,False,1
+FBL49,8,Football (Soccer) - Preliminary Stages,TBD,TBD,Quarterfinal,2028-07-22T00:00:00,2028-07-22T23:59:00,America/Los_Angeles,1439,True,False,1
+FBL50,8,Football (Soccer) - Preliminary Stages,TBD,TBD,Quarterfinal,2028-07-22T00:00:00,2028-07-22T23:59:00,America/Los_Angeles,1439,True,False,1
+BDM21,8,Badminton,Galen Center,Exposition Park,Final,2028-07-22T08:00:00,2028-07-22T10:45:00,America/Los_Angeles,165,True,False,2
+JUD15,8,Judo,LA Convention Center Hall 2,DTLA,Semifinal,2028-07-22T08:00:00,2028-07-22T14:00:00,America/Los_Angeles,360,True,False,3
+VBV22,8,Beach Volleyball,Alamitos Beach Stadium,Long Beach,Preliminary,2028-07-22T09:00:00,2028-07-22T11:00:00,America/Los_Angeles,120,True,False,1
+CSL09,8,Canoe Slalom,OKC Whitewater Center,OKC,Final,2028-07-22T09:00:00,2028-07-22T11:20:00,America/Chicago,140,True,True,6
+CKT15,8,Cricket,Fairgrounds Cricket Stadium,Pomona,Preliminary,2028-07-22T09:00:00,2028-07-22T12:30:00,America/Los_Angeles,210,True,False,1
+EQU10,8,Equestrian,Santa Anita Park,Arcadia,Final,2028-07-22T09:00:00,2028-07-22T11:45:00,America/Los_Angeles,165,True,False,1
+FEN15,8,Fencing,LA Convention Center Hall 1,DTLA,Semifinal,2028-07-22T09:00:00,2028-07-22T14:30:00,America/Los_Angeles,330,True,False,5
+GLF04,8,Golf,Riviera Country Club,Riviera,Final,2028-07-22T09:00:00,2028-07-22T18:30:00,America/Los_Angeles,570,True,False,1
+HBL28,8,Handball,Long Beach Arena,Long Beach,Preliminary,2028-07-22T09:00:00,2028-07-22T12:30:00,America/Los_Angeles,210,True,False,1
+HOC19,8,Hockey,Carson Field,Carson,Preliminary,2028-07-22T09:00:00,2028-07-22T14:00:00,America/Los_Angeles,300,True,False,1
+VVO29,8,Volleyball,Honda Center,Anaheim,Preliminary,2028-07-22T09:00:00,2028-07-22T11:30:00,America/Los_Angeles,150,True,False,1
+ARC04,8,Archery,Carson Stadium,Carson,Preliminary,2028-07-22T09:30:00,2028-07-22T12:35:00,America/Los_Angeles,185,True,False,4
+SHO09,8,Shooting (Rifle & Pistol),Long Beach Target Shooting Hall,Long Beach,Preliminary,2028-07-22T09:30:00,2028-07-22T12:00:00,America/Los_Angeles,150,True,False,1
+SWM01,8,Swimming,2028 Stadium,Inglewood,Preliminary,2028-07-22T09:30:00,2028-07-22T11:30:00,America/Los_Angeles,120,True,False,8
+SHO10,8,Shooting (Shotgun),Whittier Narrows Clay Shooting Center,Whittier Narrows,Final,2028-07-22T09:45:00,2028-07-22T17:15:00,America/Los_Angeles,450,True,False,4
+DIV11,8,Diving,Rose Bowl Aquatics Center,Pasadena,Semifinal,2028-07-22T10:00:00,2028-07-22T12:00:00,America/Los_Angeles,120,True,False,1
+ROW08,8,Rowing,Marine Stadium,Long Beach,Final,2028-07-22T10:30:00,2028-07-22T11:50:00,America/Los_Angeles,80,True,False,6
+TEN16,8,Tennis,Carson Center Court,Carson,Preliminary,2028-07-22T11:00:00,2028-07-22T16:30:00,America/Los_Angeles,330,True,False,1
+TEN17,8,Tennis,Carson Court 1,Carson,Preliminary,2028-07-22T11:00:00,2028-07-22T20:00:00,America/Los_Angeles,540,True,False,2
+TEN18,8,Tennis,Carson Court 2,Carson,Preliminary,2028-07-22T11:00:00,2028-07-22T20:00:00,America/Los_Angeles,540,True,False,2
+TEN19,8,Tennis,Carson Courts 3-11,Carson,Preliminary,2028-07-22T11:00:00,2028-07-22T20:00:00,America/Los_Angeles,540,True,False,2
+GAR12,8,Artistic Gymnastics,DTLA Arena,DTLA,Final,2028-07-22T11:30:00,2028-07-22T14:15:00,America/Los_Angeles,165,True,False,1
+CRD02,8,Cycling Road (Road Race),Venice Beach Boardwalk - Start,Venice,Final,2028-07-22T11:30:00,2028-07-22T16:15:00,America/Los_Angeles,285,True,False,1
+WPO25,8,Water Polo,Long Beach Aquatics Center,Long Beach,Bronze,2028-07-22T11:30:00,2028-07-22T13:00:00,America/Los_Angeles,90,True,False,1
+BOX15,8,Boxing - Preliminary Stages,Peacock Theater,DTLA,Semifinal,2028-07-22T12:00:00,2028-07-22T15:00:00,America/Los_Angeles,180,True,False,7
+FFB14,8,Flag Football,Exposition Park Stadium,Exposition Park,Final,2028-07-22T12:30:00,2028-07-22T15:40:00,America/Los_Angeles,190,True,False,2
+BKB28,8,Basketball,Inglewood Dome,Inglewood,Quarterfinal,2028-07-22T13:00:00,2028-07-22T15:00:00,America/Los_Angeles,120,True,False,1
+VVO30,8,Volleyball,Honda Center,Anaheim,Preliminary,2028-07-22T13:00:00,2028-07-22T15:30:00,America/Los_Angeles,150,True,False,1
+HBL29,8,Handball,Long Beach Arena,Long Beach,Preliminary,2028-07-22T14:00:00,2028-07-22T17:30:00,America/Los_Angeles,210,True,False,1
+TTE22,8,Table Tennis,LA Convention Center Hall 3,DTLA,Semifinal,2028-07-22T14:00:00,2028-07-22T16:00:00,America/Los_Angeles,120,True,False,1
+ATH15,8,Athletics (Track & Field),LA Memorial Coliseum,Exposition Park,Final,2028-07-22T14:05:00,2028-07-22T18:20:00,America/Los_Angeles,255,True,False,10
+WPO26,8,Water Polo,Long Beach Aquatics Center,Long Beach,Final,2028-07-22T15:00:00,2028-07-22T17:00:00,America/Los_Angeles,120,True,False,1
+DIV12,8,Diving,Rose Bowl Aquatics Center,Pasadena,Final,2028-07-22T15:30:00,2028-07-22T16:45:00,America/Los_Angeles,75,True,False,1
+JUD16,8,Judo,LA Convention Center Hall 2,DTLA,Final,2028-07-22T16:00:00,2028-07-22T19:00:00,America/Los_Angeles,180,True,False,2
+EQU11,8,Equestrian,Santa Anita Park,Arcadia,Final,2028-07-22T16:15:00,2028-07-22T19:00:00,America/Los_Angeles,165,True,False,1
+BK319,8,3x3 Basketball,Valley Complex 3,Valley,Semifinal,2028-07-22T17:00:00,2028-07-22T19:00:00,America/Los_Angeles,120,True,False,2
+HOC20,8,Hockey,Carson Field,Carson,Preliminary,2028-07-22T17:00:00,2028-07-22T22:00:00,America/Los_Angeles,300,True,False,1
+VVO31,8,Volleyball,Honda Center,Anaheim,Preliminary,2028-07-22T17:00:00,2028-07-22T19:30:00,America/Los_Angeles,150,True,False,1
+CKT16,8,Cricket,Fairgrounds Cricket Stadium,Pomona,Preliminary,2028-07-22T18:00:00,2028-07-22T21:30:00,America/Los_Angeles,210,True,False,1
+SWM02,8,Swimming,2028 Stadium,Inglewood,Final,2028-07-22T18:00:00,2028-07-22T20:00:00,America/Los_Angeles,120,True,False,8
+BDM22,8,Badminton,Galen Center,Exposition Park,Quarterfinal,2028-07-22T18:30:00,2028-07-22T23:15:00,America/Los_Angeles,285,True,False,1
+FEN16,8,Fencing,LA Convention Center Hall 1,DTLA,Final,2028-07-22T18:30:00,2028-07-22T21:20:00,America/Los_Angeles,170,True,False,2
+TEN20,8,Tennis,Carson Center Court,Carson,Preliminary,2028-07-22T18:30:00,2028-07-22T23:30:00,America/Los_Angeles,300,True,False,1
+VBV23,8,Beach Volleyball,Alamitos Beach Stadium,Long Beach,Preliminary,2028-07-22T19:00:00,2028-07-22T23:00:00,America/Los_Angeles,240,True,False,1
+BOX16,8,Boxing - Preliminary Stages,Peacock Theater,DTLA,Semifinal,2028-07-22T19:00:00,2028-07-22T22:00:00,America/Los_Angeles,180,True,False,7
+HBL30,8,Handball,Long Beach Arena,Long Beach,Preliminary,2028-07-22T19:00:00,2028-07-22T22:30:00,America/Los_Angeles,210,True,False,1
+ARC05,8,Archery,Carson Stadium,Carson,Preliminary,2028-07-22T20:00:00,2028-07-22T22:40:00,America/Los_Angeles,160,True,False,4
+BKB29,8,Basketball,Inglewood Dome,Inglewood,Quarterfinal,2028-07-22T20:00:00,2028-07-22T22:00:00,America/Los_Angeles,120,True,False,1
+SQU08,8,Squash,Comcast Squash Center at Universal Studios,Universal City,Semifinal,2028-07-22T20:30:00,2028-07-22T23:15:00,America/Los_Angeles,165,True,False,1
+BK320,8,3x3 Basketball,Valley Complex 3,Valley,Final,2028-07-22T21:00:00,2028-07-22T23:30:00,America/Los_Angeles,150,True,False,4
+TTE23,8,Table Tennis,LA Convention Center Hall 3,DTLA,Final,2028-07-22T21:00:00,2028-07-22T23:15:00,America/Los_Angeles,135,True,False,2
+VVO32,8,Volleyball,Honda Center,Anaheim,Preliminary,2028-07-22T21:00:00,2028-07-22T23:30:00,America/Los_Angeles,150,True,False,1
+BDM23,9,Badminton,Galen Center,Exposition Park,Final,2028-07-23T08:00:00,2028-07-23T11:35:00,America/Los_Angeles,215,True,False,2
+BSB13,9,Softball,OKC Softball Park,OKC,Preliminary,2028-07-23T09:00:00,2028-07-23T11:30:00,America/Chicago,150,True,True,1
+VBV24,9,Beach Volleyball,Alamitos Beach Stadium,Long Beach,Preliminary,2028-07-23T09:00:00,2028-07-23T11:00:00,America/Los_Angeles,120,True,False,1
+CKT17,9,Cricket,Fairgrounds Cricket Stadium,Pomona,Preliminary,2028-07-23T09:00:00,2028-07-23T12:30:00,America/Los_Angeles,210,True,False,1
+CRD03,9,Cycling Road (Road Race),Venice Beach Boardwalk - Start,Venice,Final,2028-07-23T09:00:00,2028-07-23T16:15:00,America/Los_Angeles,435,True,False,1
+FEN17,9,Fencing,LA Convention Center Hall 1,DTLA,Semifinal,2028-07-23T09:00:00,2028-07-23T16:10:00,America/Los_Angeles,430,True,False,5
+HBL31,9,Handball,Long Beach Arena,Long Beach,Quarterfinal,2028-07-23T09:00:00,2028-07-23T11:00:00,America/Los_Angeles,120,True,False,1
+HOC21,9,Hockey,Carson Field,Carson,Preliminary,2028-07-23T09:00:00,2028-07-23T14:00:00,America/Los_Angeles,300,True,False,1
+VVO33,9,Volleyball,Honda Center,Anaheim,Preliminary,2028-07-23T09:00:00,2028-07-23T11:30:00,America/Los_Angeles,150,True,False,1
+ARC06,9,Archery,Carson Stadium,Carson,Preliminary,2028-07-23T09:30:00,2028-07-23T12:35:00,America/Los_Angeles,185,True,False,4
+SHO11,9,Shooting (Rifle & Pistol),Long Beach Target Shooting Hall,Long Beach,Final,2028-07-23T09:30:00,2028-07-23T14:00:00,America/Los_Angeles,270,True,False,2
+SWM03,9,Swimming,2028 Stadium,Inglewood,Preliminary,2028-07-23T09:30:00,2028-07-23T11:30:00,America/Los_Angeles,120,True,False,4
+GLF05,9,Golf,Riviera Country Club,Riviera,Preliminary,2028-07-23T10:00:00,2028-07-23T16:55:00,America/Los_Angeles,415,True,False,1
+GAR13,9,Artistic Gymnastics,DTLA Arena,DTLA,Final,2028-07-23T11:00:00,2028-07-23T13:45:00,America/Los_Angeles,165,True,False,1
+TEN21,9,Tennis,Carson Center Court,Carson,Preliminary,2028-07-23T11:00:00,2028-07-23T16:30:00,America/Los_Angeles,330,True,False,1
+TEN22,9,Tennis,Carson Court 1,Carson,Preliminary,2028-07-23T11:00:00,2028-07-23T20:00:00,America/Los_Angeles,540,True,False,3
+TEN23,9,Tennis,Carson Court 2,Carson,Preliminary,2028-07-23T11:00:00,2028-07-23T20:00:00,America/Los_Angeles,540,True,False,3
+TEN24,9,Tennis,Carson Courts 3-11,Carson,Preliminary,2028-07-23T11:00:00,2028-07-23T20:00:00,America/Los_Angeles,540,True,False,3
+WPO27,9,Water Polo,Long Beach Aquatics Center,Long Beach,Bronze,2028-07-23T11:30:00,2028-07-23T13:00:00,America/Los_Angeles,90,True,False,1
+BOX17,9,Boxing - Preliminary Stages,Peacock Theater,DTLA,Semifinal,2028-07-23T12:00:00,2028-07-23T14:30:00,America/Los_Angeles,150,True,False,3
+HBL32,9,Handball,Long Beach Arena,Long Beach,Quarterfinal,2028-07-23T12:30:00,2028-07-23T14:30:00,America/Los_Angeles,120,True,False,1
+BKB30,9,Basketball,Inglewood Dome,Inglewood,Quarterfinal,2028-07-23T13:00:00,2028-07-23T15:00:00,America/Los_Angeles,120,True,False,1
+VBV25,9,Beach Volleyball,Alamitos Beach Stadium,Long Beach,Preliminary,2028-07-23T13:00:00,2028-07-23T15:00:00,America/Los_Angeles,120,True,False,1
+VVO34,9,Volleyball,Honda Center,Anaheim,Preliminary,2028-07-23T13:00:00,2028-07-23T15:30:00,America/Los_Angeles,150,True,False,1
+SAL06,9,"Sailing (Dinghy, Skiff & Multihull)",Port of Los Angeles,Port of Los Angeles,Preliminary,2028-07-23T14:00:00,2028-07-23T20:00:00,America/Los_Angeles,360,True,False,2
+TTE24,9,Table Tennis,LA Convention Center Hall 3,DTLA,Semifinal,2028-07-23T14:00:00,2028-07-23T16:00:00,America/Los_Angeles,120,True,False,1
+WPO28,9,Water Polo,Long Beach Aquatics Center,Long Beach,Final,2028-07-23T15:00:00,2028-07-23T17:00:00,America/Los_Angeles,120,True,False,1
+ATH16,9,Athletics (Track & Field),LA Memorial Coliseum,Exposition Park,Final,2028-07-23T15:35:00,2028-07-23T18:10:00,America/Los_Angeles,155,True,False,9
+BSB14,9,Softball,OKC Softball Park,OKC,Preliminary,2028-07-23T16:00:00,2028-07-23T18:30:00,America/Chicago,150,True,True,1
+HBL33,9,Handball,Long Beach Arena,Long Beach,Quarterfinal,2028-07-23T16:00:00,2028-07-23T18:00:00,America/Los_Angeles,120,True,False,1
+VBV26,9,Beach Volleyball,Alamitos Beach Stadium,Long Beach,Preliminary,2028-07-23T17:00:00,2028-07-23T19:00:00,America/Los_Angeles,120,True,False,1
+HOC22,9,Hockey,Carson Field,Carson,Preliminary,2028-07-23T17:00:00,2028-07-23T22:00:00,America/Los_Angeles,300,True,False,1
+VVO35,9,Volleyball,Honda Center,Anaheim,Preliminary,2028-07-23T17:00:00,2028-07-23T19:30:00,America/Los_Angeles,150,True,False,1
+CKT18,9,Cricket,Fairgrounds Cricket Stadium,Pomona,Preliminary,2028-07-23T18:00:00,2028-07-23T21:30:00,America/Los_Angeles,210,True,False,1
+SWM04,9,Swimming,2028 Stadium,Inglewood,Final,2028-07-23T18:00:00,2028-07-23T20:00:00,America/Los_Angeles,120,True,False,8
+FEN18,9,Fencing,LA Convention Center Hall 1,DTLA,Final,2028-07-23T18:30:00,2028-07-23T21:40:00,America/Los_Angeles,190,True,False,2
+TEN25,9,Tennis,Carson Center Court,Carson,Preliminary,2028-07-23T18:30:00,2028-07-23T23:30:00,America/Los_Angeles,300,True,False,1
+BDM24,9,Badminton,Galen Center,Exposition Park,Bronze,2028-07-23T19:30:00,2028-07-23T23:25:00,America/Los_Angeles,235,True,False,2
+HBL34,9,Handball,Long Beach Arena,Long Beach,Quarterfinal,2028-07-23T19:30:00,2028-07-23T21:30:00,America/Los_Angeles,120,True,False,1
+ARC07,9,Archery,Carson Stadium,Carson,Preliminary,2028-07-23T20:00:00,2028-07-23T22:40:00,America/Los_Angeles,160,True,False,4
+BSB15,9,Softball,OKC Softball Park,OKC,Preliminary,2028-07-23T20:00:00,2028-07-23T22:30:00,America/Chicago,150,True,True,1
+BKB31,9,Basketball,Inglewood Dome,Inglewood,Quarterfinal,2028-07-23T20:00:00,2028-07-23T22:00:00,America/Los_Angeles,120,True,False,1
+SQU09,9,Squash,Comcast Squash Center at Universal Studios,Universal City,Final,2028-07-23T20:30:00,2028-07-23T23:30:00,America/Los_Angeles,180,True,False,2
+VBV27,9,Beach Volleyball,Alamitos Beach Stadium,Long Beach,Preliminary,2028-07-23T21:00:00,2028-07-23T23:00:00,America/Los_Angeles,120,True,False,1
+TTE25,9,Table Tennis,LA Convention Center Hall 3,DTLA,Final,2028-07-23T21:00:00,2028-07-23T23:15:00,America/Los_Angeles,135,True,False,2
+VVO36,9,Volleyball,Honda Center,Anaheim,Preliminary,2028-07-23T21:00:00,2028-07-23T23:30:00,America/Los_Angeles,150,True,False,1
+BDM25,10,Badminton,Galen Center,Exposition Park,Final,2028-07-24T08:00:00,2028-07-24T10:45:00,America/Los_Angeles,165,True,False,2
+GLF06,10,Golf,Riviera Country Club,Riviera,Final,2028-07-24T08:00:00,2028-07-24T14:00:00,America/Los_Angeles,360,True,False,1
+EQU12,10,Equestrian,Santa Anita Park,Arcadia,Final,2028-07-24T08:30:00,2028-07-24T12:00:00,America/Los_Angeles,210,True,False,1
+RCB01,10,Rowing Coastal Beach Sprints,Belmont Shore,Long Beach,Preliminary,2028-07-24T08:30:00,2028-07-24T12:15:00,America/Los_Angeles,225,True,False,6
+BSB16,10,Softball,OKC Softball Park,OKC,Preliminary,2028-07-24T09:00:00,2028-07-24T11:30:00,America/Chicago,150,True,True,1
+VBV28,10,Beach Volleyball,Alamitos Beach Stadium,Long Beach,Preliminary,2028-07-24T09:00:00,2028-07-24T11:00:00,America/Los_Angeles,120,True,False,1
+CKT19,10,Cricket,Fairgrounds Cricket Stadium,Pomona,Preliminary,2028-07-24T09:00:00,2028-07-24T12:30:00,America/Los_Angeles,210,True,False,1
+HBL35,10,Handball,Long Beach Arena,Long Beach,Quarterfinal,2028-07-24T09:00:00,2028-07-24T11:00:00,America/Los_Angeles,120,True,False,1
+HOC23,10,Hockey,Carson Field,Carson,Quarterfinal,2028-07-24T09:00:00,2028-07-24T14:00:00,America/Los_Angeles,300,True,False,1
+VVO37,10,Volleyball,Honda Center,Anaheim,Quarterfinal,2028-07-24T09:00:00,2028-07-24T11:30:00,America/Los_Angeles,150,True,False,1
+ARC08,10,Archery,Carson Stadium,Carson,Preliminary,2028-07-24T09:30:00,2028-07-24T12:35:00,America/Los_Angeles,185,True,False,2
+CLB01,10,Sport Climbing,Long Beach Climbing Theater,Long Beach,Semifinal,2028-07-24T09:30:00,2028-07-24T11:40:00,America/Los_Angeles,130,True,False,1
+SWM05,10,Swimming,2028 Stadium,Inglewood,Preliminary,2028-07-24T09:30:00,2028-07-24T11:30:00,America/Los_Angeles,120,True,False,6
+SHO12,10,Shooting (Shotgun),Whittier Narrows Clay Shooting Center,Whittier Narrows,Final,2028-07-24T09:45:00,2028-07-24T16:45:00,America/Los_Angeles,420,True,False,2
+TTE26,10,Table Tennis,LA Convention Center Hall 3,DTLA,Preliminary,2028-07-24T10:00:00,2028-07-24T15:00:00,America/Los_Angeles,300,True,False,1
+GAR14,10,Artistic Gymnastics,DTLA Arena,DTLA,Final,2028-07-24T11:00:00,2028-07-24T14:30:00,America/Los_Angeles,210,True,False,1
+TEN26,10,Tennis,Carson Center Court,Carson,Quarterfinal,2028-07-24T11:00:00,2028-07-24T16:30:00,America/Los_Angeles,330,True,False,1
+TEN27,10,Tennis,Carson Court 1,Carson,Quarterfinal,2028-07-24T11:00:00,2028-07-24T20:00:00,America/Los_Angeles,540,True,False,4
+TEN28,10,Tennis,Carson Court 2,Carson,Quarterfinal,2028-07-24T11:00:00,2028-07-24T20:00:00,America/Los_Angeles,540,True,False,4
+TEN29,10,Tennis,Carson Courts 3-11,Carson,Quarterfinal,2028-07-24T11:00:00,2028-07-24T20:00:00,America/Los_Angeles,540,True,False,4
+WRE01,10,Wrestling,LA Convention Center Hall 2,DTLA,Quarterfinal,2028-07-24T11:00:00,2028-07-24T13:00:00,America/Los_Angeles,120,True,False,6
+LAC01,10,Lacrosse,Exposition Park Stadium,Exposition Park,Preliminary,2028-07-24T12:00:00,2028-07-24T15:00:00,America/Los_Angeles,180,True,False,1
+HBL36,10,Handball,Long Beach Arena,Long Beach,Quarterfinal,2028-07-24T12:30:00,2028-07-24T14:30:00,America/Los_Angeles,120,True,False,1
+BKB32,10,Basketball,Inglewood Dome,Inglewood,Quarterfinal,2028-07-24T13:00:00,2028-07-24T15:00:00,America/Los_Angeles,120,True,False,1
+VBV29,10,Beach Volleyball,Alamitos Beach Stadium,Long Beach,Preliminary,2028-07-24T13:00:00,2028-07-24T15:00:00,America/Los_Angeles,120,True,False,1
+FBL51,10,Football (Soccer) - Final Stages,Rose Bowl Stadium,Pasadena,Semifinal,2028-07-24T13:00:00,2028-07-24T16:00:00,America/Los_Angeles,180,True,False,1
+VVO38,10,Volleyball,Honda Center,Anaheim,Quarterfinal,2028-07-24T13:00:00,2028-07-24T15:30:00,America/Los_Angeles,150,True,False,1
+CLB02,10,Sport Climbing,Long Beach Climbing Theater,Long Beach,Preliminary,2028-07-24T13:45:00,2028-07-24T15:25:00,America/Los_Angeles,100,True,False,2
+SAL07,10,"Sailing (Dinghy, Skiff & Multihull)",Port of Los Angeles,Port of Los Angeles,Preliminary,2028-07-24T14:00:00,2028-07-24T20:00:00,America/Los_Angeles,360,True,False,4
+RCB02,10,Rowing Coastal Beach Sprints,Belmont Shore,Long Beach,Final,2028-07-24T14:30:00,2028-07-24T16:50:00,America/Los_Angeles,140,True,False,2
+SHO13,10,Shooting (Rifle & Pistol),Long Beach Target Shooting Hall,Long Beach,Preliminary,2028-07-24T14:30:00,2028-07-24T19:00:00,America/Los_Angeles,270,True,False,1
+BSB17,10,Softball,OKC Softball Park,OKC,Preliminary,2028-07-24T16:00:00,2028-07-24T18:30:00,America/Chicago,150,True,True,1
+HBL37,10,Handball,Long Beach Arena,Long Beach,Quarterfinal,2028-07-24T16:00:00,2028-07-24T18:00:00,America/Los_Angeles,120,True,False,1
+ATH17,10,Athletics (Track & Field),LA Memorial Coliseum,Exposition Park,Final,2028-07-24T16:35:00,2028-07-24T18:25:00,America/Los_Angeles,110,True,False,6
+VBV30,10,Beach Volleyball,Alamitos Beach Stadium,Long Beach,Preliminary,2028-07-24T17:00:00,2028-07-24T19:00:00,America/Los_Angeles,120,True,False,1
+HOC24,10,Hockey,Carson Field,Carson,Quarterfinal,2028-07-24T17:00:00,2028-07-24T22:00:00,America/Los_Angeles,300,True,False,1
+TTE27,10,Table Tennis,LA Convention Center Hall 3,DTLA,Preliminary,2028-07-24T17:00:00,2028-07-24T22:00:00,America/Los_Angeles,300,True,False,1
+VVO39,10,Volleyball,Honda Center,Anaheim,Quarterfinal,2028-07-24T17:00:00,2028-07-24T19:30:00,America/Los_Angeles,150,True,False,1
+CKT20,10,Cricket,Fairgrounds Cricket Stadium,Pomona,Preliminary,2028-07-24T18:00:00,2028-07-24T21:30:00,America/Los_Angeles,210,True,False,1
+SWM06,10,Swimming,2028 Stadium,Inglewood,Final,2028-07-24T18:00:00,2028-07-24T20:00:00,America/Los_Angeles,120,True,False,8
+TEN30,10,Tennis,Carson Center Court,Carson,Quarterfinal,2028-07-24T18:30:00,2028-07-24T23:30:00,America/Los_Angeles,300,True,False,1
+LAC02,10,Lacrosse,Exposition Park Stadium,Exposition Park,Preliminary,2028-07-24T19:00:00,2028-07-24T22:00:00,America/Los_Angeles,180,True,False,1
+WRE02,10,Wrestling,LA Convention Center Hall 2,DTLA,Semifinal,2028-07-24T19:00:00,2028-07-24T20:00:00,America/Los_Angeles,60,True,False,3
+ARC09,10,Archery,Carson Stadium,Carson,Final,2028-07-24T19:30:00,2028-07-24T23:10:00,America/Los_Angeles,220,True,False,4
+HBL38,10,Handball,Long Beach Arena,Long Beach,Quarterfinal,2028-07-24T19:30:00,2028-07-24T21:30:00,America/Los_Angeles,120,True,False,1
+BSB18,10,Softball,OKC Softball Park,OKC,Preliminary,2028-07-24T20:00:00,2028-07-24T22:30:00,America/Chicago,150,True,True,1
+BKB33,10,Basketball,Inglewood Dome,Inglewood,Quarterfinal,2028-07-24T20:00:00,2028-07-24T22:00:00,America/Los_Angeles,120,True,False,1
+BDM26,10,Badminton,Galen Center,Exposition Park,Final,2028-07-24T20:30:00,2028-07-24T23:15:00,America/Los_Angeles,165,True,False,2
+FBL52,10,Football (Soccer) - Final Stages,Rose Bowl Stadium,Pasadena,Semifinal,2028-07-24T20:30:00,2028-07-24T23:30:00,America/Los_Angeles,180,True,False,1
+SQU10,10,Squash,Comcast Squash Center at Universal Studios,Universal City,Final,2028-07-24T20:30:00,2028-07-24T23:30:00,America/Los_Angeles,180,True,False,2
+VBV31,10,Beach Volleyball,Alamitos Beach Stadium,Long Beach,Preliminary,2028-07-24T21:00:00,2028-07-24T23:00:00,America/Los_Angeles,120,True,False,1
+VVO40,10,Volleyball,Honda Center,Anaheim,Quarterfinal,2028-07-24T21:00:00,2028-07-24T23:30:00,America/Los_Angeles,150,True,False,1
+BSB19,11,Softball,OKC Softball Park,OKC,Preliminary,2028-07-25T09:00:00,2028-07-25T11:30:00,America/Chicago,150,True,True,1
+CSP01,11,Canoe Sprint,Marine Stadium,Long Beach,Quarterfinal,2028-07-25T09:00:00,2028-07-25T12:30:00,America/Los_Angeles,210,True,False,8
+CKT21,11,Cricket,Fairgrounds Cricket Stadium,Pomona,Preliminary,2028-07-25T09:00:00,2028-07-25T12:30:00,America/Los_Angeles,210,True,False,1
+CTR01,11,Cycling Track,Carson Velodrome,Carson,Preliminary,2028-07-25T09:00:00,2028-07-25T10:00:00,America/Los_Angeles,60,True,False,2
+EQU13,11,Equestrian,Santa Anita Park,Arcadia,Preliminary,2028-07-25T09:00:00,2028-07-25T12:00:00,America/Los_Angeles,180,True,False,1
+HOC25,11,Hockey,Carson Field,Carson,Quarterfinal,2028-07-25T09:00:00,2028-07-25T14:00:00,America/Los_Angeles,300,True,False,1
+VVO41,11,Volleyball,Honda Center,Anaheim,Quarterfinal,2028-07-25T09:00:00,2028-07-25T11:30:00,America/Los_Angeles,150,True,False,1
+CLB03,11,Sport Climbing,Long Beach Climbing Theater,Long Beach,Semifinal,2028-07-25T09:15:00,2028-07-25T11:25:00,America/Los_Angeles,130,True,False,1
+ARC10,11,Archery,Carson Stadium,Carson,Preliminary,2028-07-25T09:30:00,2028-07-25T12:35:00,America/Los_Angeles,185,True,False,2
+HBL39,11,Handball,Long Beach Arena,Long Beach,Semifinal,2028-07-25T09:30:00,2028-07-25T11:30:00,America/Los_Angeles,120,True,False,1
+SWM07,11,Swimming,2028 Stadium,Inglewood,Preliminary,2028-07-25T09:30:00,2028-07-25T11:30:00,America/Los_Angeles,120,True,False,4
+RCB03,11,Rowing Coastal Beach Sprints,Belmont Shore,Long Beach,Preliminary,2028-07-25T10:00:00,2028-07-25T11:50:00,America/Los_Angeles,110,True,False,3
+TTE28,11,Table Tennis,LA Convention Center Hall 3,DTLA,Preliminary,2028-07-25T10:00:00,2028-07-25T15:00:00,America/Los_Angeles,300,True,False,1
+SKB05,11,Skateboarding (Park),Valley Complex 2,Valley,Preliminary,2028-07-25T10:30:00,2028-07-25T13:30:00,America/Los_Angeles,180,True,False,1
+SWA01,11,Artistic Swimming,Long Beach Aquatics Center,Long Beach,Preliminary,2028-07-25T11:00:00,2028-07-25T13:00:00,America/Los_Angeles,120,True,False,1
+TEN31,11,Tennis,Carson Center Court,Carson,Semifinal,2028-07-25T11:00:00,2028-07-25T16:30:00,America/Los_Angeles,330,True,False,2
+TEN32,11,Tennis,Carson Court 1,Carson,Semifinal,2028-07-25T11:00:00,2028-07-25T20:00:00,America/Los_Angeles,540,True,False,3
+TEN33,11,Tennis,Carson Court 2,Carson,Semifinal,2028-07-25T11:00:00,2028-07-25T20:00:00,America/Los_Angeles,540,True,False,3
+TEN34,11,Tennis,Carson Courts 3-11,Carson,Quarterfinal,2028-07-25T11:00:00,2028-07-25T20:00:00,America/Los_Angeles,540,True,False,1
+WRE03,11,Wrestling,LA Convention Center Hall 2,DTLA,Quarterfinal,2028-07-25T11:00:00,2028-07-25T13:30:00,America/Los_Angeles,150,True,False,9
+DIV13,11,Diving,Rose Bowl Aquatics Center,Pasadena,Final,2028-07-25T11:30:00,2028-07-25T12:30:00,America/Los_Angeles,60,True,False,1
+CTR02,11,Cycling Track,Carson Velodrome,Carson,Final,2028-07-25T12:00:00,2028-07-25T15:00:00,America/Los_Angeles,180,True,False,5
+LAC03,11,Lacrosse,Exposition Park Stadium,Exposition Park,Preliminary,2028-07-25T12:00:00,2028-07-25T15:00:00,America/Los_Angeles,180,True,False,1
+BKB34,11,Basketball,Inglewood Dome,Inglewood,Quarterfinal,2028-07-25T13:00:00,2028-07-25T15:00:00,America/Los_Angeles,120,True,False,1
+VBV32,11,Beach Volleyball,Alamitos Beach Stadium,Long Beach,Quarterfinal,2028-07-25T13:00:00,2028-07-25T15:00:00,America/Los_Angeles,120,True,False,2
+HBL40,11,Handball,Long Beach Arena,Long Beach,Semifinal,2028-07-25T13:00:00,2028-07-25T15:00:00,America/Los_Angeles,120,True,False,1
+VVO42,11,Volleyball,Honda Center,Anaheim,Quarterfinal,2028-07-25T13:00:00,2028-07-25T15:30:00,America/Los_Angeles,150,True,False,1
+RCB04,11,Rowing Coastal Beach Sprints,Belmont Shore,Long Beach,Final,2028-07-25T14:00:00,2028-07-25T15:20:00,America/Los_Angeles,80,True,False,1
+SAL08,11,"Sailing (Dinghy, Skiff & Multihull)",Port of Los Angeles,Port of Los Angeles,Preliminary,2028-07-25T14:00:00,2028-07-25T20:00:00,America/Los_Angeles,360,True,False,6
+SHO14,11,Shooting (Rifle & Pistol),Long Beach Target Shooting Hall,Long Beach,Final,2028-07-25T14:30:00,2028-07-25T21:15:00,America/Los_Angeles,405,True,False,2
+GAR15,11,Artistic Gymnastics,DTLA Arena,DTLA,Final,2028-07-25T16:00:00,2028-07-25T18:30:00,America/Los_Angeles,150,True,False,1
+BSB20,11,Softball,OKC Softball Park,OKC,Preliminary,2028-07-25T16:00:00,2028-07-25T18:30:00,America/Chicago,150,True,True,1
+WLF01,11,Weightlifting,Peacock Theater,DTLA,Final,2028-07-25T16:50:00,2028-07-25T19:00:00,America/Los_Angeles,130,True,False,1
+HOC26,11,Hockey,Carson Field,Carson,Quarterfinal,2028-07-25T17:00:00,2028-07-25T22:00:00,America/Los_Angeles,300,True,False,1
+TTE29,11,Table Tennis,LA Convention Center Hall 3,DTLA,Preliminary,2028-07-25T17:00:00,2028-07-25T22:00:00,America/Los_Angeles,300,True,False,1
+VVO43,11,Volleyball,Honda Center,Anaheim,Quarterfinal,2028-07-25T17:00:00,2028-07-25T19:30:00,America/Los_Angeles,150,True,False,1
+FBL53,11,Football (Soccer) - Final Stages,Rose Bowl Stadium,Pasadena,Semifinal,2028-07-25T17:30:00,2028-07-25T20:30:00,America/Los_Angeles,180,True,False,1
+CKT22,11,Cricket,Fairgrounds Cricket Stadium,Pomona,Preliminary,2028-07-25T18:00:00,2028-07-25T21:30:00,America/Los_Angeles,210,True,False,1
+SWM08,11,Swimming,2028 Stadium,Inglewood,Final,2028-07-25T18:00:00,2028-07-25T20:00:00,America/Los_Angeles,120,True,False,8
+TEN35,11,Tennis,Carson Center Court,Carson,Semifinal,2028-07-25T18:30:00,2028-07-25T23:30:00,America/Los_Angeles,300,True,False,2
+CLB04,11,Sport Climbing,Long Beach Climbing Theater,Long Beach,Semifinal,2028-07-25T18:45:00,2028-07-25T20:00:00,America/Los_Angeles,75,True,False,1
+LAC04,11,Lacrosse,Exposition Park Stadium,Exposition Park,Preliminary,2028-07-25T19:00:00,2028-07-25T22:00:00,America/Los_Angeles,180,True,False,1
+WRE04,11,Wrestling,LA Convention Center Hall 2,DTLA,Final,2028-07-25T19:00:00,2028-07-25T22:45:00,America/Los_Angeles,225,True,False,9
+ARC11,11,Archery,Carson Stadium,Carson,Final,2028-07-25T19:30:00,2028-07-25T23:10:00,America/Los_Angeles,220,True,False,4
+BSB21,11,Softball,OKC Softball Park,OKC,Preliminary,2028-07-25T20:00:00,2028-07-25T22:30:00,America/Chicago,150,True,True,1
+BKB35,11,Basketball,Inglewood Dome,Inglewood,Quarterfinal,2028-07-25T20:00:00,2028-07-25T22:00:00,America/Los_Angeles,120,True,False,1
+VBV33,11,Beach Volleyball,Alamitos Beach Stadium,Long Beach,Quarterfinal,2028-07-25T20:00:00,2028-07-25T22:00:00,America/Los_Angeles,120,True,False,2
+SKB06,11,Skateboarding (Park),Valley Complex 2,Valley,Preliminary,2028-07-25T20:00:00,2028-07-25T23:00:00,America/Los_Angeles,180,True,False,1
+FBL54,11,Football (Soccer) - Final Stages,Rose Bowl Stadium,Pasadena,Semifinal,2028-07-25T20:30:00,2028-07-25T23:30:00,America/Los_Angeles,180,True,False,1
+WLF02,11,Weightlifting,Peacock Theater,DTLA,Final,2028-07-25T20:50:00,2028-07-25T23:00:00,America/Los_Angeles,130,True,False,1
+VVO44,11,Volleyball,Honda Center,Anaheim,Quarterfinal,2028-07-25T21:00:00,2028-07-25T23:30:00,America/Los_Angeles,150,True,False,1
+CTR03,12,Cycling Track,Carson Velodrome,Carson,Preliminary,2028-07-26T08:45:00,2028-07-26T12:15:00,America/Los_Angeles,210,True,False,5
+BSB22,12,Softball,OKC Softball Park,OKC,Preliminary,2028-07-26T09:00:00,2028-07-26T11:30:00,America/Chicago,150,True,True,1
+CSP02,12,Canoe Sprint,Marine Stadium,Long Beach,Final,2028-07-26T09:00:00,2028-07-26T12:40:00,America/Los_Angeles,220,True,False,9
+CKT23,12,Cricket,Fairgrounds Cricket Stadium,Pomona,Preliminary,2028-07-26T09:00:00,2028-07-26T12:30:00,America/Los_Angeles,210,True,False,1
+EQU14,12,Equestrian,Santa Anita Park,Arcadia,Final,2028-07-26T09:00:00,2028-07-26T11:10:00,America/Los_Angeles,130,True,False,1
+GLF07,12,Golf,Riviera Country Club,Riviera,Preliminary,2028-07-26T09:00:00,2028-07-26T18:00:00,America/Los_Angeles,540,True,False,1
+HOC27,12,Hockey,Carson Field,Carson,Semifinal,2028-07-26T09:00:00,2028-07-26T11:00:00,America/Los_Angeles,120,True,False,1
+CLB05,12,Sport Climbing,Long Beach Climbing Theater,Long Beach,Final,2028-07-26T09:00:00,2028-07-26T10:30:00,America/Los_Angeles,90,True,False,6
+TKW01,12,Taekwondo,LA Convention Center Hall 1,DTLA,Preliminary,2028-07-26T09:00:00,2028-07-26T13:00:00,America/Los_Angeles,240,True,False,4
+ARC12,12,Archery,Carson Stadium,Carson,Preliminary,2028-07-26T09:30:00,2028-07-26T12:05:00,America/Los_Angeles,155,True,False,1
+HBL41,12,Handball,Long Beach Arena,Long Beach,Semifinal,2028-07-26T09:30:00,2028-07-26T11:30:00,America/Los_Angeles,120,True,False,1
+SWM09,12,Swimming,2028 Stadium,Inglewood,Preliminary,2028-07-26T09:30:00,2028-07-26T11:30:00,America/Los_Angeles,120,True,False,4
+TTE30,12,Table Tennis,LA Convention Center Hall 3,DTLA,Preliminary,2028-07-26T10:00:00,2028-07-26T15:00:00,America/Los_Angeles,300,True,False,1
+SWA02,12,Artistic Swimming,Long Beach Aquatics Center,Long Beach,Final,2028-07-26T11:00:00,2028-07-26T13:15:00,America/Los_Angeles,135,True,False,1
+TEN36,12,Tennis,Carson Center Court,Carson,Semifinal,2028-07-26T11:00:00,2028-07-26T16:30:00,America/Los_Angeles,330,True,False,1
+VVO45,12,Volleyball,Honda Center,Anaheim,Semifinal,2028-07-26T11:00:00,2028-07-26T13:30:00,America/Los_Angeles,150,True,False,1
+WRE05,12,Wrestling,LA Convention Center Hall 2,DTLA,Quarterfinal,2028-07-26T11:00:00,2028-07-26T13:30:00,America/Los_Angeles,150,True,False,9
+LAC05,12,Lacrosse,Exposition Park Stadium,Exposition Park,Preliminary,2028-07-26T12:00:00,2028-07-26T15:00:00,America/Los_Angeles,180,True,False,1
+VBV34,12,Beach Volleyball,Alamitos Beach Stadium,Long Beach,Quarterfinal,2028-07-26T13:00:00,2028-07-26T15:00:00,America/Los_Angeles,120,True,False,2
+HBL42,12,Handball,Long Beach Arena,Long Beach,Semifinal,2028-07-26T13:00:00,2028-07-26T15:00:00,America/Los_Angeles,120,True,False,1
+CTR04,12,Cycling Track,Carson Velodrome,Carson,Final,2028-07-26T13:45:00,2028-07-26T16:45:00,America/Los_Angeles,180,True,False,6
+DIV14,12,Diving,Rose Bowl Aquatics Center,Pasadena,Final,2028-07-26T14:00:00,2028-07-26T15:00:00,America/Los_Angeles,60,True,False,1
+SAL09,12,"Sailing (Dinghy, Skiff & Multihull)",Port of Los Angeles,Port of Los Angeles,Final,2028-07-26T14:00:00,2028-07-26T20:00:00,America/Los_Angeles,360,True,False,6
+WLF03,12,Weightlifting,Peacock Theater,DTLA,Final,2028-07-26T14:10:00,2028-07-26T19:00:00,America/Los_Angeles,290,True,False,2
+TKW02,12,Taekwondo,LA Convention Center Hall 1,DTLA,Semifinal,2028-07-26T15:00:00,2028-07-26T18:00:00,America/Los_Angeles,180,True,False,4
+BSB23,12,Softball,OKC Softball Park,OKC,Preliminary,2028-07-26T16:00:00,2028-07-26T18:30:00,America/Chicago,150,True,True,1
+BKB36,12,Basketball,Inglewood Dome,Inglewood,Semifinal,2028-07-26T16:00:00,2028-07-26T18:00:00,America/Los_Angeles,120,True,False,1
+VVO46,12,Volleyball,Honda Center,Anaheim,Semifinal,2028-07-26T16:00:00,2028-07-26T18:30:00,America/Los_Angeles,150,True,False,1
+TTE31,12,Table Tennis,LA Convention Center Hall 3,DTLA,Preliminary,2028-07-26T17:00:00,2028-07-26T22:00:00,America/Los_Angeles,300,True,False,1
+CKT24,12,Cricket,Fairgrounds Cricket Stadium,Pomona,Preliminary,2028-07-26T18:00:00,2028-07-26T21:30:00,America/Los_Angeles,210,True,False,1
+SWM10,12,Swimming,2028 Stadium,Inglewood,Final,2028-07-26T18:00:00,2028-07-26T20:00:00,America/Los_Angeles,120,True,False,8
+TEN37,12,Tennis,Carson Center Court,Carson,Semifinal,2028-07-26T18:30:00,2028-07-26T23:30:00,America/Los_Angeles,300,True,False,1
+CLB06,12,Sport Climbing,Long Beach Climbing Theater,Long Beach,Semifinal,2028-07-26T18:45:00,2028-07-26T20:00:00,America/Los_Angeles,75,True,False,1
+LAC06,12,Lacrosse,Exposition Park Stadium,Exposition Park,Preliminary,2028-07-26T19:00:00,2028-07-26T22:00:00,America/Los_Angeles,180,True,False,1
+WRE06,12,Wrestling,LA Convention Center Hall 2,DTLA,Final,2028-07-26T19:00:00,2028-07-26T22:45:00,America/Los_Angeles,225,True,False,9
+TKW03,12,Taekwondo,LA Convention Center Hall 1,DTLA,Final,2028-07-26T19:30:00,2028-07-26T23:00:00,America/Los_Angeles,210,True,False,6
+ARC13,12,Archery,Carson Stadium,Carson,Final,2028-07-26T20:00:00,2028-07-26T23:10:00,America/Los_Angeles,190,True,False,4
+BSB24,12,Softball,OKC Softball Park,OKC,Preliminary,2028-07-26T20:00:00,2028-07-26T22:30:00,America/Chicago,150,True,True,1
+VBV35,12,Beach Volleyball,Alamitos Beach Stadium,Long Beach,Quarterfinal,2028-07-26T20:00:00,2028-07-26T22:00:00,America/Los_Angeles,120,True,False,2
+HOC28,12,Hockey,Carson Field,Carson,Semifinal,2028-07-26T20:00:00,2028-07-26T22:00:00,America/Los_Angeles,120,True,False,1
+SKB07,12,Skateboarding (Park),Valley Complex 2,Valley,Final,2028-07-26T20:00:00,2028-07-26T21:15:00,America/Los_Angeles,75,True,False,1
+WLF04,12,Weightlifting,Peacock Theater,DTLA,Final,2028-07-26T20:50:00,2028-07-26T23:00:00,America/Los_Angeles,130,True,False,1
+BKB37,12,Basketball,Inglewood Dome,Inglewood,Semifinal,2028-07-26T21:30:00,2028-07-26T23:30:00,America/Los_Angeles,120,True,False,1
+ATH18,13,Athletics (Race Walk),TBD,TBD,Final,2028-07-27T07:30:00,2028-07-27T11:35:00,America/Los_Angeles,245,True,False,2
+BSB25,13,Softball,OKC Softball Park,OKC,Preliminary,2028-07-27T09:00:00,2028-07-27T11:30:00,America/Chicago,150,True,True,1
+CSP03,13,Canoe Sprint,Marine Stadium,Long Beach,Quarterfinal,2028-07-27T09:00:00,2028-07-27T13:30:00,America/Los_Angeles,270,True,False,12
+CKT25,13,Cricket,Fairgrounds Cricket Stadium,Pomona,Preliminary,2028-07-27T09:00:00,2028-07-27T12:30:00,America/Los_Angeles,210,True,False,1
+GLF08,13,Golf,Riviera Country Club,Riviera,Preliminary,2028-07-27T09:00:00,2028-07-27T18:00:00,America/Los_Angeles,540,True,False,1
+HOC29,13,Hockey,Carson Field,Carson,Semifinal,2028-07-27T09:00:00,2028-07-27T11:00:00,America/Los_Angeles,120,True,False,1
+CLB07,13,Sport Climbing,Long Beach Climbing Theater,Long Beach,Final,2028-07-27T09:00:00,2028-07-27T10:55:00,America/Los_Angeles,115,True,False,1
+TKW04,13,Taekwondo,LA Convention Center Hall 1,DTLA,Preliminary,2028-07-27T09:00:00,2028-07-27T13:00:00,America/Los_Angeles,240,True,False,4
+ARC14,13,Archery,Carson Stadium,Carson,Preliminary,2028-07-27T09:30:00,2028-07-27T11:15:00,America/Los_Angeles,105,True,False,1
+HBL43,13,Handball,Long Beach Arena,Long Beach,Bronze,2028-07-27T09:30:00,2028-07-27T11:30:00,America/Los_Angeles,120,True,False,1
+SWM11,13,Swimming,2028 Stadium,Inglewood,Preliminary,2028-07-27T09:30:00,2028-07-27T11:30:00,America/Los_Angeles,120,True,False,5
+TTE32,13,Table Tennis,LA Convention Center Hall 3,DTLA,Quarterfinal,2028-07-27T10:00:00,2028-07-27T15:00:00,America/Los_Angeles,300,True,False,1
+SWA03,13,Artistic Swimming,Long Beach Aquatics Center,Long Beach,Preliminary,2028-07-27T11:00:00,2028-07-27T12:30:00,America/Los_Angeles,90,True,False,1
+CTR05,13,Cycling Track,Carson Velodrome,Carson,Final,2028-07-27T11:00:00,2028-07-27T16:05:00,America/Los_Angeles,305,True,False,15
+TEN38,13,Tennis,Carson Center Court,Carson,Final,2028-07-27T11:00:00,2028-07-27T16:30:00,America/Los_Angeles,330,True,False,4
+VVO47,13,Volleyball,Honda Center,Anaheim,Semifinal,2028-07-27T11:00:00,2028-07-27T13:30:00,America/Los_Angeles,150,True,False,1
+WRE07,13,Wrestling,LA Convention Center Hall 2,DTLA,Quarterfinal,2028-07-27T11:00:00,2028-07-27T13:30:00,America/Los_Angeles,150,True,False,9
+BOX18,13,Boxing - Final Stages,DTLA Arena,DTLA,Final,2028-07-27T12:00:00,2028-07-27T14:00:00,America/Los_Angeles,120,True,False,4
+LAC07,13,Lacrosse,Exposition Park Stadium,Exposition Park,Preliminary,2028-07-27T12:00:00,2028-07-27T15:00:00,America/Los_Angeles,180,True,False,1
+GRY01,13,Rhythmic Gymnastics,Galen Center,Exposition Park,Preliminary,2028-07-27T12:30:00,2028-07-27T15:45:00,America/Los_Angeles,195,True,False,1
+VBV36,13,Beach Volleyball,Alamitos Beach Stadium,Long Beach,Semifinal,2028-07-27T13:00:00,2028-07-27T15:00:00,America/Los_Angeles,120,True,False,2
+HBL44,13,Handball,Long Beach Arena,Long Beach,Final,2028-07-27T13:00:00,2028-07-27T15:30:00,America/Los_Angeles,150,True,False,1
+DIV15,13,Diving,Rose Bowl Aquatics Center,Pasadena,Final,2028-07-27T14:00:00,2028-07-27T15:00:00,America/Los_Angeles,60,True,False,1
+SAL10,13,"Sailing (Dinghy, Skiff & Multihull)",Port of Los Angeles,Port of Los Angeles,Final,2028-07-27T14:00:00,2028-07-27T20:00:00,America/Los_Angeles,360,True,False,4
+WLF05,13,Weightlifting,Peacock Theater,DTLA,Final,2028-07-27T14:10:00,2028-07-27T19:00:00,America/Los_Angeles,290,True,False,2
+TKW05,13,Taekwondo,LA Convention Center Hall 1,DTLA,Semifinal,2028-07-27T15:00:00,2028-07-27T18:00:00,America/Los_Angeles,180,True,False,4
+BSB26,13,Softball,OKC Softball Park,OKC,Preliminary,2028-07-27T16:00:00,2028-07-27T18:30:00,America/Chicago,150,True,True,1
+BKB38,13,Basketball,Inglewood Dome,Inglewood,Semifinal,2028-07-27T16:00:00,2028-07-27T18:00:00,America/Los_Angeles,120,True,False,1
+VVO48,13,Volleyball,Honda Center,Anaheim,Semifinal,2028-07-27T16:00:00,2028-07-27T18:30:00,America/Los_Angeles,150,True,False,1
+TTE33,13,Table Tennis,LA Convention Center Hall 3,DTLA,Quarterfinal,2028-07-27T17:00:00,2028-07-27T22:00:00,America/Los_Angeles,300,True,False,1
+GRY02,13,Rhythmic Gymnastics,Galen Center,Exposition Park,Preliminary,2028-07-27T17:30:00,2028-07-27T20:45:00,America/Los_Angeles,195,True,False,1
+BOX19,13,Boxing - Final Stages,DTLA Arena,DTLA,Final,2028-07-27T18:00:00,2028-07-27T20:00:00,America/Los_Angeles,120,True,False,4
+CKT26,13,Cricket,Fairgrounds Cricket Stadium,Pomona,Preliminary,2028-07-27T18:00:00,2028-07-27T21:30:00,America/Los_Angeles,210,True,False,1
+FBL55,13,Football (Soccer) - Final Stages,Rose Bowl Stadium,Pasadena,Bronze,2028-07-27T18:00:00,2028-07-27T21:00:00,America/Los_Angeles,180,True,False,1
+SWM12,13,Swimming,2028 Stadium,Inglewood,Final,2028-07-27T18:00:00,2028-07-27T20:00:00,America/Los_Angeles,120,True,False,8
+TEN39,13,Tennis,Carson Center Court,Carson,Final,2028-07-27T18:30:00,2028-07-27T00:00:00,America/Los_Angeles,-1110,True,False,4
+LAC08,13,Lacrosse,Exposition Park Stadium,Exposition Park,Preliminary,2028-07-27T19:00:00,2028-07-27T22:00:00,America/Los_Angeles,180,True,False,1
+WRE08,13,Wrestling,LA Convention Center Hall 2,DTLA,Final,2028-07-27T19:00:00,2028-07-27T22:45:00,America/Los_Angeles,225,True,False,9
+HOC30,13,Hockey,Carson Field,Carson,Semifinal,2028-07-27T19:30:00,2028-07-27T21:30:00,America/Los_Angeles,120,True,False,1
+TKW06,13,Taekwondo,LA Convention Center Hall 1,DTLA,Final,2028-07-27T19:30:00,2028-07-27T23:00:00,America/Los_Angeles,210,True,False,6
+BSB27,13,Softball,OKC Softball Park,OKC,Preliminary,2028-07-27T20:00:00,2028-07-27T22:30:00,America/Chicago,150,True,True,1
+VBV37,13,Beach Volleyball,Alamitos Beach Stadium,Long Beach,Semifinal,2028-07-27T20:00:00,2028-07-27T22:00:00,America/Los_Angeles,120,True,False,2
+SKB08,13,Skateboarding (Park),Valley Complex 2,Valley,Final,2028-07-27T20:00:00,2028-07-27T21:15:00,America/Los_Angeles,75,True,False,1
+ARC15,13,Archery,Carson Stadium,Carson,Final,2028-07-27T20:30:00,2028-07-27T22:50:00,America/Los_Angeles,140,True,False,4
+WLF06,13,Weightlifting,Peacock Theater,DTLA,Final,2028-07-27T20:50:00,2028-07-27T23:00:00,America/Los_Angeles,130,True,False,1
+BKB39,13,Basketball,Inglewood Dome,Inglewood,Semifinal,2028-07-27T21:30:00,2028-07-27T23:30:00,America/Los_Angeles,120,True,False,1
+EQU15,14,Equestrian,Santa Anita Park,Arcadia,Preliminary,2028-07-28T08:00:00,2028-07-28T12:00:00,America/Los_Angeles,240,True,False,1
+CSP04,14,Canoe Sprint,Marine Stadium,Long Beach,Final,2028-07-28T09:00:00,2028-07-28T12:40:00,America/Los_Angeles,220,True,False,10
+CKT27,14,Cricket,Fairgrounds Cricket Stadium,Pomona,Bronze,2028-07-28T09:00:00,2028-07-28T12:30:00,America/Los_Angeles,210,True,False,1
+CTR06,14,Cycling Track,Carson Velodrome,Carson,Semifinal,2028-07-28T09:00:00,2028-07-28T11:20:00,America/Los_Angeles,140,True,False,6
+GLF09,14,Golf,Riviera Country Club,Riviera,Preliminary,2028-07-28T09:00:00,2028-07-28T18:00:00,America/Los_Angeles,540,True,False,1
+CLB08,14,Sport Climbing,Long Beach Climbing Theater,Long Beach,Final,2028-07-28T09:00:00,2028-07-28T10:55:00,America/Los_Angeles,115,True,False,1
+TKW07,14,Taekwondo,LA Convention Center Hall 1,DTLA,Preliminary,2028-07-28T09:00:00,2028-07-28T13:00:00,America/Los_Angeles,240,True,False,4
+ARC16,14,Archery,Carson Stadium,Carson,Preliminary,2028-07-28T09:30:00,2028-07-28T11:15:00,America/Los_Angeles,105,True,False,1
+HBL45,14,Handball,Long Beach Arena,Long Beach,Bronze,2028-07-28T09:30:00,2028-07-28T11:30:00,America/Los_Angeles,120,True,False,1
+SWM13,14,Swimming,2028 Stadium,Inglewood,Preliminary,2028-07-28T09:30:00,2028-07-28T11:30:00,America/Los_Angeles,120,True,False,5
+BMF01,14,BMX Freestyle,Valley Complex 1,Valley,Preliminary,2028-07-28T10:30:00,2028-07-28T13:30:00,America/Los_Angeles,180,True,False,2
+HOC31,14,Hockey,Carson Field,Carson,Bronze,2028-07-28T10:30:00,2028-07-28T12:30:00,America/Los_Angeles,120,True,False,1
+SWA04,14,Artistic Swimming,Long Beach Aquatics Center,Long Beach,Preliminary,2028-07-28T11:00:00,2028-07-28T12:30:00,America/Los_Angeles,90,True,False,1
+TEN40,14,Tennis,Carson Center Court,Carson,Final,2028-07-28T11:00:00,2028-07-28T16:30:00,America/Los_Angeles,330,True,False,4
+WRE09,14,Wrestling,LA Convention Center Hall 2,DTLA,Quarterfinal,2028-07-28T11:00:00,2028-07-28T13:30:00,America/Los_Angeles,150,True,False,9
+BOX20,14,Boxing - Final Stages,DTLA Arena,DTLA,Final,2028-07-28T12:00:00,2028-07-28T13:30:00,America/Los_Angeles,90,True,False,3
+LAC09,14,Lacrosse,Exposition Park Stadium,Exposition Park,Preliminary,2028-07-28T12:00:00,2028-07-28T15:00:00,America/Los_Angeles,180,True,False,1
+TTE34,14,Table Tennis,LA Convention Center Hall 3,DTLA,Semifinal,2028-07-28T12:30:00,2028-07-28T15:00:00,America/Los_Angeles,150,True,False,1
+CTR07,14,Cycling Track,Carson Velodrome,Carson,Final,2028-07-28T13:00:00,2028-07-28T15:15:00,America/Los_Angeles,135,True,False,6
+FBL56,14,Football (Soccer) - Final Stages,Rose Bowl Stadium,Pasadena,Bronze,2028-07-28T13:00:00,2028-07-28T16:00:00,America/Los_Angeles,180,True,False,1
+HBL46,14,Handball,Long Beach Arena,Long Beach,Final,2028-07-28T13:00:00,2028-07-28T15:30:00,America/Los_Angeles,150,True,False,1
+GRY03,14,Rhythmic Gymnastics,Galen Center,Exposition Park,Preliminary,2028-07-28T13:00:00,2028-07-28T15:45:00,America/Los_Angeles,165,True,False,1
+CLB09,14,Sport Climbing,Long Beach Climbing Theater,Long Beach,Final,2028-07-28T13:45:00,2028-07-28T15:00:00,America/Los_Angeles,75,True,False,1
+SAL11,14,"Sailing (Dinghy, Skiff & Multihull)",Port of Los Angeles,Port of Los Angeles,Final,2028-07-28T14:00:00,2028-07-28T17:00:00,America/Los_Angeles,180,True,False,2
+TKW08,14,Taekwondo,LA Convention Center Hall 1,DTLA,Semifinal,2028-07-28T15:00:00,2028-07-28T18:00:00,America/Los_Angeles,180,True,False,4
+VBV38,14,Beach Volleyball,Alamitos Beach Stadium,Long Beach,Final,2028-07-28T15:30:00,2028-07-28T18:30:00,America/Los_Angeles,180,True,False,2
+BKB40,14,Basketball,Inglewood Dome,Inglewood,Bronze,2028-07-28T16:00:00,2028-07-28T18:00:00,America/Los_Angeles,120,True,False,1
+DIV16,14,Diving,Rose Bowl Aquatics Center,Pasadena,Final,2028-07-28T16:00:00,2028-07-28T17:00:00,America/Los_Angeles,60,True,False,1
+WLF07,14,Weightlifting,Peacock Theater,DTLA,Final,2028-07-28T16:50:00,2028-07-28T19:00:00,America/Los_Angeles,130,True,False,1
+BOX21,14,Boxing - Final Stages,DTLA Arena,DTLA,Final,2028-07-28T18:00:00,2028-07-28T19:30:00,America/Los_Angeles,90,True,False,3
+FBL57,14,Football (Soccer) - Final Stages,Rose Bowl Stadium,Pasadena,Final,2028-07-28T18:00:00,2028-07-28T21:00:00,America/Los_Angeles,180,True,False,1
+GRY04,14,Rhythmic Gymnastics,Galen Center,Exposition Park,Final,2028-07-28T18:00:00,2028-07-28T20:45:00,America/Los_Angeles,165,True,False,1
+SWM14,14,Swimming,2028 Stadium,Inglewood,Final,2028-07-28T18:00:00,2028-07-28T20:00:00,America/Los_Angeles,120,True,False,7
+TEN41,14,Tennis,Carson Center Court,Carson,Final,2028-07-28T18:30:00,2028-07-28T00:00:00,America/Los_Angeles,-1110,True,False,4
+BSB28,14,Softball,OKC Softball Park,OKC,Bronze,2028-07-28T19:00:00,2028-07-28T21:30:00,America/Chicago,150,True,True,1
+LAC10,14,Lacrosse,Exposition Park Stadium,Exposition Park,Preliminary,2028-07-28T19:00:00,2028-07-28T22:00:00,America/Los_Angeles,180,True,False,1
+WRE10,14,Wrestling,LA Convention Center Hall 2,DTLA,Final,2028-07-28T19:00:00,2028-07-28T22:45:00,America/Los_Angeles,225,True,False,9
+TKW09,14,Taekwondo,LA Convention Center Hall 1,DTLA,Final,2028-07-28T19:30:00,2028-07-28T23:00:00,America/Los_Angeles,210,True,False,6
+TTE35,14,Table Tennis,LA Convention Center Hall 3,DTLA,Semifinal,2028-07-28T20:00:00,2028-07-28T22:30:00,America/Los_Angeles,150,True,False,1
+ARC17,14,Archery,Carson Stadium,Carson,Final,2028-07-28T20:30:00,2028-07-28T22:50:00,America/Los_Angeles,140,True,False,4
+VVO49,14,Volleyball,Honda Center,Anaheim,Bronze,2028-07-28T20:30:00,2028-07-28T23:00:00,America/Los_Angeles,150,True,False,1
+WLF08,14,Weightlifting,Peacock Theater,DTLA,Final,2028-07-28T20:50:00,2028-07-28T23:00:00,America/Los_Angeles,130,True,False,1
+HOC32,14,Hockey,Carson Field,Carson,Final,2028-07-28T21:00:00,2028-07-28T23:30:00,America/Los_Angeles,150,True,False,1
+ATH19,15,Athletics (Marathon),Venice Beach Boardwalk - Start,Venice,Final,2028-07-29T07:15:00,2028-07-29T10:15:00,America/Los_Angeles,180,True,False,1
+BSB29,15,Softball,OKC Softball Park,OKC,Final,2028-07-29T09:00:00,2028-07-29T11:45:00,America/Chicago,165,True,True,1
+CSP05,15,Canoe Sprint,Marine Stadium,Long Beach,Final,2028-07-29T09:00:00,2028-07-29T12:55:00,America/Los_Angeles,235,True,False,10
+CKT28,15,Cricket,Fairgrounds Cricket Stadium,Pomona,Final,2028-07-29T09:00:00,2028-07-29T13:00:00,America/Los_Angeles,240,True,False,1
+EQU16,15,Equestrian,Santa Anita Park,Arcadia,Final,2028-07-29T09:00:00,2028-07-29T11:00:00,America/Los_Angeles,120,True,False,1
+GLF10,15,Golf,Riviera Country Club,Riviera,Final,2028-07-29T09:00:00,2028-07-29T18:30:00,America/Los_Angeles,570,True,False,1
+TKW10,15,Taekwondo,LA Convention Center Hall 1,DTLA,Preliminary,2028-07-29T09:00:00,2028-07-29T13:00:00,America/Los_Angeles,240,True,False,3
+CLB10,15,Sport Climbing,Long Beach Climbing Theater,Long Beach,Final,2028-07-29T09:30:00,2028-07-29T10:45:00,America/Los_Angeles,75,True,False,1
+SWM15,15,Swimming,2028 Stadium,Inglewood,Preliminary,2028-07-29T09:30:00,2028-07-29T11:30:00,America/Los_Angeles,120,True,False,5
+VVO50,15,Volleyball,Honda Center,Anaheim,Final,2028-07-29T10:00:00,2028-07-29T13:15:00,America/Los_Angeles,195,True,False,1
+BMF02,15,BMX Freestyle,Valley Complex 1,Valley,Final,2028-07-29T10:30:00,2028-07-29T13:50:00,America/Los_Angeles,200,True,False,2
+HOC33,15,Hockey,Carson Field,Carson,Bronze,2028-07-29T10:30:00,2028-07-29T12:30:00,America/Los_Angeles,120,True,False,1
+SWA05,15,Artistic Swimming,Long Beach Aquatics Center,Long Beach,Final,2028-07-29T10:45:00,2028-07-29T12:30:00,America/Los_Angeles,105,True,False,1
+CTR08,15,Cycling Track,Carson Velodrome,Carson,Final,2028-07-29T11:00:00,2028-07-29T14:35:00,America/Los_Angeles,215,True,False,9
+WRE11,15,Wrestling,LA Convention Center Hall 2,DTLA,Quarterfinal,2028-07-29T11:00:00,2028-07-29T13:30:00,America/Los_Angeles,150,True,False,9
+BKB41,15,Basketball,Inglewood Dome,Inglewood,Bronze,2028-07-29T12:00:00,2028-07-29T14:00:00,America/Los_Angeles,120,True,False,1
+BOX22,15,Boxing - Final Stages,DTLA Arena,DTLA,Final,2028-07-29T12:00:00,2028-07-29T13:30:00,America/Los_Angeles,90,True,False,3
+FBL58,15,Football (Soccer) - Final Stages,Rose Bowl Stadium,Pasadena,Final,2028-07-29T12:30:00,2028-07-29T15:30:00,America/Los_Angeles,180,True,False,1
+TTE36,15,Table Tennis,LA Convention Center Hall 3,DTLA,Bronze,2028-07-29T12:30:00,2028-07-29T15:00:00,America/Los_Angeles,150,True,False,1
+GRY05,15,Rhythmic Gymnastics,Galen Center,Exposition Park,Final,2028-07-29T13:00:00,2028-07-29T14:45:00,America/Los_Angeles,105,True,False,1
+LAC11,15,Lacrosse,Exposition Park Stadium,Exposition Park,Final,2028-07-29T13:30:00,2028-07-29T16:00:00,America/Los_Angeles,150,True,False,2
+VVO51,15,Volleyball,Honda Center,Anaheim,Bronze,2028-07-29T14:45:00,2028-07-29T17:15:00,America/Los_Angeles,150,True,False,1
+TKW11,15,Taekwondo,LA Convention Center Hall 1,DTLA,Semifinal,2028-07-29T15:00:00,2028-07-29T18:00:00,America/Los_Angeles,180,True,False,4
+BKB42,15,Basketball,Inglewood Dome,Inglewood,Final,2028-07-29T16:00:00,2028-07-29T18:15:00,America/Los_Angeles,135,True,False,1
+WLF09,15,Weightlifting,Peacock Theater,DTLA,Final,2028-07-29T16:50:00,2028-07-29T19:00:00,America/Los_Angeles,130,True,False,1
+BOX23,15,Boxing - Final Stages,DTLA Arena,DTLA,Final,2028-07-29T18:00:00,2028-07-29T20:00:00,America/Los_Angeles,120,True,False,4
+SWM16,15,Swimming,2028 Stadium,Inglewood,Final,2028-07-29T18:00:00,2028-07-29T20:00:00,America/Los_Angeles,120,True,False,7
+VBV39,15,Beach Volleyball,Alamitos Beach Stadium,Long Beach,Final,2028-07-29T19:00:00,2028-07-29T22:00:00,America/Los_Angeles,180,True,False,2
+WRE12,15,Wrestling,LA Convention Center Hall 2,DTLA,Final,2028-07-29T19:00:00,2028-07-29T22:45:00,America/Los_Angeles,225,True,False,9
+TKW12,15,Taekwondo,LA Convention Center Hall 1,DTLA,Final,2028-07-29T19:30:00,2028-07-29T23:00:00,America/Los_Angeles,210,True,False,6
+TTE37,15,Table Tennis,LA Convention Center Hall 3,DTLA,Final,2028-07-29T20:00:00,2028-07-29T22:45:00,America/Los_Angeles,165,True,False,1
+LAC12,15,Lacrosse,Exposition Park Stadium,Exposition Park,Final,2028-07-29T20:30:00,2028-07-29T23:00:00,America/Los_Angeles,150,True,False,2
+WLF10,15,Weightlifting,Peacock Theater,DTLA,Final,2028-07-29T20:50:00,2028-07-29T23:00:00,America/Los_Angeles,130,True,False,1
+HOC34,15,Hockey,Carson Field,Carson,Final,2028-07-29T21:00:00,2028-07-29T23:30:00,America/Los_Angeles,150,True,False,1
+ATH20,16,Athletics (Marathon),Venice Beach Boardwalk - Start,Venice,Final,2028-07-30T07:15:00,2028-07-30T10:15:00,America/Los_Angeles,180,True,False,1
+CTR09,16,Cycling Track,Carson Velodrome,Carson,Final,2028-07-30T08:45:00,2028-07-30T12:35:00,America/Los_Angeles,230,True,False,14
+VVO52,16,Volleyball,Honda Center,Anaheim,Final,2028-07-30T10:00:00,2028-07-30T13:15:00,America/Los_Angeles,195,True,False,1
+WRE13,16,Wrestling,LA Convention Center Hall 2,DTLA,Final,2028-07-30T11:00:00,2028-07-30T14:30:00,America/Los_Angeles,210,True,False,9
+BOX24,16,Boxing - Final Stages,DTLA Arena,DTLA,Final,2028-07-30T12:00:00,2028-07-30T14:00:00,America/Los_Angeles,120,True,False,4
+BKB43,16,Basketball,Inglewood Dome,Inglewood,Final,2028-07-30T12:45:00,2028-07-30T15:00:00,America/Los_Angeles,135,True,False,1
+SWM17,16,Swimming,2028 Stadium,Inglewood,Final,2028-07-30T15:00:00,2028-07-30T16:30:00,America/Los_Angeles,90,True,False,5

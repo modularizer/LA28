@@ -1,0 +1,379 @@
+[
+  {
+    "venue": "2028 Stadium",
+    "zone": "Inglewood",
+    "in_okc": false,
+    "sports": [
+      "Swimming"
+    ]
+  },
+  {
+    "venue": "Alamitos Beach Stadium",
+    "zone": "Long Beach",
+    "in_okc": false,
+    "sports": [
+      "Beach Volleyball"
+    ]
+  },
+  {
+    "venue": "Belmont Shore",
+    "zone": "Long Beach",
+    "in_okc": false,
+    "sports": [
+      "Open Water Swimming",
+      "Rowing Coastal Beach Sprints",
+      "Sailing (Windsurfing & Kite)"
+    ]
+  },
+  {
+    "venue": "Carson Center Court",
+    "zone": "Carson",
+    "in_okc": false,
+    "sports": [
+      "Tennis"
+    ]
+  },
+  {
+    "venue": "Carson Court 1",
+    "zone": "Carson",
+    "in_okc": false,
+    "sports": [
+      "Tennis"
+    ]
+  },
+  {
+    "venue": "Carson Court 2",
+    "zone": "Carson",
+    "in_okc": false,
+    "sports": [
+      "Tennis"
+    ]
+  },
+  {
+    "venue": "Carson Courts 3-11",
+    "zone": "Carson",
+    "in_okc": false,
+    "sports": [
+      "Tennis"
+    ]
+  },
+  {
+    "venue": "Carson Field",
+    "zone": "Carson",
+    "in_okc": false,
+    "sports": [
+      "Hockey"
+    ]
+  },
+  {
+    "venue": "Carson Stadium",
+    "zone": "Carson",
+    "in_okc": false,
+    "sports": [
+      "Archery",
+      "Rugby Sevens"
+    ]
+  },
+  {
+    "venue": "Carson Velodrome",
+    "zone": "Carson",
+    "in_okc": false,
+    "sports": [
+      "Cycling Track"
+    ]
+  },
+  {
+    "venue": "Comcast Squash Center at Universal Studios",
+    "zone": "Universal City",
+    "in_okc": false,
+    "sports": [
+      "Squash"
+    ]
+  },
+  {
+    "venue": "DTLA Arena",
+    "zone": "DTLA",
+    "in_okc": false,
+    "sports": [
+      "Artistic Gymnastics",
+      "Boxing - Final Stages",
+      "Trampoline Gymnastics"
+    ]
+  },
+  {
+    "venue": "Dodger Stadium",
+    "zone": "DTLA",
+    "in_okc": false,
+    "sports": [
+      "Baseball"
+    ]
+  },
+  {
+    "venue": "Exposition Park Stadium",
+    "zone": "Exposition Park",
+    "in_okc": false,
+    "sports": [
+      "Flag Football",
+      "Lacrosse"
+    ]
+  },
+  {
+    "venue": "Fairgrounds Cricket Stadium",
+    "zone": "Pomona",
+    "in_okc": false,
+    "sports": [
+      "Cricket"
+    ]
+  },
+  {
+    "venue": "Galen Center",
+    "zone": "Exposition Park",
+    "in_okc": false,
+    "sports": [
+      "Badminton",
+      "Rhythmic Gymnastics"
+    ]
+  },
+  {
+    "venue": "Honda Center",
+    "zone": "Anaheim",
+    "in_okc": false,
+    "sports": [
+      "Volleyball"
+    ]
+  },
+  {
+    "venue": "Industry Hills MTB Course",
+    "zone": "City of Industry",
+    "in_okc": false,
+    "sports": [
+      "Mountain Bike"
+    ]
+  },
+  {
+    "venue": "Inglewood Dome",
+    "zone": "Inglewood",
+    "in_okc": false,
+    "sports": [
+      "Basketball"
+    ]
+  },
+  {
+    "venue": "LA Convention Center Hall 1",
+    "zone": "DTLA",
+    "in_okc": false,
+    "sports": [
+      "Fencing",
+      "Taekwondo"
+    ]
+  },
+  {
+    "venue": "LA Convention Center Hall 2",
+    "zone": "DTLA",
+    "in_okc": false,
+    "sports": [
+      "Judo",
+      "Wrestling"
+    ]
+  },
+  {
+    "venue": "LA Convention Center Hall 3",
+    "zone": "DTLA",
+    "in_okc": false,
+    "sports": [
+      "Table Tennis"
+    ]
+  },
+  {
+    "venue": "LA Memorial Coliseum",
+    "zone": "Exposition Park",
+    "in_okc": false,
+    "sports": [
+      "Athletics (Track & Field)"
+    ]
+  },
+  {
+    "venue": "Long Beach Aquatics Center",
+    "zone": "Long Beach",
+    "in_okc": false,
+    "sports": [
+      "Artistic Swimming",
+      "Water Polo"
+    ]
+  },
+  {
+    "venue": "Long Beach Arena",
+    "zone": "Long Beach",
+    "in_okc": false,
+    "sports": [
+      "Handball"
+    ]
+  },
+  {
+    "venue": "Long Beach Climbing Theater",
+    "zone": "Long Beach",
+    "in_okc": false,
+    "sports": [
+      "Sport Climbing"
+    ]
+  },
+  {
+    "venue": "Long Beach Target Shooting Hall",
+    "zone": "Long Beach",
+    "in_okc": false,
+    "sports": [
+      "Shooting (Rifle & Pistol)"
+    ]
+  },
+  {
+    "venue": "Marine Stadium",
+    "zone": "Long Beach",
+    "in_okc": false,
+    "sports": [
+      "Canoe Sprint",
+      "Rowing"
+    ]
+  },
+  {
+    "venue": "OKC Softball Park",
+    "zone": "OKC",
+    "in_okc": true,
+    "sports": [
+      "Softball"
+    ]
+  },
+  {
+    "venue": "OKC Whitewater Center",
+    "zone": "OKC",
+    "in_okc": true,
+    "sports": [
+      "Canoe Slalom"
+    ]
+  },
+  {
+    "venue": "Peacock Theater",
+    "zone": "DTLA",
+    "in_okc": false,
+    "sports": [
+      "Boxing - Preliminary Stages",
+      "Weightlifting"
+    ]
+  },
+  {
+    "venue": "Port of Los Angeles",
+    "zone": "Port of Los Angeles",
+    "in_okc": false,
+    "sports": [
+      "Sailing (Dinghy, Skiff & Multihull)"
+    ]
+  },
+  {
+    "venue": "Riviera Country Club",
+    "zone": "Riviera",
+    "in_okc": false,
+    "sports": [
+      "Golf"
+    ]
+  },
+  {
+    "venue": "Rose Bowl Aquatics Center",
+    "zone": "Pasadena",
+    "in_okc": false,
+    "sports": [
+      "Diving"
+    ]
+  },
+  {
+    "venue": "Rose Bowl Stadium",
+    "zone": "Pasadena",
+    "in_okc": false,
+    "sports": [
+      "Football (Soccer) - Final Stages"
+    ]
+  },
+  {
+    "venue": "Santa Anita Park",
+    "zone": "Arcadia",
+    "in_okc": false,
+    "sports": [
+      "Equestrian"
+    ]
+  },
+  {
+    "venue": "TBD",
+    "zone": "TBD",
+    "in_okc": false,
+    "sports": [
+      "Athletics (Race Walk)",
+      "Cycling Road (Time Trial)",
+      "Football (Soccer) - Preliminary Stages"
+    ]
+  },
+  {
+    "venue": "Trestles State Beach",
+    "zone": "Trestles Beach",
+    "in_okc": false,
+    "sports": [
+      "Surfing"
+    ]
+  },
+  {
+    "venue": "Valley Complex 1",
+    "zone": "Valley",
+    "in_okc": false,
+    "sports": [
+      "BMX Freestyle",
+      "Skateboarding (Street)"
+    ]
+  },
+  {
+    "venue": "Valley Complex 2",
+    "zone": "Valley",
+    "in_okc": false,
+    "sports": [
+      "Modern Pentathlon",
+      "Skateboarding (Park)"
+    ]
+  },
+  {
+    "venue": "Valley Complex 3",
+    "zone": "Valley",
+    "in_okc": false,
+    "sports": [
+      "3x3 Basketball"
+    ]
+  },
+  {
+    "venue": "Valley Complex 4",
+    "zone": "Valley",
+    "in_okc": false,
+    "sports": [
+      "BMX Racing"
+    ]
+  },
+  {
+    "venue": "Venice Beach",
+    "zone": "Venice",
+    "in_okc": false,
+    "sports": [
+      "Triathlon"
+    ]
+  },
+  {
+    "venue": "Venice Beach Boardwalk - Start",
+    "zone": "Venice",
+    "in_okc": false,
+    "sports": [
+      "Athletics (Marathon)",
+      "Cycling Road (Road Race)"
+    ]
+  },
+  {
+    "venue": "Whittier Narrows Clay Shooting Center",
+    "zone": "Whittier Narrows",
+    "in_okc": false,
+    "sports": [
+      "Shooting (Shotgun)"
+    ]
+  }
+]
